@@ -1,0 +1,557 @@
+<!DOCTYPE html> <html><head>
+		<title>Detection Tools</title>
+		<base href="../">
+		<meta id="root-path" root-path="../">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
+		<meta charset="UTF-8">
+		<meta name="description" content="Table of Contents - Detection Tools">
+		<meta property="og:title" content="Detection Tools">
+		<meta property="og:description" content="Table of Contents - Detection Tools">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://chris-adams-tech.github.io/detection-engineering/detection-tools.html">
+		<meta property="og:image" content="undefined">
+		<meta property="og:site_name" content="Table of Contents">
+		<meta name="author" content="Chris Adams"><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://chris-adams-tech.github.io/lib/rss.xml"><script async="" id="webpage-script" src="lib/scripts/webpage.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script type="module" async="" id="graph-view-script" src="lib/scripts/graph-view.js"></script><script async="" id="graph-wasm-script" src="lib/scripts/graph-wasm.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="graph-render-worker-script" src="lib/scripts/graph-render-worker.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="tinycolor-script" src="lib/scripts/tinycolor.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="pixi-script" src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/7.4.0/pixi.min.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="minisearch-script" src="https://cdn.jsdelivr.net/npm/minisearch@6.3.0/dist/umd/index.min.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><link rel="icon" href="lib/media/favicon.jpg"><script async="" id="graph-data-script" src="lib/scripts/graph-data.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><style>body{--line-width:40em;--line-width-adaptive:40em;--file-line-width:40em;--sidebar-width:min(20em, 80vw);--collapse-arrow-size:11px;--tree-horizontal-spacing:0.6em;--tree-vertical-spacing:0.6em;--sidebar-margin:12px}.sidebar{height:100%;min-width:calc(var(--sidebar-width) + var(--divider-width-hover));max-width:calc(var(--sidebar-width) + var(--divider-width-hover));font-size:14px;z-index:10;position:relative;overflow:hidden;transition:min-width ease-in-out,max-width ease-in-out;transition-duration:.2s;contain:size}.sidebar-left{left:0}.sidebar-right{right:0}.sidebar.is-collapsed{min-width:0;max-width:0}body.floating-sidebars .sidebar{position:absolute}.sidebar-content{height:100%;min-width:calc(var(--sidebar-width) - var(--divider-width-hover));top:0;padding:var(--sidebar-margin);padding-top:4em;line-height:var(--line-height-tight);background-color:var(--background-secondary);transition:background-color,border-right,border-left,box-shadow;transition-duration:var(--color-fade-speed);transition-timing-function:ease-in-out;position:absolute;display:flex;flex-direction:column}.sidebar:not(.is-collapsed) .sidebar-content{min-width:calc(max(100%,var(--sidebar-width)) - 3px);max-width:calc(max(100%,var(--sidebar-width)) - 3px)}.sidebar-left .sidebar-content{left:0;border-top-right-radius:var(--radius-l);border-bottom-right-radius:var(--radius-l)}.sidebar-right .sidebar-content{right:0;border-top-left-radius:var(--radius-l);border-bottom-left-radius:var(--radius-l)}.sidebar:has(.sidebar-content:empty):has(.topbar-content:empty){display:none}.sidebar-topbar{height:2em;width:var(--sidebar-width);top:var(--sidebar-margin);padding-inline:var(--sidebar-margin);z-index:1;position:fixed;display:flex;align-items:center;transition:width ease-in-out;transition-duration:inherit}.sidebar.is-collapsed .sidebar-topbar{width:calc(2.3em + var(--sidebar-margin) * 2)}.sidebar .sidebar-topbar.is-collapsed{width:0}.sidebar-left .sidebar-topbar{left:0}.sidebar-right .sidebar-topbar{right:0}.topbar-content{overflow:hidden;overflow:clip;width:100%;height:100%;display:flex;align-items:center;transition:inherit}.sidebar.is-collapsed .topbar-content{width:0;transition:inherit}.clickable-icon.sidebar-collapse-icon{background-color:transparent;color:var(--icon-color-focused);padding:0!important;margin:0!important;height:100%!important;width:2.3em!important;margin-inline:0.14em!important;position:absolute}.sidebar-left .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);right:var(--sidebar-margin)}.sidebar-right .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);left:var(--sidebar-margin)}.clickable-icon.sidebar-collapse-icon svg.svg-icon{width:100%;height:100%}.sidebar-section-header{margin:0 0 1em 0;text-transform:uppercase;letter-spacing:.06em;font-weight:600}body{transition:background-color var(--color-fade-speed) ease-in-out}.webpage-container{display:flex;flex-direction:row;height:100%;width:100%;align-items:stretch;justify-content:center}.document-container{opacity:1;flex-basis:100%;max-width:100%;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;transition:opacity .2s ease-in-out;contain:inline-size}.hide{opacity:0;transition:opacity .2s ease-in-out}.document-container>.markdown-preview-view{margin:var(--sidebar-margin);margin-bottom:0;width:100%;width:-webkit-fill-available;width:-moz-available;width:fill-available;background-color:var(--background-primary);transition:background-color var(--color-fade-speed) ease-in-out;border-top-right-radius:var(--window-radius,var(--radius-m));border-top-left-radius:var(--window-radius,var(--radius-m));overflow-x:hidden!important;overflow-y:auto!important;display:flex!important;flex-direction:column!important;align-items:center!important;contain:inline-size}.document-container>.markdown-preview-view>.markdown-preview-sizer{padding-bottom:80vh!important;width:100%!important;max-width:var(--line-width)!important;flex-basis:var(--line-width)!important;transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}.markdown-rendered img:not([width]),.view-content img:not([width]){max-width:100%;outline:0}.document-container>.view-content.embed{display:flex;padding:1em;height:100%;width:100%;align-items:center;justify-content:center}.document-container>.view-content.embed>*{max-width:100%;max-height:100%;object-fit:contain}:has(> :is(.math,table)){overflow-x:auto!important}.document-container>.view-content{overflow-x:auto;contain:content;padding:0;margin:0;height:100%}.scroll-highlight{position:absolute;width:100%;height:100%;pointer-events:none;z-index:1000;background-color:hsla(var(--color-accent-hsl),.25);opacity:0;padding:1em;inset:50%;translate:-50% -50%;border-radius:var(--radius-s)}</style><script defer="">async function loadIncludes(){if("file:"!=location.protocol){let e=document.querySelectorAll("include");for(let t=0;t<e.length;t++){let o=e[t],l=o.getAttribute("src");try{const e=await fetch(l);if(!e.ok){console.log("Could not include file: "+l),o?.remove();continue}let t=await e.text(),n=document.createRange().createContextualFragment(t),i=Array.from(n.children);for(let e of i)e.classList.add("hide"),e.style.transition="opacity 0.5s ease-in-out",setTimeout((()=>{e.classList.remove("hide")}),10);o.before(n),o.remove(),console.log("Included file: "+l)}catch(e){o?.remove(),console.log("Could not include file: "+l,e);continue}}}else{if(document.querySelectorAll("include").length>0){var e=document.createElement("div");e.id="error",e.textContent="Web server exports must be hosted on an http / web server to be viewed correctly.",e.style.position="fixed",e.style.top="50%",e.style.left="50%",e.style.transform="translate(-50%, -50%)",e.style.fontSize="1.5em",e.style.fontWeight="bold",e.style.textAlign="center",document.body.appendChild(e),document.querySelector(".document-container")?.classList.remove("hide")}}}document.addEventListener("DOMContentLoaded",(()=>{loadIncludes()}));let isFileProtocol="file:"==location.protocol;function waitLoadScripts(e,t){let o=e.map((e=>document.getElementById(e+"-script"))),l=0;!function e(){let n=o[l];l++,n&&"true"!=n.getAttribute("loaded")||l<o.length&&e(),l<o.length?n.addEventListener("load",e):t()}()}</script><link rel="stylesheet" href="lib/styles/obsidian.css"><link rel="preload" href="lib/styles/other-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/other-plugins.css"></noscript><link rel="preload" href="lib/styles/global-variable-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/global-variable-styles.css"></noscript><link rel="preload" href="lib/styles/supported-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/supported-plugins.css"></noscript><link rel="preload" href="lib/styles/main-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/main-styles.css"></noscript></head><body class="publish css-settings-manager theme-dark show-inline-title show-ribbon"><script defer="">let theme=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");"dark"==theme?(document.body.classList.add("theme-dark"),document.body.classList.remove("theme-light")):(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")),window.innerWidth<480?document.body.classList.add("is-phone"):window.innerWidth<768?document.body.classList.add("is-tablet"):window.innerWidth<1024?document.body.classList.add("is-small-screen"):document.body.classList.add("is-large-screen")</script><div class="webpage-container workspace"><div class="sidebar-left sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><label class="theme-toggle-container" for="theme_toggle"><input class="theme-toggle-input" type="checkbox" id="theme_toggle"><div class="toggle-background"></div></label></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="search-input-container"><input enterkeyhint="search" type="search" spellcheck="false" placeholder="Search..."><div class="search-input-clear-button" aria-label="Clear search"></div></div><include src="lib/html/file-tree.html"></include></div><script defer="">let ls = document.querySelector(".sidebar-left"); ls.classList.add("is-collapsed"); if (window.innerWidth > 768) ls.classList.remove("is-collapsed"); ls.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-left-width"));</script></div><div class="document-container markdown-reading-view hide"><div class="markdown-preview-view markdown-rendered allow-fold-headings allow-fold-lists is-readable-line-width"><style id="MJX-CHTML-styles"></style><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">tags</span><span class="token punctuation">:</span>
+  <span class="token punctuation">-</span> Blue<span class="token punctuation">-</span>Team</code><button class="copy-code-button">Copy</button></pre><div class="markdown-preview-sizer markdown-preview-section"><h1 class="page-title heading inline-title" id="Detection Tools"><p dir="auto">Detection Tools</p></h1><div><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Snort
+<div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4"></path><path d="M12 8h.01"></path></svg></div><div class="callout-title-inner">Snort - Network Intrusion Detection &amp; Prevention System  </div></div><div class="callout-content">
+<p dir="auto">Snort is an open-source, free and lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats.<br>
+<a rel="noopener" class="external-link" href="https://www.snort.org/#documents" target="_blank">https://www.snort.org/#documents</a>  </p>
+</div></div>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Parameter</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>-c</td>
+</tr>
+<tr>
+<td></td>
+<td>-T</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-N</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-D</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-A</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li data-line="15" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Examples:
+<ul>
+<li data-line="16" dir="auto">alert icmp any any &lt;&gt; any any (msg: "ICMP Packet Found"; sid: 100001; rev:1;)</li>
+<li data-line="17" dir="auto">sudo snort -c /etc/snort/snort.conf -T</li>
+<li data-line="18" dir="auto">sudo snort -c /etc/snort/snort.conf -N</li>
+<li data-line="19" dir="auto">sudo snort -c /etc/snort/snort.conf -D</li>
+<li data-line="20" dir="auto">sudo snort -c /etc/snort/snort.conf -A console</li>
+<li data-line="21" dir="auto">sudo snort -c /etc/snort/snort.conf -A cmg</li>
+<li data-line="22" dir="auto">sudo snort -c /etc/snort/snort.conf -A fast</li>
+<li data-line="23" dir="auto">sudo snort -c /etc/snort/snort.conf -A full</li>
+<li data-line="24" dir="auto">sudo snort -c /etc/snort/snort.conf -A none</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="25" dir="auto">Suricata
+<div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4"></path><path d="M12 8h.01"></path></svg></div><div class="callout-title-inner">Suricata User Guide — Suricata 8.0.0-dev documentation  </div></div><div class="callout-content">
+<p dir="auto"><a rel="noopener" class="external-link" href="https://docs.suricata.io/en/latest/" target="_blank">https://docs.suricata.io/en/latest/</a>  </p>
+</div></div>
+</li>
+<li data-line="31" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Zeek
+<ul>
+<li data-line="33" dir="auto">
+<p>Zeek vs. Snort</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Tool</strong></td>
+<td><strong>Zeek</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Capabilities</strong></td>
+<td>NSM&nbsp;and IDS framework. It is heavily focused on network analysis. It is more focused on specific threats to trigger alerts. The detection mechanism is focused on events.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Cons</strong></td>
+<td>Hard to use.  <br>The analysis is done out of the Zeek, manually or by automation.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Pros</strong></td>
+<td>It provides in-depth traffic visibility.  <br>Useful for threat hunting.  <br>Ability to detect complex threats.  <br>It has a scripting language and supports event correlation.&nbsp;  <br>Easy to read logs.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Common Use Case</strong></td>
+<td>Network monitoring.In-depth traffic investigation.Intrusion detecting in chained events.</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li data-line="43" dir="auto">
+<p>Architecture</p>
+<p>  <span alt="Untitled 26.png" src="Untitled 26.png" class="internal-embed is-loaded file-embed mod-empty-attachment">“Untitled 26.png” could not be found.</span><br>
+</p>
+</li>
+<li data-line="47" dir="auto">
+<p>Frameworks</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Logging</td>
+<td>Notice</td>
+<td>Input</td>
+<td>Configuration</td>
+</tr>
+<tr>
+<td></td>
+<td>Cluster</td>
+<td>Broker Communication</td>
+<td>Supervisor</td>
+<td>GeoLocation</td>
+</tr>
+<tr>
+<td></td>
+<td>Signature</td>
+<td>Summary</td>
+<td>NetControl</td>
+<td>Packet Analysis</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li data-line="55" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>
+<p>Commands</p>
+<ul>
+<li data-line="56" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>zeek -v
+<ul>
+<li data-line="57" dir="auto">check version</li>
+</ul>
+</li>
+<li data-line="58" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>sudo su
+<ul>
+<li data-line="60" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>zeekctl
+<ul>
+<li data-line="61" dir="auto">status</li>
+<li data-line="62" dir="auto">start</li>
+<li data-line="63" dir="auto">stop</li>
+</ul>
+</li>
+<li data-line="64" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>view generated logs
+<ul>
+<li data-line="65" dir="auto">ls -l</li>
+</ul>
+</li>
+<li data-line="66" dir="auto">zeek -C -r sample.pcap</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Parameter</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-r</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-C</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-v</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>zeekctl</strong></td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+</li>
+<li data-line="76" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>
+<p>Logs</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Parameter</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-r</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-C</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>-v</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>zeekctl</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li data-line="86" dir="auto">Most commonly used logs
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Update Frequency</strong></td>
+<td><strong>Log Name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Daily</strong></td>
+<td><em>known_hosts.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Daily</strong></td>
+<td><em>known_services.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Daily</strong></td>
+<td><em>known_certs.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Daily</strong></td>
+<td><em>software.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Per Session</strong></td>
+<td><em>notice.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Per Session</strong></td>
+<td><em>intel.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td>Per Session</td>
+<td><em>signatures.log</em></td>
+</tr>
+</tbody>
+</table>
+</li>
+<li data-line="99" dir="auto">Log usage</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Overall Info</strong></td>
+<td><strong>Protocol Based</strong></td>
+<td><strong>Detection</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><em>conn.log</em></td>
+<td><em>http.log</em></td>
+<td><em>notice.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em>files.log</em></td>
+<td><em>dns.log</em></td>
+<td><em>signatures.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em>intel.log</em></td>
+<td><em>ftp.log</em></td>
+<td><em>pe.log</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em>loaded_scripts.log</em></td>
+<td><em>ssh.log</em></td>
+<td><em>traceroute.log</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li data-line="109" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Reduce columns in the output of logs
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Tool/Auxilary Name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Zeek-cut</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li data-line="116" dir="auto">Zeek-cut example
+  root@ubuntu$ cat conn.log | zeek-cut uid proto id.orig_h id.orig_p id.resp_h id.resp_p<br>
+CTMFXm1AcIsSnq2Ric udp 192.168.121.2 51153 192.168.120.22 53<br>
+CLsSsA3HLB2N6uJwW udp 192.168.121.10 50080 192.168.120.10 514<br>
+</li>
+</ul>
+</li>
+<li data-line="122" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Signatures
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Signature id</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Conditions</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Action</strong></td>
+</tr>
+</tbody>
+</table>
+  Zeek signatures use the ".sig" extension.
+<hr>
+<ul>
+<li data-line="134" dir="auto"><strong>C:</strong>&nbsp;Ignore checksum errors.</li>
+<li data-line="135" dir="auto">-r: Read pcap file</li>
+<li data-line="136" dir="auto"><strong>s:</strong>&nbsp;Use signature file.</li>
+</ul>
+<hr>
+<ul>
+<li data-line="140" dir="auto">Filters
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Condition Field</td>
+</tr>
+<tr>
+<td></td>
+<td>Header</td>
+</tr>
+<tr>
+<td></td>
+<td>Content</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Context</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>Action</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>ComparisonOperators</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>NOTE!</strong></td>
+</tr>
+</tbody>
+</table>
+</li>
+<li data-line="152" dir="auto">Samples signature
+  signature http-password {<br>
+ip-proto == tcp<br>
+dst_port == 80<br>
+payload /.password.*/<br>
+event "Cleartext Password Found!"<br>
+}  
+  <strong># signature: Signature name.</strong>
+  <strong># ip-proto: Filtering TCP connection.</strong>
+  <strong># dst-port: Filtering destination port 80.</strong>
+  <strong># payload: Filtering the "password" phrase.</strong>
+  <strong># event: Signature match message.</strong><br>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="171" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>
+<p>Zeek Scripts</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Zeek has base scripts installed by default,&nbsp;and these are not intended to be modified.</td>
+</tr>
+<tr>
+<td></td>
+<td>User-generated or modified scripts should be located in a specific path.</td>
+</tr>
+<tr>
+<td></td>
+<td>Policy scripts are located in a specific path.</td>
+</tr>
+<tr>
+<td></td>
+<td>Like Snort, to automatically load/use a script in live sniffing mode, you must identify the script in the Zeek configuration file. You can also use a script for a single run, just like the signatures.</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li data-line="180" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Zeek Repo
+<ul>
+<li data-line="181" dir="auto"><a rel="noopener" class="external-link" href="https://docs.zeek.org/en/master/script-reference/scripts.html" target="_blank">https://docs.zeek.org/en/master/script-reference/scripts.html</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="183" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>
+<p>Resources</p>
+<ul>
+<li data-line="184" dir="auto"><a rel="noopener" class="external-link" href="https://docs.zeek.org/en/current/script-reference/log-files.html" target="_blank">https://docs.zeek.org/en/current/script-reference/log-files.html</a></li>
+<li data-line="185" dir="auto"><a rel="noopener" class="external-link" href="https://corelight.com/products/zeek-data/" target="_blank">https://corelight.com/products/zeek-data/</a></li>
+<li data-line="186" dir="auto"><a rel="noopener" class="external-link" href="https://docs.zeek.org/en/master/scripts/base/bif/event.bif.zeek.html" target="_blank">https://docs.zeek.org/en/master/scripts/base/bif/event.bif.zeek.html</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="187" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>ELK
+<ul>
+<li data-line="188" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>HELK
+<ul class="contains-task-list">
+<li data-line="190" data-task="" class="task-list-item" dir="auto"><input data-line="190" type="checkbox" class="task-list-item-checkbox"><a rel="noopener" class="external-link" href="https://thehelk.com/intro.html" target="_blank">https://thehelk.com/intro.html</a></li>
+</ul>
+<div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4"></path><path d="M12 8h.01"></path></svg></div><div class="callout-title-inner">GitHub - Cyb3rWard0g/HELK: The Hunting ELK  </div></div><div class="callout-content">
+<p dir="auto">The Hunting ELK.<br>
+<a rel="noopener" class="external-link" href="https://github.com/Cyb3rWard0g/HELK?tab=readme-ov-file" target="_blank">https://github.com/Cyb3rWard0g/HELK?tab=readme-ov-file</a>  </p>
+</div></div>
+</li>
+<li data-line="198" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Elastic
+<ul class="contains-task-list">
+<li data-line="199" data-task="" class="task-list-item" dir="auto"><input data-line="199" type="checkbox" class="task-list-item-checkbox"><a rel="noopener" class="external-link" href="https://www.elastic.co/guide/en/logstash/8.1/input-plugins.html" target="_blank">https://www.elastic.co/guide/en/logstash/8.1/input-plugins.html</a></li>
+<li data-line="200" data-task="" class="task-list-item" dir="auto"><input data-line="200" type="checkbox" class="task-list-item-checkbox"><a rel="noopener" class="external-link" href="https://www.elastic.co/guide/en/logstash/8.1/filter-plugins.html" target="_blank">https://www.elastic.co/guide/en/logstash/8.1/filter-plugins.html</a></li>
+</ul>
+</li>
+<li data-line="201" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Kibana
+<ul class="contains-task-list">
+<li data-line="203" data-task="" class="task-list-item" dir="auto"><input data-line="203" type="checkbox" class="task-list-item-checkbox">Kibana is a web-based data visualization that works with elasticsearch to analyze, investigate and visualize the data stream in real-time. It allows the users to create multiple visualizations and dashboards for better visibility</li>
+</ul>
+  <span alt="Untitled 1 16.png" src="Untitled 1 16.png" class="internal-embed is-loaded file-embed mod-empty-attachment">“Untitled 1 16.png” could not be found.</span><br>
+</li>
+</ul>
+</li>
+<li data-line="207" dir="auto">Hunting and Detecting Remcos RAT with Splunk &amp; Sysmon
+  <a data-tooltip-position="top" aria-label="https://www.notion.so/947cd3c1988b4aba983bcaa6ce7d8897?pvs=21" rel="noopener" class="external-link" href="https://www.notion.so/947cd3c1988b4aba983bcaa6ce7d8897?pvs=21" target="_blank">https://sakshamtushar.notion.site/Hunting-Detecting-Remcos-RAT-with-Splunk-Sysmon-947cd3c1988b4aba983bcaa6ce7d8897</a><br>
+</li>
+<li data-line="211" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>WIPS - detects presence of rogue or misconfigured devices
+<ul>
+<li data-line="212" dir="auto"><em>can prevent from operating on wireless enterprise networks by scanning the networks RF’s for DoS and other attacks</em></li>
+<li data-line="213" dir="auto">Mojo Networks AirTight WIPS</li>
+<li data-line="214" dir="auto">HP RFProtect</li>
+<li data-line="215" dir="auto">Cisco Adaptive Wireless IPS</li>
+<li data-line="216" dir="auto">Fluke Networks AirMagnet Enterprise</li>
+<li data-line="217" dir="auto">HP Mobility Security IDS/IPS</li>
+<li data-line="218" dir="auto">Zebra Technologies AirDefense</li>
+</ul>
+</li>
+<li data-line="219" dir="auto">Azure and AWS Monitoring
+  <strong>Cloud Grappler</strong>
+  <a rel="noopener" class="external-link" href="https://permiso.io/blog/cloudgrappler-a-powerful-open-source-threat-detection-tool-for-cloud-environments" target="_blank">https://permiso.io/blog/cloudgrappler-a-powerful-open-source-threat-detection-tool-for-cloud-environments</a>
+  <a rel="noopener" class="external-link" href="https://github.com/Permiso-io-tools/CloudGrappler" target="_blank">https://github.com/Permiso-io-tools/CloudGrappler</a></li>
+</ul></div><div class="mod-footer"></div></div></div></div><div class="sidebar-right sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="graph-view-wrapper"><div class="sidebar-section-header">Interactive Graph</div><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" class="hide" width="512px" height="512px"></canvas>
+		</div>
+		</div></div><div class="tree-container mod-root nav-folder tree-item outline-tree" data-depth="0"><div class="tree-header"><span class="sidebar-section-header">Table Of Contents</span><button class="clickable-icon collapse-tree-button" aria-label="Collapse All"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button></div><div class="tree-scroll-area tree-item-children nav-folder-children"><div class="tree-item mod-tree-folder nav-folder mod-collapsible is-collapsed" style="display: none;"></div><div class="tree-item" data-depth="1"><a class="tree-link" href="detection-engineering\detection-tools.html#Detection Tools"><div class="tree-item-contents heading-link" heading-name="Detection Tools"><span class="tree-item-title">Detection Tools</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></body></html>

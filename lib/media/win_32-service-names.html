@@ -1,0 +1,342 @@
+<!DOCTYPE html> <html><head>
+		<title>Win_32 Service Names</title>
+		<base href="..\../">
+		<meta id="root-path" root-path="..\../">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
+		<meta charset="UTF-8">
+		<meta name="description" content="Table of Contents - Win_32 Service Names">
+		<meta property="og:title" content="Win_32 Service Names">
+		<meta property="og:description" content="Table of Contents - Win_32 Service Names">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://chris-adams-tech.github.io/lib/media/win_32-service-names.html">
+		<meta property="og:image" content="undefined">
+		<meta property="og:site_name" content="Table of Contents">
+		<meta name="author" content="Chris Adams"><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://chris-adams-tech.github.io/lib/rss.xml"><script async="" id="webpage-script" src="lib/scripts/webpage.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script type="module" async="" id="graph-view-script" src="lib/scripts/graph-view.js"></script><script async="" id="graph-wasm-script" src="lib/scripts/graph-wasm.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="graph-render-worker-script" src="lib/scripts/graph-render-worker.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="tinycolor-script" src="lib/scripts/tinycolor.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="pixi-script" src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/7.4.0/pixi.min.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="minisearch-script" src="https://cdn.jsdelivr.net/npm/minisearch@6.3.0/dist/umd/index.min.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><link rel="icon" href="lib/media/favicon.jpg"><script async="" id="graph-data-script" src="lib/scripts/graph-data.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><style>body{--line-width:40em;--line-width-adaptive:40em;--file-line-width:40em;--sidebar-width:min(20em, 80vw);--collapse-arrow-size:11px;--tree-horizontal-spacing:0.6em;--tree-vertical-spacing:0.6em;--sidebar-margin:12px}.sidebar{height:100%;min-width:calc(var(--sidebar-width) + var(--divider-width-hover));max-width:calc(var(--sidebar-width) + var(--divider-width-hover));font-size:14px;z-index:10;position:relative;overflow:hidden;transition:min-width ease-in-out,max-width ease-in-out;transition-duration:.2s;contain:size}.sidebar-left{left:0}.sidebar-right{right:0}.sidebar.is-collapsed{min-width:0;max-width:0}body.floating-sidebars .sidebar{position:absolute}.sidebar-content{height:100%;min-width:calc(var(--sidebar-width) - var(--divider-width-hover));top:0;padding:var(--sidebar-margin);padding-top:4em;line-height:var(--line-height-tight);background-color:var(--background-secondary);transition:background-color,border-right,border-left,box-shadow;transition-duration:var(--color-fade-speed);transition-timing-function:ease-in-out;position:absolute;display:flex;flex-direction:column}.sidebar:not(.is-collapsed) .sidebar-content{min-width:calc(max(100%,var(--sidebar-width)) - 3px);max-width:calc(max(100%,var(--sidebar-width)) - 3px)}.sidebar-left .sidebar-content{left:0;border-top-right-radius:var(--radius-l);border-bottom-right-radius:var(--radius-l)}.sidebar-right .sidebar-content{right:0;border-top-left-radius:var(--radius-l);border-bottom-left-radius:var(--radius-l)}.sidebar:has(.sidebar-content:empty):has(.topbar-content:empty){display:none}.sidebar-topbar{height:2em;width:var(--sidebar-width);top:var(--sidebar-margin);padding-inline:var(--sidebar-margin);z-index:1;position:fixed;display:flex;align-items:center;transition:width ease-in-out;transition-duration:inherit}.sidebar.is-collapsed .sidebar-topbar{width:calc(2.3em + var(--sidebar-margin) * 2)}.sidebar .sidebar-topbar.is-collapsed{width:0}.sidebar-left .sidebar-topbar{left:0}.sidebar-right .sidebar-topbar{right:0}.topbar-content{overflow:hidden;overflow:clip;width:100%;height:100%;display:flex;align-items:center;transition:inherit}.sidebar.is-collapsed .topbar-content{width:0;transition:inherit}.clickable-icon.sidebar-collapse-icon{background-color:transparent;color:var(--icon-color-focused);padding:0!important;margin:0!important;height:100%!important;width:2.3em!important;margin-inline:0.14em!important;position:absolute}.sidebar-left .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);right:var(--sidebar-margin)}.sidebar-right .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);left:var(--sidebar-margin)}.clickable-icon.sidebar-collapse-icon svg.svg-icon{width:100%;height:100%}.sidebar-section-header{margin:0 0 1em 0;text-transform:uppercase;letter-spacing:.06em;font-weight:600}body{transition:background-color var(--color-fade-speed) ease-in-out}.webpage-container{display:flex;flex-direction:row;height:100%;width:100%;align-items:stretch;justify-content:center}.document-container{opacity:1;flex-basis:100%;max-width:100%;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;transition:opacity .2s ease-in-out;contain:inline-size}.hide{opacity:0;transition:opacity .2s ease-in-out}.document-container>.markdown-preview-view{margin:var(--sidebar-margin);margin-bottom:0;width:100%;width:-webkit-fill-available;width:-moz-available;width:fill-available;background-color:var(--background-primary);transition:background-color var(--color-fade-speed) ease-in-out;border-top-right-radius:var(--window-radius,var(--radius-m));border-top-left-radius:var(--window-radius,var(--radius-m));overflow-x:hidden!important;overflow-y:auto!important;display:flex!important;flex-direction:column!important;align-items:center!important;contain:inline-size}.document-container>.markdown-preview-view>.markdown-preview-sizer{padding-bottom:80vh!important;width:100%!important;max-width:var(--line-width)!important;flex-basis:var(--line-width)!important;transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}.markdown-rendered img:not([width]),.view-content img:not([width]){max-width:100%;outline:0}.document-container>.view-content.embed{display:flex;padding:1em;height:100%;width:100%;align-items:center;justify-content:center}.document-container>.view-content.embed>*{max-width:100%;max-height:100%;object-fit:contain}:has(> :is(.math,table)){overflow-x:auto!important}.document-container>.view-content{overflow-x:auto;contain:content;padding:0;margin:0;height:100%}.scroll-highlight{position:absolute;width:100%;height:100%;pointer-events:none;z-index:1000;background-color:hsla(var(--color-accent-hsl),.25);opacity:0;padding:1em;inset:50%;translate:-50% -50%;border-radius:var(--radius-s)}</style><script defer="">async function loadIncludes(){if("file:"!=location.protocol){let e=document.querySelectorAll("include");for(let t=0;t<e.length;t++){let o=e[t],l=o.getAttribute("src");try{const e=await fetch(l);if(!e.ok){console.log("Could not include file: "+l),o?.remove();continue}let t=await e.text(),n=document.createRange().createContextualFragment(t),i=Array.from(n.children);for(let e of i)e.classList.add("hide"),e.style.transition="opacity 0.5s ease-in-out",setTimeout((()=>{e.classList.remove("hide")}),10);o.before(n),o.remove(),console.log("Included file: "+l)}catch(e){o?.remove(),console.log("Could not include file: "+l,e);continue}}}else{if(document.querySelectorAll("include").length>0){var e=document.createElement("div");e.id="error",e.textContent="Web server exports must be hosted on an http / web server to be viewed correctly.",e.style.position="fixed",e.style.top="50%",e.style.left="50%",e.style.transform="translate(-50%, -50%)",e.style.fontSize="1.5em",e.style.fontWeight="bold",e.style.textAlign="center",document.body.appendChild(e),document.querySelector(".document-container")?.classList.remove("hide")}}}document.addEventListener("DOMContentLoaded",(()=>{loadIncludes()}));let isFileProtocol="file:"==location.protocol;function waitLoadScripts(e,t){let o=e.map((e=>document.getElementById(e+"-script"))),l=0;!function e(){let n=o[l];l++,n&&"true"!=n.getAttribute("loaded")||l<o.length&&e(),l<o.length?n.addEventListener("load",e):t()}()}</script><link rel="stylesheet" href="lib/styles/obsidian.css"><link rel="preload" href="lib/styles/other-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/other-plugins.css"></noscript><link rel="preload" href="lib/styles/global-variable-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/global-variable-styles.css"></noscript><link rel="preload" href="lib/styles/supported-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/supported-plugins.css"></noscript><link rel="preload" href="lib/styles/main-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/main-styles.css"></noscript></head><body class="publish css-settings-manager theme-dark show-inline-title show-ribbon"><script defer="">let theme=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");"dark"==theme?(document.body.classList.add("theme-dark"),document.body.classList.remove("theme-light")):(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")),window.innerWidth<480?document.body.classList.add("is-phone"):window.innerWidth<768?document.body.classList.add("is-tablet"):window.innerWidth<1024?document.body.classList.add("is-small-screen"):document.body.classList.add("is-large-screen")</script><div class="webpage-container workspace"><div class="sidebar-left sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><label class="theme-toggle-container" for="theme_toggle"><input class="theme-toggle-input" type="checkbox" id="theme_toggle"><div class="toggle-background"></div></label></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="search-input-container"><input enterkeyhint="search" type="search" spellcheck="false" placeholder="Search..."><div class="search-input-clear-button" aria-label="Clear search"></div></div><include src="lib/html/file-tree.html"></include></div><script defer="">let ls = document.querySelector(".sidebar-left"); ls.classList.add("is-collapsed"); if (window.innerWidth > 768) ls.classList.remove("is-collapsed"); ls.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-left-width"));</script></div><div class="document-container markdown-reading-view hide"><div class="markdown-preview-view markdown-rendered allow-fold-headings allow-fold-lists is-readable-line-width"><style id="MJX-CHTML-styles"></style><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">tags</span><span class="token punctuation">:</span>
+  <span class="token punctuation">-</span> <span class="token string">"#windows"</span></code><button class="copy-code-button">Copy</button></pre><div class="markdown-preview-sizer markdown-preview-section"><h1 class="page-title heading inline-title" id="Win_32 Service Names"><p dir="auto">Win_32 Service Names</p></h1><div><p dir="auto">Name                                      Caption</p></div><div><hr></div><div dir="ltr" style="overflow-x: auto;"><table>
+<thead>
+<tr>
+<th dir="ltr">Name</th>
+<th dir="ltr">Caption</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td dir="ltr">ADWS</td>
+<td dir="ltr">Active Directory Web Services</td>
+</tr>
+<tr>
+<td dir="ltr">AJRouter</td>
+<td dir="ltr">AllJoyn Router Service</td>
+</tr>
+<tr>
+<td dir="ltr">ALG</td>
+<td dir="ltr">Application Layer Gateway Servic</td>
+</tr>
+<tr>
+<td dir="ltr">AppIDSvc</td>
+<td dir="ltr">Application Identity</td>
+</tr>
+<tr>
+<td dir="ltr">Appinfo</td>
+<td dir="ltr">Application Information</td>
+</tr>
+<tr>
+<td dir="ltr">AppIDSvc</td>
+<td dir="ltr">Application Identity</td>
+</tr>
+<tr>
+<td dir="ltr">Appinfo</td>
+<td dir="ltr">Application Information</td>
+</tr>
+<tr>
+<td dir="ltr">AppMgmt</td>
+<td dir="ltr">Application Management</td>
+</tr>
+<tr>
+<td dir="ltr">AppReadiness</td>
+<td dir="ltr">App Readiness</td>
+</tr>
+<tr>
+<td dir="ltr">AppVClient</td>
+<td dir="ltr">Microsoft App-V Client</td>
+</tr>
+<tr>
+<td dir="ltr">AppXSvc</td>
+<td dir="ltr">AppX Deployment Service (AppXSVC)</td>
+</tr>
+<tr>
+<td dir="ltr">AudioEndpointBuilder</td>
+<td dir="ltr">Windows Audio Endpoint Builder</td>
+</tr>
+<tr>
+<td dir="ltr">Audiosrv</td>
+<td dir="ltr">Windows Audio</td>
+</tr>
+<tr>
+<td dir="ltr">AxInstSV</td>
+<td dir="ltr">ActiveX Installer (AxInstSV)</td>
+</tr>
+<tr>
+<td dir="ltr">BalloonService</td>
+<td dir="ltr">Balloon Service</td>
+</tr>
+<tr>
+<td dir="ltr">BFE</td>
+<td dir="ltr">Base Filtering Engine</td>
+</tr>
+<tr>
+<td dir="ltr">BITS</td>
+<td dir="ltr">Background Intelligent Transfer Service</td>
+</tr>
+<tr>
+<td dir="ltr">BrokerInfrastructure</td>
+<td dir="ltr">Background Tasks Infrastructure Service</td>
+</tr>
+<tr>
+<td dir="ltr">bthserv</td>
+<td dir="ltr">Bluetooth Support Service</td>
+</tr>
+<tr>
+<td dir="ltr">camsvc</td>
+<td dir="ltr">Capability Access Manager Service</td>
+</tr>
+<tr>
+<td dir="ltr">CDPSvc</td>
+<td dir="ltr">Connected Devices Platform Service</td>
+</tr>
+<tr>
+<td dir="ltr">CertPropSvc</td>
+<td dir="ltr">Certificate Propagation</td>
+</tr>
+<tr>
+<td dir="ltr">ClipSVC</td>
+<td dir="ltr">Client License Service (ClipSVC)</td>
+</tr>
+<tr>
+<td dir="ltr">COMSysApp</td>
+<td dir="ltr">COM+ System Application</td>
+</tr>
+<tr>
+<td dir="ltr">CoreMessagingRegistrar</td>
+<td dir="ltr">CoreMessaging</td>
+</tr>
+<tr>
+<td dir="ltr">CryptSvc</td>
+<td dir="ltr">Cryptographic Services</td>
+</tr>
+<tr>
+<td dir="ltr">CscService</td>
+<td dir="auto"></td>
+</tr>
+</tbody>
+</table></div><div><p dir="auto">camsvc                                    Capability Access Manager Service<br>
+CDPSvc                                    Connected Devices Platform Service<br>
+CertPropSvc                               Certificate Propagation<br>
+ClipSVC                                   Client License Service (ClipSVC)<br>
+COMSysApp                                 COM+ System Application<br>
+CoreMessagingRegistrar                    CoreMessaging<br>
+CryptSvc                                  Cryptographic Services<br>
+CscService                                Offline Files<br>
+DcomLaunch                                DCOM Server Process Launcher<br>
+defragsvc                                 Optimize drives<br>
+DeviceAssociationService                  Device Association Service<br>
+DeviceInstall                             Device Install Service<br>
+DevQueryBroker                            DevQuery Background Discovery Broker<br>
+Dfs                                       DFS Namespace<br>
+DFSR                                      DFS Replication<br>
+Dhcp                                      DHCP Client<br>
+diagnosticshub.standardcollector.service  Microsoft (R) Diagnostics Hub Standard Collector Service<br>
+DiagTrack                                 Connected User Experiences and Telemetry<br>
+DispBrokerDesktopSvc                      Display Policy Service<br>
+DmEnrollmentSvc                           Device Management Enrollment Service<br>
+dmwappushservice                          Device Management Wireless Application Protocol (WAP) Push message Routing...<br>
+DNS                                       DNS Server<br>
+Dnscache                                  DNS Client<br>
+DoSvc                                     Delivery Optimization<br>
+dot3svc                                   Wired AutoConfig<br>
+DPS                                       Diagnostic Policy Service<br>
+DsmSvc                                    Device Setup Manager<br>
+DsRoleSvc                                 DS Role Server<br>
+DsSvc                                     Data Sharing Service<br>
+EapHost                                   Extensible Authentication Protocol<br>
+edgeupdate                                Microsoft Edge Update Service (edgeupdate)<br>
+edgeupdatem                               Microsoft Edge Update Service (edgeupdatem)<br>
+EFS                                       Encrypting File System (EFS)<br>
+embeddedmode                              Embedded Mode<br>
+EntAppSvc                                 Enterprise App Management Service<br>
+EventLog                                  Windows Event Log<br>
+EventSystem                               COM+ Event System<br>
+fdPHost                                   Function Discovery Provider Host<br>
+FDResPub                                  Function Discovery Resource Publication<br>
+FontCache                                 Windows Font Cache Service<br>
+FrameServer                               Windows Camera Frame Server<br>
+FrameServerMonitor                        Windows Camera Frame Server Monitor<br>
+gpsvc                                     Group Policy Client<br>
+GraphicsPerfSvc                           GraphicsPerfSvc<br>
+hidserv                                   Human Interface Device Service<br>
+HvHost                                    HV Host Service<br>
+IKEEXT                                    IKE and AuthIP IPsec Keying Modules<br>
+InstallService                            Microsoft Store Install Service<br>
+iphlpsvc                                  IP Helper<br>
+IsmServ                                   Intersite Messaging<br>
+Kdc                                       Kerberos Key Distribution Center<br>
+KdsSvc                                    Microsoft Key Distribution Service<br>
+KeyIso                                    CNG Key Isolation<br>
+KPSSVC                                    KDC Proxy Server service (KPS)<br>
+KtmRm                                     KtmRm for Distributed Transaction Coordinator<br>
+LanmanServer                              Server<br>
+LanmanWorkstation                         Workstation<br>
+lfsvc                                     Geolocation Service<br>
+LicenseManager                            Windows License Manager Service<br>
+lltdsvc                                   Link-Layer Topology Discovery Mapper<br>
+lmhosts                                   TCP/IP NetBIOS Helper<br>
+LSM                                       Local Session Manager<br>
+MapsBroker                                Downloaded Maps Manager<br>
+McpManagementService                      McpManagementService<br>
+MicrosoftEdgeElevationService             Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)<br>
+mpssvc                                    Windows Defender Firewall<br>
+MSDTC                                     Distributed Transaction Coordinator<br>
+MSiSCSI                                   Microsoft iSCSI Initiator Service<br>
+msiserver                                 Windows Installer<br>
+NcaSvc                                    Network Connectivity Assistant<br>
+NcbService                                Network Connection Broker<br>
+Netlogon                                  Netlogon<br>
+Netman                                    Network Connections<br>
+netprofm                                  Network List Service<br>
+NetSetupSvc                               Network Setup Service<br>
+NetTcpPortSharing                         Net.Tcp Port Sharing Service<br>
+NgcCtnrSvc                                Microsoft Passport Container<br>
+NgcSvc                                    Microsoft Passport<br>
+NlaSvc                                    Network Location Awareness<br>
+nsi                                       Network Store Interface Service<br>
+NTDS                                      Active Directory Domain Services<br>
+NtFrs                                     File Replication<br>
+PcaSvc                                    Program Compatibility Assistant Service<br>
+PerfHost                                  Performance Counter DLL Host<br>
+pla                                       Performance Logs &amp; Alerts<br>
+PlugPlay                                  Plug and Play<br>
+PolicyAgent                               IPsec Policy Agent<br>
+Power                                     Power<br>
+PrintNotify                               Printer Extensions and Notifications<br>
+ProfSvc                                   User Profile Service<br>
+PushToInstall                             Windows PushToInstall Service<br>
+QEMU Guest Agent VSS Provider             QEMU Guest Agent VSS Provider<br>
+QEMU-GA                                   QEMU Guest Agent<br>
+QWAVE                                     Quality Windows Audio Video Experience<br>
+RasAuto                                   Remote Access Auto Connection Manager<br>
+RasMan                                    Remote Access Connection Manager<br>
+RemoteAccess                              Routing and Remote Access<br>
+RemoteRegistry                            Remote Registry<br>
+RmSvc                                     Radio Management Service<br>
+RpcEptMapper                              RPC Endpoint Mapper<br>
+RpcLocator                                Remote Procedure Call (RPC) Locator<br>
+RpcSs                                     Remote Procedure Call (RPC)<br>
+RSoPProv                                  Resultant Set of Policy Provider<br>
+sacsvr                                    Special Administration Console Helper<br>
+SamSs                                     Security Accounts Manager<br>
+SCardSvr                                  Smart Card<br>
+ScDeviceEnum                              Smart Card Device Enumeration Service<br>
+Schedule                                  Task Scheduler<br>
+SCPolicySvc                               Smart Card Removal Policy<br>
+seclogon                                  Secondary Logon<br>
+SecurityHealthService                     Windows Security Service<br>
+SEMgrSvc                                  Payments and NFC/SE Manager<br>
+SENS                                      System Event Notification Service<br>
+Sense                                     Windows Defender Advanced Threat Protection Service<br>
+SensorDataService                         Sensor Data Service<br>
+SensorService                             Sensor Service<br>
+SensrSvc                                  Sensor Monitoring Service<br>
+SessionEnv                                Remote Desktop Configuration<br>
+SgrmBroker                                System Guard Runtime Monitor Broker<br>
+SharedAccess                              Internet Connection Sharing (ICS)<br>
+ShellHWDetection                          Shell Hardware Detection<br>
+shpamsvc                                  Shared PC Account Manager<br>
+smphost                                   Microsoft Storage Spaces SMP<br>
+SNMPTRAP                                  SNMP Trap<br>
+Spooler                                   Print Spooler<br>
+sppsvc                                    Software Protection<br>
+SSDPSRV                                   SSDP Discovery<br>
+ssh-agent                                 OpenSSH Authentication Agent<br>
+SstpSvc                                   Secure Socket Tunneling Protocol Service<br>
+StateRepository                           State Repository Service<br>
+StiSvc                                    Windows Image Acquisition (WIA)<br>
+StorSvc                                   Storage Service<br>
+svsvc                                     Spot Verifier<br>
+swprv                                     Microsoft Software Shadow Copy Provider<br>
+SysMain                                   SysMain<br>
+Sysmon                                    Sysmon<br>
+SystemEventsBroker                        System Events Broker<br>
+TabletInputService                        Touch Keyboard and Handwriting Panel Service<br>
+tapisrv                                   Telephony<br>
+TermService                               Remote Desktop Services<br>
+Themes                                    Themes<br>
+TieringEngineService                      Storage Tiers Management<br>
+TimeBrokerSvc                             Time Broker<br>
+TokenBroker                               Web Account Manager<br>
+TrkWks                                    Distributed Link Tracking Client<br>
+TrustedInstaller                          Windows Modules Installer<br>
+tzautoupdate                              Auto Time Zone Updater<br>
+UALSVC                                    User Access Logging Service<br>
+UevAgentService                           User Experience Virtualization Service<br>
+UmRdpService                              Remote Desktop Services UserMode Port Redirector<br>
+upnphost                                  UPnP Device Host<br>
+UserManager                               User Manager<br>
+UsoSvc                                    Update Orchestrator Service<br>
+VaultSvc                                  Credential Manager<br>
+vds                                       Virtual Disk<br>
+vdservice                                 SPICE VDAgent<br>
+vmicguestinterface                        Hyper-V Guest Service Interface<br>
+vmicheartbeat                             Hyper-V Heartbeat Service<br>
+vmickvpexchange                           Hyper-V Data Exchange Service<br>
+vmicshutdown                              Hyper-V Guest Shutdown Service<br>
+vmictimesync                              Hyper-V Time Synchronization Service<br>
+vmicvmsession                             Hyper-V PowerShell Direct Service<br>
+vmicvss                                   Hyper-V Volume Shadow Copy Requestor<br>
+VSS                                       Volume Shadow Copy<br>
+W32Time                                   Windows Time<br>
+WaaSMedicSvc                              Windows Update Medic Service<br>
+WalletService                             WalletService<br>
+WarpJITSvc                                Warp JIT Service<br>
+WazuhSvc                                  Wazuh<br>
+WbioSrvc                                  Windows Biometric Service<br>
+Wcmsvc                                    Windows Connection Manager<br>
+WdiServiceHost                            Diagnostic Service Host<br>
+WdiSystemHost                             Diagnostic System Host<br>
+WdNisSvc                                  Microsoft Defender Antivirus Network Inspection Service<br>
+Wecsvc                                    Windows Event Collector<br>
+WEPHOSTSVC                                Windows Encryption Provider Host Service<br>
+wercplsupport                             Problem Reports Control Panel Support<br>
+WerSvc                                    Windows Error Reporting Service<br>
+WiaRpc                                    Still Image Acquisition Events<br>
+WinDefend                                 Microsoft Defender Antivirus Service<br>
+WinHttpAutoProxySvc                       WinHTTP Web Proxy Auto-Discovery Service<br>
+Winmgmt                                   Windows Management Instrumentation<br>
+WinRM                                     Windows Remote Management (WS-Management)<br>
+wisvc                                     Windows Insider Service<br>
+wlidsvc                                   Microsoft Account Sign-in Assistant<br>
+WLMS                                      Windows Licensing Monitoring Service<br>
+wmiApSrv                                  WMI Performance Adapter<br>
+WMPNetworkSvc                             Windows Media Player Network Sharing Service<br>
+WPDBusEnum                                Portable Device Enumerator Service<br>
+WpnService                                Windows Push Notifications System Service<br>
+WSearch                                   Windows Search<br>
+wuauserv                                  Windows Update<br>
+CaptureService_16c809                     CaptureService_16c809<br>
+cbdhsvc_16c809                            Clipboard User Service_16c809<br>
+CDPUserSvc_16c809                         Connected Devices Platform User Service_16c809<br>
+ConsentUxUserSvc_16c809                   ConsentUX User Service_16c809<br>
+CredentialEnrollmentManagerUserSvc_16c809 CredentialEnrollmentManagerUserSvc_16c809<br>
+DeviceAssociationBrokerSvc_16c809         DeviceAssociationBroker_16c809<br>
+DevicePickerUserSvc_16c809                DevicePicker_16c809<br>
+DevicesFlowUserSvc_16c809                 DevicesFlow_16c809<br>
+PimIndexMaintenanceSvc_16c809             Contact Data_16c809<br>
+PrintWorkflowUserSvc_16c809               PrintWorkflow_16c809<br>
+UdkUserSvc_16c809                         Udk User Service_16c809<br>
+UnistoreSvc_16c809                        User Data Storage_16c809<br>
+UserDataSvc_16c809                        User Data Access_16c809<br>
+WpnUserService_16c809                     Windows Push Notifications User Service_16c809</p></div><div class="mod-footer"></div></div></div></div><div class="sidebar-right sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="graph-view-wrapper"><div class="sidebar-section-header">Interactive Graph</div><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" class="hide" width="512px" height="512px"></canvas>
+		</div>
+		</div></div><div class="tree-container mod-root nav-folder tree-item outline-tree" data-depth="0"><div class="tree-header"><span class="sidebar-section-header">Table Of Contents</span><button class="clickable-icon collapse-tree-button" aria-label="Collapse All"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button></div><div class="tree-scroll-area tree-item-children nav-folder-children"><div class="tree-item mod-tree-folder nav-folder mod-collapsible is-collapsed" style="display: none;"></div><div class="tree-item" data-depth="1"><a class="tree-link" href="lib\media\win_32-service-names.html#Win_32 Service Names"><div class="tree-item-contents heading-link" heading-name="Win_32 Service Names"><span class="tree-item-title">Win_32 Service Names</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></body></html>
