@@ -1,6 +1,6 @@
 {
   "vaultName": "Table of Contents",
-  "lastExport": 1728927637224,
+  "lastExport": 1728927754505,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -347,41 +347,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/media/untitled-38.png",
-    "lib/media/gold-1.png",
-    "lib/media/entra-id-dashboard.png",
-    "lib/media/untitled.png",
-    "lib/media/untitled-1.png",
-    "lib/media/untitled-2.png",
-    "lib/media/untitled-3.png",
-    "lib/media/untitled-4.png",
-    "lib/media/untitled-5.png",
-    "lib/media/untitled-6.png",
-    "lib/media/untitled-7.png",
-    "lib/media/untitled-8.png",
-    "lib/media/untitled-9.png",
-    "lib/media/untitled-10.png",
-    "lib/media/untitled-11.png",
-    "lib/media/untitled-12.png",
-    "lib/media/untitled-13.png",
-    "lib/media/untitled-14.png",
-    "lib/media/untitled-15.png",
-    "lib/media/untitled-16.png",
-    "lib/media/untitled-17.png",
-    "lib/media/untitled-18.png",
-    "lib/media/untitled-19.png",
-    "lib/media/untitled-20.png",
-    "lib/media/untitled-21.png",
-    "lib/media/untitled-22.png",
-    "lib/media/untitled-23.png",
-    "lib/media/untitled-24.png",
-    "lib/media/untitled-25.png",
-    "lib/media/untitled-26.png",
-    "lib/media/untitled-27.png",
-    "lib/media/untitled-28.png",
-    "lib/media/untitled-29.png",
-    "lib/media/loic-1.png"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -417,7 +383,7 @@
   ],
   "fileInfo": {
     "about-this project/About Me.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3843,
       "exportedPath": "about-this-project/about-me.html",
       "dependencies": [
@@ -425,7 +391,7 @@
       ]
     },
     "about-this project/Build for my website.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5514,
       "exportedPath": "about-this-project/build-for-my-website.html",
       "dependencies": [
@@ -433,7 +399,7 @@
       ]
     },
     "about-this project/How to use this website.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4805,
       "exportedPath": "about-this-project/how-to-use-this-website.html",
       "dependencies": [
@@ -451,55 +417,55 @@
       ]
     },
     "artificial-intelligence/AI Systems.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1555,
       "exportedPath": "artificial-intelligence/ai-systems.html",
       "dependencies": []
     },
     "artificial-intelligence/Hugging Chat.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1274,
       "exportedPath": "artificial-intelligence/hugging-chat.html",
       "dependencies": []
     },
     "blockchain/Avalanche (AVA) Training Academy.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3327,
       "exportedPath": "blockchain/avalanche-(ava)-training-academy.html",
       "dependencies": []
     },
     "blockchain/Blockchain Subnetting.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1154,
       "exportedPath": "blockchain/blockchain-subnetting.html",
       "dependencies": []
     },
     "blockchain/LoRaWAN.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 10173,
       "exportedPath": "blockchain/lorawan.html",
       "dependencies": []
     },
     "canvas-pages/AZ-500 - Secure Networking.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 14731,
       "exportedPath": "canvas-pages/az-500-secure-networking.html",
       "dependencies": []
     },
     "canvas-pages/Cyber security diagrams.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 22583,
       "exportedPath": "canvas-pages/cyber-security-diagrams.html",
       "dependencies": []
     },
     "canvas-pages/HTB CDSA.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 31326,
       "exportedPath": "canvas-pages/htb-cdsa.html",
       "dependencies": []
     },
     "canvas-pages/Navigating the Canvas pages.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 577,
       "exportedPath": "canvas-pages/navigating-the-canvas-pages.html",
       "dependencies": [
@@ -507,31 +473,31 @@
       ]
     },
     "canvas-pages/NIST CSF 2.0.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2014,
       "exportedPath": "canvas-pages/nist-csf-2.0.html",
       "dependencies": []
     },
     "canvas-pages/Pyramid of Pain.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4689,
       "exportedPath": "canvas-pages/pyramid-of-pain.html",
       "dependencies": []
     },
     "canvas-pages/Web API.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 9022,
       "exportedPath": "canvas-pages/web-api.html",
       "dependencies": []
     },
     "canvas-pages/Zscaler Zero-trust.canvas": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2563,
       "exportedPath": "canvas-pages/zscaler-zero-trust.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/Agile Framework.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 698,
       "exportedPath": "cloud-automation-virtualization/automation/agile-framework.html",
       "dependencies": [
@@ -539,25 +505,25 @@
       ]
     },
     "cloud-automation-virtualization/Automation/CD in your Agile Team.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 22,
       "exportedPath": "cloud-automation-virtualization/automation/cd-in-your-agile-team.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/Selenium.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1432,
       "exportedPath": "cloud-automation-virtualization/automation/selenium.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/TerraForm.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2722,
       "exportedPath": "cloud-automation-virtualization/automation/terraform.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/AWS CodePipeline.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1234,
       "exportedPath": "cloud-automation-virtualization/aws/aws-codepipeline.html",
       "dependencies": [
@@ -565,13 +531,13 @@
       ]
     },
     "cloud-automation-virtualization/AWS/Becoming a Cloud Practitioner - Part 1.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 567,
       "exportedPath": "cloud-automation-virtualization/aws/becoming-a-cloud-practitioner-part-1.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/Fundamentals of Analytics on AWS - Part 1.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4428,
       "exportedPath": "cloud-automation-virtualization/aws/fundamentals-of-analytics-on-aws-part-1.html",
       "dependencies": [
@@ -579,7 +545,7 @@
       ]
     },
     "cloud-automation-virtualization/AWS/Getting Started with DevOps on AWS.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3262,
       "exportedPath": "cloud-automation-virtualization/aws/getting-started-with-devops-on-aws.html",
       "dependencies": [
@@ -587,25 +553,25 @@
       ]
     },
     "cloud-automation-virtualization/Azure Cloud/Create an app in an ASE.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3619,
       "exportedPath": "cloud-automation-virtualization/azure-cloud/create-an-app-in-an-ase.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Azure Cloud/Learning the Sandbox.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 214,
       "exportedPath": "cloud-automation-virtualization/azure-cloud/learning-the-sandbox.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Azure Cloud/Plan and implement network security configurations for an Azure SQL Managed Instance.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4159,
       "exportedPath": "cloud-automation-virtualization/azure-cloud/plan-and-implement-network-security-configurations-for-an-azure-sql-managed-instance.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Virtualization/Installing Linux Mint VM w- virt-manager (WIP).md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1638,
       "exportedPath": "cloud-automation-virtualization/virtualization/installing-linux-mint-vm-w-virt-manager-(wip).html",
       "dependencies": [
@@ -619,7 +585,7 @@
       ]
     },
     "cloud-automation-virtualization/Virtualization/Qemu-KVM-Libvirt.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4243,
       "exportedPath": "cloud-automation-virtualization/virtualization/qemu-kvm-libvirt.html",
       "dependencies": [
@@ -627,31 +593,31 @@
       ]
     },
     "cloud-automation-virtualization/Virtualization/Switch between VBox and KVM.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1103,
       "exportedPath": "cloud-automation-virtualization/virtualization/switch-between-vbox-and-kvm.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Virtualization/Virtual Machine Configuration.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2005,
       "exportedPath": "cloud-automation-virtualization/virtualization/virtual-machine-configuration.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Zero-Trust/ZScaler - Seven Elements of Highly Successful Zero Trust Architecture (WIP).md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 462,
       "exportedPath": "cloud-automation-virtualization/zero-trust/zscaler-seven-elements-of-highly-successful-zero-trust-architecture-(wip).html",
       "dependencies": []
     },
     "detection-engineering/Anomaly Detection Algorithms.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5444,
       "exportedPath": "detection-engineering/anomaly-detection-algorithms.html",
       "dependencies": []
     },
     "detection-engineering/Detection Tools.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 15097,
       "exportedPath": "detection-engineering/detection-tools.html",
       "dependencies": [
@@ -660,85 +626,95 @@
       ]
     },
     "detection-engineering/Semantic Search with ELSER.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 184,
       "exportedPath": "detection-engineering/semantic-search-with-elser.html",
       "dependencies": []
     },
     "detection-engineering/Semantic Searching.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1527,
       "exportedPath": "detection-engineering/semantic-searching.html",
       "dependencies": []
     },
     "detection-engineering/Sigma & Sigma Rules.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 950,
       "exportedPath": "detection-engineering/sigma-&-sigma-rules.html",
       "dependencies": []
     },
     "detection-engineering/YARA - Technical Documentation.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 6408,
       "exportedPath": "detection-engineering/yara-technical-documentation.html",
       "dependencies": []
     },
     "detection-engineering/YARA & Sigma.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2370,
       "exportedPath": "detection-engineering/yara-&-sigma.html",
       "dependencies": []
     },
     "digital-forensics/DFIR.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1421,
       "exportedPath": "digital-forensics/dfir.html",
       "dependencies": []
     },
     "digital-forensics/Digital Forensics Lab.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4560,
       "exportedPath": "digital-forensics/digital-forensics-lab.html",
       "dependencies": []
     },
     "digital-forensics/Digital Forensics Labs.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1038,
       "exportedPath": "digital-forensics/digital-forensics-labs.html",
       "dependencies": []
     },
     "digital-forensics/Malware Analysis.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1414,
       "exportedPath": "digital-forensics/malware-analysis.html",
       "dependencies": []
     },
     "digital-forensics/Malware Analysis-Digital Forensics.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2518,
       "exportedPath": "digital-forensics/malware-analysis-digital-forensics.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/untitled-27.png"
+      ]
     },
     "digital-forensics/Malware Threat Feeds.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 775,
       "exportedPath": "digital-forensics/malware-threat-feeds.html",
       "dependencies": []
     },
+    "github-labs-and-resources/AI Security Tools.md": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 169,
+      "exportedPath": "github-labs-and-resources/ai-security-tools.html",
+      "dependencies": [
+        "lib/media/deep_fake_detect_gh.png"
+      ]
+    },
     "github-labs-and-resources/awsgoat.png": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 146939,
       "exportedPath": "github-labs-and-resources/awsgoat.png",
       "dependencies": []
     },
     "github-labs-and-resources/Black Hill Information Security.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1120,
       "exportedPath": "github-labs-and-resources/black-hill-information-security.html",
       "dependencies": []
     },
     "github-labs-and-resources/Cloud Security.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1999,
       "exportedPath": "github-labs-and-resources/cloud-security.html",
       "dependencies": [
@@ -747,73 +723,75 @@
       ]
     },
     "github-labs-and-resources/Github Repos.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2726,
       "exportedPath": "github-labs-and-resources/github-repos.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/untitled-25.png"
+      ]
     },
     "github-labs-and-resources/halberd.png": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 100141,
       "exportedPath": "github-labs-and-resources/halberd.png",
       "dependencies": []
     },
     "github-labs-and-resources/HTB- Sherlocks- Investigation Lab.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 687,
       "exportedPath": "github-labs-and-resources/htb-sherlocks-investigation-lab.html",
       "dependencies": []
     },
     "github-labs-and-resources/RITA (Real Intelligence Threat Analytics).md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 541,
       "exportedPath": "github-labs-and-resources/rita-(real-intelligence-threat-analytics).html",
       "dependencies": []
     },
     "github-labs-and-resources/RSS Builder.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 424,
       "exportedPath": "github-labs-and-resources/rss-builder.html",
       "dependencies": []
     },
     "github-labs-and-resources/Water Execution GitHub Lab.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 7298,
       "exportedPath": "github-labs-and-resources/water-execution-github-lab.html",
       "dependencies": []
     },
     "github-labs-and-resources/Web Application Security.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 602,
       "exportedPath": "github-labs-and-resources/web-application-security.html",
       "dependencies": []
     },
     "grc/CISA NSA Best Practices for Securing Cloud service.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2927,
       "exportedPath": "grc/cisa-nsa-best-practices-for-securing-cloud-service.html",
       "dependencies": []
     },
     "grc/Common Cyber Security Frameworks.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2763,
       "exportedPath": "grc/common-cyber-security-frameworks.html",
       "dependencies": []
     },
     "grc/NIST Cybersecurity Framework (CSF 2.0).md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2962,
       "exportedPath": "grc/nist-cybersecurity-framework-(csf-2.0).html",
       "dependencies": []
     },
     "helpful-guides/Checking SHA256 signature on a file.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1812,
       "exportedPath": "helpful-guides/checking-sha256-signature-on-a-file.html",
       "dependencies": []
     },
     "in-progress-certs/Certificates.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5434,
       "exportedPath": "in-progress-certs/certificates.html",
       "dependencies": [
@@ -821,86 +799,1267 @@
         "lib/media/aws-training.png"
       ]
     },
+    "lib/media/4625.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 28663,
+      "exportedPath": "lib/media/4625.png",
+      "dependencies": []
+    },
+    "lib/media/ad-agent1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 22558,
+      "exportedPath": "lib/media/ad-agent1.png",
+      "dependencies": []
+    },
+    "lib/media/ad-server2.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 35733,
+      "exportedPath": "lib/media/ad-server2.png",
+      "dependencies": []
+    },
+    "lib/media/add-bridge.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 56263,
+      "exportedPath": "lib/media/add-bridge.png",
+      "dependencies": []
+    },
+    "lib/media/adin.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 109715,
+      "exportedPath": "lib/media/adin.png",
+      "dependencies": []
+    },
+    "lib/media/Agile development.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 100144,
+      "exportedPath": "lib/media/agile-development.png",
+      "dependencies": []
+    },
+    "lib/media/agile-canvas.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 100144,
+      "exportedPath": "lib/media/agile-canvas.png",
+      "dependencies": []
+    },
+    "lib/media/app-logos.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 23525,
+      "exportedPath": "lib/media/app-logos.png",
+      "dependencies": []
+    },
+    "lib/media/aws-structures.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 174753,
+      "exportedPath": "lib/media/aws-structures.png",
+      "dependencies": []
+    },
+    "lib/media/aws-training.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 109566,
+      "exportedPath": "lib/media/aws-training.png",
+      "dependencies": []
+    },
+    "lib/media/azure-account.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 52226,
+      "exportedPath": "lib/media/azure-account.png",
+      "dependencies": []
+    },
+    "lib/media/azure-data-center.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 136484,
+      "exportedPath": "lib/media/azure-data-center.png",
+      "dependencies": []
+    },
+    "lib/media/azure-nm.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 25247,
+      "exportedPath": "lib/media/azure-nm.png",
+      "dependencies": []
+    },
+    "lib/media/azure-region.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 51486,
+      "exportedPath": "lib/media/azure-region.png",
+      "dependencies": []
+    },
+    "lib/media/azure-web-app.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 69692,
+      "exportedPath": "lib/media/azure-web-app.png",
+      "dependencies": []
+    },
+    "lib/media/badacl.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 367443,
+      "exportedPath": "lib/media/badacl.png",
+      "dependencies": []
+    },
+    "lib/media/canvas-demo-2024-10-06_22.16.mp4": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 17715439,
+      "exportedPath": "lib/media/canvas-demo-2024-10-06_22.16.mp4",
+      "dependencies": []
+    },
+    "lib/media/cmd-detection.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 5853,
+      "exportedPath": "lib/media/cmd-detection.png",
+      "dependencies": []
+    },
+    "lib/media/create-vm.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 19941,
+      "exportedPath": "lib/media/create-vm.png",
+      "dependencies": []
+    },
+    "lib/media/create-vm 1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 19941,
+      "exportedPath": "lib/media/create-vm-1.png",
+      "dependencies": []
+    },
+    "lib/media/current-dir.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42753,
+      "exportedPath": "lib/media/current-dir.png",
+      "dependencies": []
+    },
+    "lib/media/dark-mode.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 108550,
+      "exportedPath": "lib/media/dark-mode.png",
+      "dependencies": []
+    },
+    "lib/media/dashboard_rules.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 109193,
+      "exportedPath": "lib/media/dashboard_rules.png",
+      "dependencies": []
+    },
+    "lib/media/dc-sync.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 71870,
+      "exportedPath": "lib/media/dc-sync.png",
+      "dependencies": []
+    },
+    "lib/media/dc6.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 64786,
+      "exportedPath": "lib/media/dc6.png",
+      "dependencies": []
+    },
+    "lib/media/dc7.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 34992,
+      "exportedPath": "lib/media/dc7.png",
+      "dependencies": []
+    },
+    "lib/media/dcs.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 16448,
+      "exportedPath": "lib/media/dcs.png",
+      "dependencies": []
+    },
+    "lib/media/dcs1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 15668,
+      "exportedPath": "lib/media/dcs1.png",
+      "dependencies": []
+    },
+    "lib/media/dcs2.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 99761,
+      "exportedPath": "lib/media/dcs2.png",
+      "dependencies": []
+    },
+    "lib/media/dcs3.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 72953,
+      "exportedPath": "lib/media/dcs3.png",
+      "dependencies": []
+    },
+    "lib/media/dcs6.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 73952,
+      "exportedPath": "lib/media/dcs6.png",
+      "dependencies": []
+    },
+    "lib/media/deep_fake_detect_gh.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 92378,
+      "exportedPath": "lib/media/deep_fake_detect_gh.png",
+      "dependencies": []
+    },
+    "lib/media/demo-pipeline.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 48688,
+      "exportedPath": "lib/media/demo-pipeline.png",
+      "dependencies": []
+    },
+    "lib/media/diagnostic-setting.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 82220,
+      "exportedPath": "lib/media/diagnostic-setting.png",
+      "dependencies": []
+    },
+    "lib/media/dir-nav.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 5921,
+      "exportedPath": "lib/media/dir-nav.png",
+      "dependencies": []
+    },
+    "lib/media/dl-mirror.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 30327,
+      "exportedPath": "lib/media/dl-mirror.png",
+      "dependencies": []
+    },
+    "lib/media/dl-sysmon.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 76021,
+      "exportedPath": "lib/media/dl-sysmon.png",
+      "dependencies": []
+    },
+    "lib/media/dll-hijack.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42749,
+      "exportedPath": "lib/media/dll-hijack.png",
+      "dependencies": []
+    },
+    "lib/media/down-ze-rabbithole1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 312415,
+      "exportedPath": "lib/media/down-ze-rabbithole1.png",
+      "dependencies": []
+    },
+    "lib/media/entra-id dashboard.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 298591,
+      "exportedPath": "lib/media/entra-id-dashboard.png",
+      "dependencies": []
+    },
+    "lib/media/error.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 55871,
+      "exportedPath": "lib/media/error.png",
+      "dependencies": []
+    },
+    "lib/media/event-logs.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 66036,
+      "exportedPath": "lib/media/event-logs.png",
+      "dependencies": []
+    },
+    "lib/media/event-viewer-access.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 85998,
+      "exportedPath": "lib/media/event-viewer-access.png",
+      "dependencies": []
+    },
+    "lib/media/evolving-security.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 213293,
+      "exportedPath": "lib/media/evolving-security.png",
+      "dependencies": []
+    },
+    "lib/media/express-route.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 34108,
+      "exportedPath": "lib/media/express-route.png",
+      "dependencies": []
+    },
+    "lib/media/express-route-circuit.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 96385,
+      "exportedPath": "lib/media/express-route-circuit.png",
+      "dependencies": []
+    },
+    "lib/media/filter-log.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 148800,
+      "exportedPath": "lib/media/filter-log.png",
+      "dependencies": []
+    },
+    "lib/media/full.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 51386,
+      "exportedPath": "lib/media/full.png",
+      "dependencies": []
+    },
+    "lib/media/geography.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 115310,
+      "exportedPath": "lib/media/geography.png",
+      "dependencies": []
+    },
+    "lib/media/git-sysmon.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 259144,
+      "exportedPath": "lib/media/git-sysmon.png",
+      "dependencies": []
+    },
+    "lib/media/github-mark-white.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 4837,
+      "exportedPath": "lib/media/github-mark-white.png",
+      "dependencies": []
+    },
+    "lib/media/gold.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 28382,
+      "exportedPath": "lib/media/gold.png",
+      "dependencies": []
+    },
+    "lib/media/gold 1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42694,
+      "exportedPath": "lib/media/gold-1.png",
+      "dependencies": []
+    },
+    "lib/media/gold1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 68916,
+      "exportedPath": "lib/media/gold1.png",
+      "dependencies": []
+    },
+    "lib/media/golden-ticket.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 49232,
+      "exportedPath": "lib/media/golden-ticket.png",
+      "dependencies": []
+    },
+    "lib/media/goldtick.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42136,
+      "exportedPath": "lib/media/goldtick.png",
+      "dependencies": []
+    },
+    "lib/media/gpm.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 124381,
+      "exportedPath": "lib/media/gpm.png",
+      "dependencies": []
+    },
+    "lib/media/gpo.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 152607,
+      "exportedPath": "lib/media/gpo.png",
+      "dependencies": []
+    },
+    "lib/media/gpo-dropdown.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 130184,
+      "exportedPath": "lib/media/gpo-dropdown.png",
+      "dependencies": []
+    },
+    "lib/media/graph-dash.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 103058,
+      "exportedPath": "lib/media/graph-dash.png",
+      "dependencies": []
+    },
+    "lib/media/hash-tag.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 77247,
+      "exportedPath": "lib/media/hash-tag.png",
+      "dependencies": []
+    },
+    "lib/media/htb-xml-queries.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 80108,
+      "exportedPath": "lib/media/htb-xml-queries.png",
+      "dependencies": []
+    },
+    "lib/media/ikev2.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 48079,
+      "exportedPath": "lib/media/ikev2.png",
+      "dependencies": []
+    },
+    "lib/media/ikev2-s2s.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 52017,
+      "exportedPath": "lib/media/ikev2-s2s.png",
+      "dependencies": []
+    },
+    "lib/media/impac-ana.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 193270,
+      "exportedPath": "lib/media/impac-ana.png",
+      "dependencies": []
+    },
+    "lib/media/install-local.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29139,
+      "exportedPath": "lib/media/install-local.png",
+      "dependencies": []
+    },
+    "lib/media/int-graph1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 91630,
+      "exportedPath": "lib/media/int-graph1.png",
+      "dependencies": []
+    },
+    "lib/media/ipconfig.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 44637,
+      "exportedPath": "lib/media/ipconfig.png",
+      "dependencies": []
+    },
+    "lib/media/ipv4.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 73965,
+      "exportedPath": "lib/media/ipv4.png",
+      "dependencies": []
+    },
+    "lib/media/jekyll-logo-black-red-transparent.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 23392,
+      "exportedPath": "lib/media/jekyll-logo-black-red-transparent.png",
+      "dependencies": []
+    },
+    "lib/media/kerberoast10.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 12474,
+      "exportedPath": "lib/media/kerberoast10.png",
+      "dependencies": []
+    },
+    "lib/media/kerberoast11.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 18860,
+      "exportedPath": "lib/media/kerberoast11.png",
+      "dependencies": []
+    },
+    "lib/media/kerberoast12.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 27567,
+      "exportedPath": "lib/media/kerberoast12.png",
+      "dependencies": []
+    },
+    "lib/media/kerberoast14.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 59007,
+      "exportedPath": "lib/media/kerberoast14.png",
+      "dependencies": []
+    },
+    "lib/media/kerberoast15.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 46187,
+      "exportedPath": "lib/media/kerberoast15.png",
+      "dependencies": []
+    },
+    "lib/media/kerberoast16.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 93416,
+      "exportedPath": "lib/media/kerberoast16.png",
+      "dependencies": []
+    },
+    "lib/media/kibana.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 30266,
+      "exportedPath": "lib/media/kibana.png",
+      "dependencies": []
+    },
+    "lib/media/light.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 1042,
+      "exportedPath": "lib/media/light.png",
+      "dependencies": []
+    },
+    "lib/media/light-mode.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 111281,
+      "exportedPath": "lib/media/light-mode.png",
+      "dependencies": []
+    },
+    "lib/media/log-enable.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 187364,
+      "exportedPath": "lib/media/log-enable.png",
+      "dependencies": []
+    },
+    "lib/media/logos.canvas": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 833,
+      "exportedPath": "lib/media/logos.html",
+      "dependencies": [
+        "lib/media/jekyll-logo-black-red-transparent.png",
+        "lib/media/obsidian-icon.png"
+      ]
+    },
+    "lib/media/loic.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 209713,
+      "exportedPath": "lib/media/loic.png",
+      "dependencies": []
+    },
+    "lib/media/mgmt-groups.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 44279,
+      "exportedPath": "lib/media/mgmt-groups.png",
+      "dependencies": []
+    },
+    "lib/media/mimikatz.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 143474,
+      "exportedPath": "lib/media/mimikatz.png",
+      "dependencies": []
+    },
+    "lib/media/mimikatz-cmd.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 26882,
+      "exportedPath": "lib/media/mimikatz-cmd.png",
+      "dependencies": []
+    },
+    "lib/media/mimikatz-cmd-spawn.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 99027,
+      "exportedPath": "lib/media/mimikatz-cmd-spawn.png",
+      "dependencies": []
+    },
+    "lib/media/mimikatz-klist.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29588,
+      "exportedPath": "lib/media/mimikatz-klist.png",
+      "dependencies": []
+    },
+    "lib/media/module-logging.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 129958,
+      "exportedPath": "lib/media/module-logging.png",
+      "dependencies": []
+    },
+    "lib/media/module-names.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 182930,
+      "exportedPath": "lib/media/module-names.png",
+      "dependencies": []
+    },
+    "lib/media/ms-certs.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 94174,
+      "exportedPath": "lib/media/ms-certs.png",
+      "dependencies": []
+    },
+    "lib/media/netcat-ft.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 51358,
+      "exportedPath": "lib/media/netcat-ft.png",
+      "dependencies": []
+    },
+    "lib/media/new-vm.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 51159,
+      "exportedPath": "lib/media/new-vm.png",
+      "dependencies": []
+    },
+    "lib/media/night.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 853,
+      "exportedPath": "lib/media/night.png",
+      "dependencies": []
+    },
+    "lib/media/nmap.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 52095,
+      "exportedPath": "lib/media/nmap.png",
+      "dependencies": []
+    },
+    "lib/media/obsidian-icon.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 85392,
+      "exportedPath": "lib/media/obsidian-icon.png",
+      "dependencies": []
+    },
+    "lib/media/operational.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 30642,
+      "exportedPath": "lib/media/operational.png",
+      "dependencies": []
+    },
+    "lib/media/os.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 68872,
+      "exportedPath": "lib/media/os.png",
+      "dependencies": []
+    },
+    "lib/media/paas.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 197389,
+      "exportedPath": "lib/media/paas.png",
+      "dependencies": []
+    },
+    "lib/media/risky-users.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 90507,
+      "exportedPath": "lib/media/risky-users.png",
+      "dependencies": []
+    },
+    "lib/media/risky-users-dash.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 118639,
+      "exportedPath": "lib/media/risky-users-dash.png",
+      "dependencies": []
+    },
+    "lib/media/rpcinfo.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 56762,
+      "exportedPath": "lib/media/rpcinfo.png",
+      "dependencies": []
+    },
+    "lib/media/safeline.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 144837,
+      "exportedPath": "lib/media/safeline.png",
+      "dependencies": []
+    },
+    "lib/media/sc-audit-policy.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 285583,
+      "exportedPath": "lib/media/sc-audit-policy.png",
+      "dependencies": []
+    },
+    "lib/media/sc-change-computer.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 16829,
+      "exportedPath": "lib/media/sc-change-computer.png",
+      "dependencies": []
+    },
+    "lib/media/sc-custom-install.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 84608,
+      "exportedPath": "lib/media/sc-custom-install.png",
+      "dependencies": []
+    },
+    "lib/media/sc-enable-module-logging.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 138838,
+      "exportedPath": "lib/media/sc-enable-module-logging.png",
+      "dependencies": []
+    },
+    "lib/media/sc-ethernet.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 26142,
+      "exportedPath": "lib/media/sc-ethernet.png",
+      "dependencies": []
+    },
+    "lib/media/sc-event-viewer.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 166534,
+      "exportedPath": "lib/media/sc-event-viewer.png",
+      "dependencies": []
+    },
+    "lib/media/sc-install-feature.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 125805,
+      "exportedPath": "lib/media/sc-install-feature.png",
+      "dependencies": []
+    },
+    "lib/media/sc-login-screen.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 442080,
+      "exportedPath": "lib/media/sc-login-screen.png",
+      "dependencies": []
+    },
+    "lib/media/sc-ms-os-setup.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 74849,
+      "exportedPath": "lib/media/sc-ms-os-setup.png",
+      "dependencies": []
+    },
+    "lib/media/sc-ps-output.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 75586,
+      "exportedPath": "lib/media/sc-ps-output.png",
+      "dependencies": []
+    },
+    "lib/media/sc-unallocated.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 40880,
+      "exportedPath": "lib/media/sc-unallocated.png",
+      "dependencies": []
+    },
+    "lib/media/sc-vul-dir.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 70873,
+      "exportedPath": "lib/media/sc-vul-dir.png",
+      "dependencies": []
+    },
+    "lib/media/Screenshot from 2024-10-14 10-13-35.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42136,
+      "exportedPath": "lib/media/screenshot-from-2024-10-14-10-13-35.png",
+      "dependencies": []
+    },
+    "lib/media/script-block.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 304626,
+      "exportedPath": "lib/media/script-block.png",
+      "dependencies": []
+    },
+    "lib/media/sd.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 57527,
+      "exportedPath": "lib/media/sd.png",
+      "dependencies": []
+    },
+    "lib/media/sde.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 27112,
+      "exportedPath": "lib/media/sde.png",
+      "dependencies": []
+    },
+    "lib/media/search-bar.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 10451,
+      "exportedPath": "lib/media/search-bar.png",
+      "dependencies": []
+    },
+    "lib/media/secator.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 219736,
+      "exportedPath": "lib/media/secator.png",
+      "dependencies": []
+    },
+    "lib/media/spec-picker.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 127322,
+      "exportedPath": "lib/media/spec-picker.png",
+      "dependencies": []
+    },
+    "lib/media/sysmon.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29078,
+      "exportedPath": "lib/media/sysmon.png",
+      "dependencies": []
+    },
+    "lib/media/sysmon-config.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 147891,
+      "exportedPath": "lib/media/sysmon-config.png",
+      "dependencies": []
+    },
+    "lib/media/sysmon-xml.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 221529,
+      "exportedPath": "lib/media/sysmon-xml.png",
+      "dependencies": []
+    },
+    "lib/media/sysmon2.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 20509,
+      "exportedPath": "lib/media/sysmon2.png",
+      "dependencies": []
+    },
+    "lib/media/test-page.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 39946,
+      "exportedPath": "lib/media/test-page.png",
+      "dependencies": []
+    },
+    "lib/media/tier-support.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 25102,
+      "exportedPath": "lib/media/tier-support.png",
+      "dependencies": []
+    },
+    "lib/media/toc.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 1008,
+      "exportedPath": "lib/media/toc.png",
+      "dependencies": []
+    },
+    "lib/media/udp.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 60962,
+      "exportedPath": "lib/media/udp.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 181818,
+      "exportedPath": "lib/media/untitled.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 172830,
+      "exportedPath": "lib/media/untitled-1.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 2.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 153484,
+      "exportedPath": "lib/media/untitled-2.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 3.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 175695,
+      "exportedPath": "lib/media/untitled-3.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 4.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 129747,
+      "exportedPath": "lib/media/untitled-4.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 5.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 97823,
+      "exportedPath": "lib/media/untitled-5.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 6.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 56082,
+      "exportedPath": "lib/media/untitled-6.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 7.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 21160,
+      "exportedPath": "lib/media/untitled-7.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 8.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 47130,
+      "exportedPath": "lib/media/untitled-8.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 9.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 36210,
+      "exportedPath": "lib/media/untitled-9.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 10.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 46493,
+      "exportedPath": "lib/media/untitled-10.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 11.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 61861,
+      "exportedPath": "lib/media/untitled-11.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 12.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29376,
+      "exportedPath": "lib/media/untitled-12.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 13.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 5449,
+      "exportedPath": "lib/media/untitled-13.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 14.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 20828,
+      "exportedPath": "lib/media/untitled-14.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 15.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 23164,
+      "exportedPath": "lib/media/untitled-15.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 16.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 54767,
+      "exportedPath": "lib/media/untitled-16.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 17.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 170801,
+      "exportedPath": "lib/media/untitled-17.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 18.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 93554,
+      "exportedPath": "lib/media/untitled-18.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 19.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 73200,
+      "exportedPath": "lib/media/untitled-19.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 20.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 24974,
+      "exportedPath": "lib/media/untitled-20.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 21.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 84906,
+      "exportedPath": "lib/media/untitled-21.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 22.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 15022,
+      "exportedPath": "lib/media/untitled-22.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 23.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 44451,
+      "exportedPath": "lib/media/untitled-23.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 24.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 21805,
+      "exportedPath": "lib/media/untitled-24.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 25.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 64993,
+      "exportedPath": "lib/media/untitled-25.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 26.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 39231,
+      "exportedPath": "lib/media/untitled-26.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 27.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29340,
+      "exportedPath": "lib/media/untitled-27.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 28.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 58963,
+      "exportedPath": "lib/media/untitled-28.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 29.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 93955,
+      "exportedPath": "lib/media/untitled-29.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 30.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 71700,
+      "exportedPath": "lib/media/untitled-30.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 31.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 163119,
+      "exportedPath": "lib/media/untitled-31.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 32.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 13202,
+      "exportedPath": "lib/media/untitled-32.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 33.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 19100,
+      "exportedPath": "lib/media/untitled-33.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 34.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 49115,
+      "exportedPath": "lib/media/untitled-34.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 35.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 161210,
+      "exportedPath": "lib/media/untitled-35.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 36.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 52205,
+      "exportedPath": "lib/media/untitled-36.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 37.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 197322,
+      "exportedPath": "lib/media/untitled-37.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 38.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 76082,
+      "exportedPath": "lib/media/untitled-38.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 39.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 132171,
+      "exportedPath": "lib/media/untitled-39.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 40.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 176363,
+      "exportedPath": "lib/media/untitled-40.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 41.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 137646,
+      "exportedPath": "lib/media/untitled-41.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 42.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 62091,
+      "exportedPath": "lib/media/untitled-42.png",
+      "dependencies": []
+    },
+    "lib/media/Untitled 43.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 49030,
+      "exportedPath": "lib/media/untitled-43.png",
+      "dependencies": []
+    },
+    "lib/media/verify.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 25509,
+      "exportedPath": "lib/media/verify.png",
+      "dependencies": []
+    },
+    "lib/media/verify-key.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 6081,
+      "exportedPath": "lib/media/verify-key.png",
+      "dependencies": []
+    },
+    "lib/media/version.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 88429,
+      "exportedPath": "lib/media/version.png",
+      "dependencies": []
+    },
+    "lib/media/virbr-output.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 14103,
+      "exportedPath": "lib/media/virbr-output.png",
+      "dependencies": []
+    },
+    "lib/media/virsh-net.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 8737,
+      "exportedPath": "lib/media/virsh-net.png",
+      "dependencies": []
+    },
+    "lib/media/virt-manager.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 15372,
+      "exportedPath": "lib/media/virt-manager.png",
+      "dependencies": []
+    },
+    "lib/media/vm-bridge.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 28728,
+      "exportedPath": "lib/media/vm-bridge.png",
+      "dependencies": []
+    },
+    "lib/media/vm-http.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 15156,
+      "exportedPath": "lib/media/vm-http.png",
+      "dependencies": []
+    },
+    "lib/media/vpn-gateway.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 76138,
+      "exportedPath": "lib/media/vpn-gateway.png",
+      "dependencies": []
+    },
+    "lib/media/vulnad.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 91229,
+      "exportedPath": "lib/media/vulnad.png",
+      "dependencies": []
+    },
+    "lib/media/vulnusers.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 256368,
+      "exportedPath": "lib/media/vulnusers.png",
+      "dependencies": []
+    },
+    "lib/media/vulnusers 2.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 147973,
+      "exportedPath": "lib/media/vulnusers-2.png",
+      "dependencies": []
+    },
+    "lib/media/wazuh.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 67161,
+      "exportedPath": "lib/media/wazuh.png",
+      "dependencies": []
+    },
+    "lib/media/wazuh-agent.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 11560,
+      "exportedPath": "lib/media/wazuh-agent.png",
+      "dependencies": []
+    },
+    "lib/media/wazuh-agent1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29060,
+      "exportedPath": "lib/media/wazuh-agent1.png",
+      "dependencies": []
+    },
+    "lib/media/wazuh-dcsync.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 60623,
+      "exportedPath": "lib/media/wazuh-dcsync.png",
+      "dependencies": []
+    },
+    "lib/media/wazuh-dcsync1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 22797,
+      "exportedPath": "lib/media/wazuh-dcsync1.png",
+      "dependencies": []
+    },
+    "lib/media/wazuh-test.mp4": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42682694,
+      "exportedPath": "lib/media/wazuh-test.mp4",
+      "dependencies": []
+    },
+    "lib/media/windows-logs.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 57734,
+      "exportedPath": "lib/media/windows-logs.png",
+      "dependencies": []
+    },
+    "lib/media/xmas.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 61612,
+      "exportedPath": "lib/media/xmas.png",
+      "dependencies": []
+    },
+    "lib/media/zeek.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 33349,
+      "exportedPath": "lib/media/zeek.png",
+      "dependencies": []
+    },
+    "lib/media/zm.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 411744,
+      "exportedPath": "lib/media/zm.png",
+      "dependencies": []
+    },
     "linux/All Things Linux.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2038,
       "exportedPath": "linux/all-things-linux.html",
       "dependencies": []
     },
     "linux/Automatically CIS Benchmark workstations with Ubuntu Pro.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 0,
       "exportedPath": "linux/automatically-cis-benchmark-workstations-with-ubuntu-pro.html",
       "dependencies": []
     },
     "linux/Installing clamtk Virus Scanner on Linux Mint.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 773,
       "exportedPath": "linux/installing-clamtk-virus-scanner-on-linux-mint.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/untitled-22.png"
+      ]
     },
     "linux/Installing Kali in Docker.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 344,
       "exportedPath": "linux/installing-kali-in-docker.html",
       "dependencies": []
     },
     "linux/Installing SSH for Arch Linux.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 581,
       "exportedPath": "linux/installing-ssh-for-arch-linux.html",
       "dependencies": []
     },
     "linux/Linux - Random Commands.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 324,
       "exportedPath": "linux/linux-random-commands.html",
       "dependencies": []
     },
     "linux/Linux Command Sheet.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 8438,
       "exportedPath": "linux/linux-command-sheet.html",
       "dependencies": []
     },
     "linux/Linux Networking.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 792,
       "exportedPath": "linux/linux-networking.html",
       "dependencies": []
     },
     "linux/Mounting NTFS Partition on Linux.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 372,
       "exportedPath": "linux/mounting-ntfs-partition-on-linux.html",
       "dependencies": []
     },
+    "log-analysis/Cloud Monitoring.md": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 425,
+      "exportedPath": "log-analysis/cloud-monitoring.html",
+      "dependencies": []
+    },
     "log-analysis/Encrypted traffic - A double-edged sword for network defenders.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 205,
       "exportedPath": "log-analysis/encrypted-traffic-a-double-edged-sword-for-network-defenders.html",
       "dependencies": []
     },
     "log-analysis/Events Logs.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4630,
       "exportedPath": "log-analysis/events-logs.html",
       "dependencies": []
     },
     "log-analysis/Packet Capture.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 558,
       "exportedPath": "log-analysis/packet-capture.html",
       "dependencies": []
     },
     "log-analysis/Resources.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2148,
       "exportedPath": "log-analysis/resources.html",
       "dependencies": []
     },
     "microsoft/Active Directory/Active Directory.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5012,
       "exportedPath": "microsoft/active-directory/active-directory.html",
       "dependencies": [
@@ -914,14 +2073,45 @@
         "lib/media/mimikatz-klist.png"
       ]
     },
+    "microsoft/Active Directory/Active Directory - Credential Attacks.md": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 13126,
+      "exportedPath": "microsoft/active-directory/active-directory-credential-attacks.html",
+      "dependencies": [
+        "lib/media/wazuh.png",
+        "lib/media/dashboard_rules.png",
+        "lib/media/ad-server2.png",
+        "lib/media/sysmon.png",
+        "lib/media/sysmon2.png",
+        "lib/media/ad-agent1.png",
+        "lib/media/wazuh-agent.png",
+        "lib/media/wazuh-agent1.png",
+        "lib/media/dcs.png",
+        "lib/media/dcs2.png",
+        "lib/media/dcs1.png",
+        "lib/media/dcs3.png",
+        "lib/media/dcs6.png",
+        "lib/media/dc-sync.png",
+        "lib/media/dc7.png",
+        "lib/media/gold-1.png",
+        "lib/media/gold1.png",
+        "lib/media/goldtick.png",
+        "lib/media/kerberoast10.png",
+        "lib/media/kerberoast11.png",
+        "lib/media/kerberoast12.png",
+        "lib/media/kerberoast14.png",
+        "lib/media/kerberoast15.png",
+        "lib/media/kerberoast16.png"
+      ]
+    },
     "microsoft/Active Directory/Advanced Threat Hunting in Active Directory.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5399,
       "exportedPath": "microsoft/active-directory/advanced-threat-hunting-in-active-directory.html",
       "dependencies": []
     },
     "microsoft/Active Directory/DeepBlueCLI.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5373,
       "exportedPath": "microsoft/active-directory/deepbluecli.html",
       "dependencies": [
@@ -934,7 +2124,7 @@
       ]
     },
     "microsoft/Active Directory/Enhancing Security with Microsoft Entra ID Protection- Latest Developments and Best Practices.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5532,
       "exportedPath": "microsoft/active-directory/enhancing-security-with-microsoft-entra-id-protection-latest-developments-and-best-practices.html",
       "dependencies": [
@@ -945,7 +2135,7 @@
       ]
     },
     "microsoft/Active Directory/Hunting with Microsoft Graph activity logs.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 16043,
       "exportedPath": "microsoft/active-directory/hunting-with-microsoft-graph-activity-logs.html",
       "dependencies": [
@@ -953,13 +2143,13 @@
       ]
     },
     "microsoft/Active Directory/ID Tokens vs. Access Tokens.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 867,
       "exportedPath": "microsoft/active-directory/id-tokens-vs.-access-tokens.html",
       "dependencies": []
     },
     "microsoft/Active Directory/Investigating Risky Users in Entra ID (WIP).md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5585,
       "exportedPath": "microsoft/active-directory/investigating-risky-users-in-entra-id-(wip).html",
       "dependencies": [
@@ -968,25 +2158,25 @@
       ]
     },
     "microsoft/Active Directory/Threat Investigations.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1828,
       "exportedPath": "microsoft/active-directory/threat-investigations.html",
       "dependencies": []
     },
     "microsoft/Active Directory/Windows Event Log Analysis.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4316,
       "exportedPath": "microsoft/active-directory/windows-event-log-analysis.html",
       "dependencies": []
     },
     "microsoft/Active Directory/Windows Registry.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1463,
       "exportedPath": "microsoft/active-directory/windows-registry.html",
       "dependencies": []
     },
     "microsoft/AZ-500 Identity and Access Management.md": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 163035,
       "exportedPath": "microsoft/az-500-identity-and-access-management.html",
       "dependencies": [
@@ -1024,31 +2214,31 @@
       ]
     },
     "microsoft/AZ-500 Plan and implement security.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1812,
       "exportedPath": "microsoft/az-500-plan-and-implement-security.html",
       "dependencies": []
     },
     "microsoft/AZ-500 Secure Networking.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 41350,
       "exportedPath": "microsoft/az-500-secure-networking.html",
       "dependencies": []
     },
     "microsoft/Describe Azure management infrastructure.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2224,
       "exportedPath": "microsoft/describe-azure-management-infrastructure.html",
       "dependencies": []
     },
     "microsoft/Describe Azure physical infrastructure.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1944,
       "exportedPath": "microsoft/describe-azure-physical-infrastructure.html",
       "dependencies": []
     },
     "microsoft/Leveraging Custom XML Queries.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 489,
       "exportedPath": "microsoft/leveraging-custom-xml-queries.html",
       "dependencies": [
@@ -1056,57 +2246,61 @@
       ]
     },
     "microsoft/Microsoft Azure AZ-900.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3558,
       "exportedPath": "microsoft/microsoft-azure-az-900.html",
       "dependencies": []
     },
     "microsoft/Microsoft Enterprise Access Model.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 8843,
       "exportedPath": "microsoft/microsoft-enterprise-access-model.html",
       "dependencies": []
     },
     "microsoft/Sysmon.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 472,
       "exportedPath": "microsoft/sysmon.html",
       "dependencies": []
     },
     "microsoft/Windows Event Logs.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 95,
       "exportedPath": "microsoft/windows-event-logs.html",
       "dependencies": []
     },
+    "microsoft/Windows System Logs.md": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 4588,
+      "exportedPath": "microsoft/windows-system-logs.html",
+      "dependencies": []
+    },
     "networking/Packet Tracer Labs.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 9236,
       "exportedPath": "networking/packet-tracer-labs.html",
       "dependencies": []
     },
     "networking/RESTFUL API.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5575,
       "exportedPath": "networking/restful-api.html",
       "dependencies": []
     },
     "networking/URI vs. URL.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3046,
       "exportedPath": "networking/uri-vs.-url.html",
       "dependencies": []
     },
     "pentesting/DoS.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 243,
       "exportedPath": "pentesting/dos.html",
-      "dependencies": [
-        "lib/media/loic-1.png"
-      ]
+      "dependencies": []
     },
     "pentesting/Entra ID Exploit.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1272,
       "exportedPath": "pentesting/entra-id-exploit.html",
       "dependencies": [
@@ -1114,7 +2308,7 @@
       ]
     },
     "pentesting/Enumeration.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 4414,
       "exportedPath": "pentesting/enumeration.html",
       "dependencies": [
@@ -1131,13 +2325,15 @@
       ]
     },
     "pentesting/Exploits.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 839,
       "exportedPath": "pentesting/exploits.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/untitled-33.png"
+      ]
     },
     "pentesting/GitHub repos.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 366,
       "exportedPath": "pentesting/github-repos.html",
       "dependencies": [
@@ -1145,19 +2341,19 @@
       ]
     },
     "privacy/Browser Fingerprinting.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 356,
       "exportedPath": "privacy/browser-fingerprinting.html",
       "dependencies": []
     },
     "privacy/Public DNS Resolver 1 1 1 1.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 8105,
       "exportedPath": "privacy/public-dns-resolver-1-1-1-1.html",
       "dependencies": []
     },
     "projects/Secretcon Active Directory server build (WIP).md": {
-      "modifiedTime": 1728926556901,
+      "modifiedTime": 1728927754505,
       "sourceSize": 27852,
       "exportedPath": "projects/secretcon-active-directory-server-build-(wip).html",
       "dependencies": [
@@ -1177,1671 +2373,444 @@
       ]
     },
     "projects/Vulnerable AD Lab.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5729,
       "exportedPath": "projects/vulnerable-ad-lab.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/untitled-15.png",
+        "lib/media/untitled-16.png"
+      ]
     },
     "resources/AC-Hunter Set up.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 96,
       "exportedPath": "resources/ac-hunter-set-up.html",
       "dependencies": []
     },
     "resources/Docs for major service providers.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 1544,
       "exportedPath": "resources/docs-for-major-service-providers.html",
       "dependencies": []
     },
     "resources/Malware Threat Feeds.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 2658,
       "exportedPath": "resources/malware-threat-feeds.html",
       "dependencies": []
     },
     "resources/Python Packages for domain investigation.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 3441,
       "exportedPath": "resources/python-packages-for-domain-investigation.html",
       "dependencies": []
     },
     "resources/Table of Industry Security Tools.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 44664,
       "exportedPath": "resources/table-of-industry-security-tools.html",
       "dependencies": []
     },
     "resources/Table of Security Tools.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 50068,
       "exportedPath": "resources/table-of-security-tools.html",
       "dependencies": []
     },
     "resources/The Hive Project.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 883,
       "exportedPath": "resources/the-hive-project.html",
       "dependencies": []
     },
     "resources/Tips & Tricks.md": {
-      "modifiedTime": 1728326733067,
+      "modifiedTime": 1728927754505,
       "sourceSize": 821,
       "exportedPath": "resources/tips-&-tricks.html",
       "dependencies": []
     },
-    "lib/media/down-ze-rabbithole1.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 312415,
-      "exportedPath": "lib/media/down-ze-rabbithole1.png",
-      "dependencies": []
-    },
-    "lib/media/app-logos.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 23525,
-      "exportedPath": "lib/media/app-logos.png",
-      "dependencies": []
-    },
-    "lib/media/toc.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 1008,
-      "exportedPath": "lib/media/toc.png",
-      "dependencies": []
-    },
-    "lib/media/dir-nav.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 5921,
-      "exportedPath": "lib/media/dir-nav.png",
-      "dependencies": []
-    },
-    "lib/media/night.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 853,
-      "exportedPath": "lib/media/night.png",
-      "dependencies": []
-    },
-    "lib/media/light.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 1042,
-      "exportedPath": "lib/media/light.png",
-      "dependencies": []
-    },
-    "lib/media/dark-mode.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 108550,
-      "exportedPath": "lib/media/dark-mode.png",
-      "dependencies": []
-    },
-    "lib/media/light-mode.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 111281,
-      "exportedPath": "lib/media/light-mode.png",
-      "dependencies": []
-    },
-    "lib/media/test-page.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 39946,
-      "exportedPath": "lib/media/test-page.png",
-      "dependencies": []
-    },
-    "lib/media/search-bar.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 10451,
-      "exportedPath": "lib/media/search-bar.png",
-      "dependencies": []
-    },
-    "lib/media/hash-tag.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 77247,
-      "exportedPath": "lib/media/hash-tag.png",
-      "dependencies": []
-    },
-    "lib/media/deep_fake_detect_gh.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 92378,
-      "exportedPath": "lib/media/deep_fake_detect_gh.png",
-      "dependencies": []
-    },
-    "lib/media/canvas-demo-2024-10-06_22.16.mp4": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 17715439,
-      "exportedPath": "lib/media/canvas-demo-2024-10-06_22.16.mp4",
-      "dependencies": []
-    },
-    "lib/media/vm-bridge.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 28728,
-      "exportedPath": "lib/media/vm-bridge.png",
-      "dependencies": []
-    },
-    "lib/media/ms-certs.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 94174,
-      "exportedPath": "lib/media/ms-certs.png",
-      "dependencies": []
-    },
-    "lib/media/aws-training.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 109566,
-      "exportedPath": "lib/media/aws-training.png",
-      "dependencies": []
-    },
-    "lib/media/mimikatz.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 143474,
-      "exportedPath": "lib/media/mimikatz.png",
-      "dependencies": []
-    },
-    "lib/media/wazuh-dcsync1.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 22797,
-      "exportedPath": "lib/media/wazuh-dcsync1.png",
-      "dependencies": []
-    },
-    "lib/media/wazuh-dcsync.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 60623,
-      "exportedPath": "lib/media/wazuh-dcsync.png",
-      "dependencies": []
-    },
-    "lib/media/golden-ticket.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 49232,
-      "exportedPath": "lib/media/golden-ticket.png",
-      "dependencies": []
-    },
-    "lib/media/mimikatz-cmd.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 26882,
-      "exportedPath": "lib/media/mimikatz-cmd.png",
-      "dependencies": []
-    },
-    "lib/media/cmd-detection.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 5853,
-      "exportedPath": "lib/media/cmd-detection.png",
-      "dependencies": []
-    },
-    "lib/media/mimikatz-cmd-spawn.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 99027,
-      "exportedPath": "lib/media/mimikatz-cmd-spawn.png",
-      "dependencies": []
-    },
-    "lib/media/mimikatz-klist.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 29588,
-      "exportedPath": "lib/media/mimikatz-klist.png",
-      "dependencies": []
-    },
-    "lib/media/gpo.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 152607,
-      "exportedPath": "lib/media/gpo.png",
-      "dependencies": []
-    },
-    "lib/media/module-logging.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 129958,
-      "exportedPath": "lib/media/module-logging.png",
-      "dependencies": []
-    },
-    "lib/media/module-names.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 182930,
-      "exportedPath": "lib/media/module-names.png",
-      "dependencies": []
-    },
-    "lib/media/script-block.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 304626,
-      "exportedPath": "lib/media/script-block.png",
-      "dependencies": []
-    },
-    "lib/media/operational.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 30642,
-      "exportedPath": "lib/media/operational.png",
-      "dependencies": []
-    },
-    "lib/media/entra-id-dashboard.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 298591,
-      "exportedPath": "lib/media/entra-id-dashboard.png",
-      "dependencies": []
-    },
-    "lib/media/sde.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 27112,
-      "exportedPath": "lib/media/sde.png",
-      "dependencies": []
-    },
-    "lib/media/adin.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 109715,
-      "exportedPath": "lib/media/adin.png",
-      "dependencies": []
-    },
-    "lib/media/impac-ana.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 193270,
-      "exportedPath": "lib/media/impac-ana.png",
-      "dependencies": []
-    },
-    "lib/media/graph-dash.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 103058,
-      "exportedPath": "lib/media/graph-dash.png",
-      "dependencies": []
-    },
-    "lib/media/filter-log.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 148800,
-      "exportedPath": "lib/media/filter-log.png",
-      "dependencies": []
-    },
-    "lib/media/loic-1.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 209713,
-      "exportedPath": "lib/media/loic-1.png",
-      "dependencies": []
-    },
-    "lib/media/tier-support.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 25102,
-      "exportedPath": "lib/media/tier-support.png",
-      "dependencies": []
-    },
-    "lib/media/nmap.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 52095,
-      "exportedPath": "lib/media/nmap.png",
-      "dependencies": []
-    },
-    "lib/media/full.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 51386,
-      "exportedPath": "lib/media/full.png",
-      "dependencies": []
-    },
-    "lib/media/xmas.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 61612,
-      "exportedPath": "lib/media/xmas.png",
-      "dependencies": []
-    },
-    "lib/media/udp.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 60962,
-      "exportedPath": "lib/media/udp.png",
-      "dependencies": []
-    },
-    "lib/media/version.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 88429,
-      "exportedPath": "lib/media/version.png",
-      "dependencies": []
-    },
-    "lib/media/os.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 68872,
-      "exportedPath": "lib/media/os.png",
-      "dependencies": []
-    },
-    "lib/media/sd.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 57527,
-      "exportedPath": "lib/media/sd.png",
-      "dependencies": []
-    },
-    "lib/media/zm.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 411744,
-      "exportedPath": "lib/media/zm.png",
-      "dependencies": []
-    },
-    "lib/media/rpcinfo.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 56762,
-      "exportedPath": "lib/media/rpcinfo.png",
-      "dependencies": []
-    },
-    "lib/media/netcat-ft.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 51358,
-      "exportedPath": "lib/media/netcat-ft.png",
-      "dependencies": []
-    },
-    "lib/media/secator.png": {
-      "modifiedTime": 1728326733067,
-      "sourceSize": 219736,
-      "exportedPath": "lib/media/secator.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
-    "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 66800,
-      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 104232,
-      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 104332,
-      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 98868,
-      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 106876,
-      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 105804,
-      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 106108,
-      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 111708,
-      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 192740,
-      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 161376,
-      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 191568,
-      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 155288,
-      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 7876,
-      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 317,
-      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 279,
-      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 130020,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.jpg": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 223028,
-      "exportedPath": "lib/media/favicon.jpg",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 9864,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 130471,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 78456,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 2836,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "github-labs-and-resources/AI Security Tools.md": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 169,
-      "exportedPath": "github-labs-and-resources/ai-security-tools.html",
-      "dependencies": [
-        "lib/media/deep_fake_detect_gh.png"
-      ]
-    },
-    "log-analysis/Cloud Monitoring.md": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 425,
-      "exportedPath": "log-analysis/cloud-monitoring.html",
-      "dependencies": []
-    },
-    "microsoft/Windows System Logs.md": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 4588,
-      "exportedPath": "microsoft/windows-system-logs.html",
-      "dependencies": []
-    },
-    "lib/media/int-graph1.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 91630,
-      "exportedPath": "lib/media/int-graph1.png",
-      "dependencies": []
-    },
-    "lib/media/agile-canvas.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 100144,
-      "exportedPath": "lib/media/agile-canvas.png",
-      "dependencies": []
-    },
-    "lib/media/demo-pipeline.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 48688,
-      "exportedPath": "lib/media/demo-pipeline.png",
-      "dependencies": []
-    },
-    "lib/media/aws-structures.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 174753,
-      "exportedPath": "lib/media/aws-structures.png",
-      "dependencies": []
-    },
     "lib/media/untitled-38.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 76082,
       "exportedPath": "lib/media/untitled-38.png",
       "dependencies": []
     },
-    "lib/media/dl-mirror.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 30327,
-      "exportedPath": "lib/media/dl-mirror.png",
+    "lib/media/untitled-27.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29340,
+      "exportedPath": "lib/media/untitled-27.png",
       "dependencies": []
     },
-    "lib/media/verify.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 25509,
-      "exportedPath": "lib/media/verify.png",
+    "lib/media/untitled-25.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 64993,
+      "exportedPath": "lib/media/untitled-25.png",
       "dependencies": []
     },
-    "lib/media/verify-key.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 6081,
-      "exportedPath": "lib/media/verify-key.png",
+    "lib/media/untitled-22.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 15022,
+      "exportedPath": "lib/media/untitled-22.png",
       "dependencies": []
     },
-    "lib/media/current-dir.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 42753,
-      "exportedPath": "lib/media/current-dir.png",
+    "lib/media/gold-1.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 42694,
+      "exportedPath": "lib/media/gold-1.png",
       "dependencies": []
     },
-    "lib/media/virsh-net.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 8737,
-      "exportedPath": "lib/media/virsh-net.png",
-      "dependencies": []
-    },
-    "lib/media/new-vm.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 51159,
-      "exportedPath": "lib/media/new-vm.png",
-      "dependencies": []
-    },
-    "lib/media/install-local.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 29139,
-      "exportedPath": "lib/media/install-local.png",
-      "dependencies": []
-    },
-    "lib/media/zeek.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 33349,
-      "exportedPath": "lib/media/zeek.png",
-      "dependencies": []
-    },
-    "lib/media/kibana.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 30266,
-      "exportedPath": "lib/media/kibana.png",
-      "dependencies": []
-    },
-    "lib/media/sc-event-viewer.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 166534,
-      "exportedPath": "lib/media/sc-event-viewer.png",
-      "dependencies": []
-    },
-    "lib/media/risky-users.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 90507,
-      "exportedPath": "lib/media/risky-users.png",
-      "dependencies": []
-    },
-    "lib/media/risky-users-dash.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 118639,
-      "exportedPath": "lib/media/risky-users-dash.png",
+    "lib/media/entra-id-dashboard.png": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 298591,
+      "exportedPath": "lib/media/entra-id-dashboard.png",
       "dependencies": []
     },
     "lib/media/untitled.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 181818,
       "exportedPath": "lib/media/untitled.png",
       "dependencies": []
     },
     "lib/media/untitled-1.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 172830,
       "exportedPath": "lib/media/untitled-1.png",
       "dependencies": []
     },
     "lib/media/untitled-2.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 153484,
       "exportedPath": "lib/media/untitled-2.png",
       "dependencies": []
     },
     "lib/media/untitled-3.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 175695,
       "exportedPath": "lib/media/untitled-3.png",
       "dependencies": []
     },
     "lib/media/untitled-4.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 129747,
       "exportedPath": "lib/media/untitled-4.png",
       "dependencies": []
     },
     "lib/media/untitled-5.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 97823,
       "exportedPath": "lib/media/untitled-5.png",
       "dependencies": []
     },
     "lib/media/untitled-6.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 56082,
       "exportedPath": "lib/media/untitled-6.png",
       "dependencies": []
     },
     "lib/media/untitled-7.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 21160,
       "exportedPath": "lib/media/untitled-7.png",
       "dependencies": []
     },
     "lib/media/untitled-8.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 47130,
       "exportedPath": "lib/media/untitled-8.png",
       "dependencies": []
     },
     "lib/media/untitled-9.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 36210,
       "exportedPath": "lib/media/untitled-9.png",
       "dependencies": []
     },
     "lib/media/untitled-10.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 46493,
       "exportedPath": "lib/media/untitled-10.png",
       "dependencies": []
     },
     "lib/media/untitled-11.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 61861,
       "exportedPath": "lib/media/untitled-11.png",
       "dependencies": []
     },
     "lib/media/untitled-12.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 29376,
       "exportedPath": "lib/media/untitled-12.png",
       "dependencies": []
     },
     "lib/media/untitled-13.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 5449,
       "exportedPath": "lib/media/untitled-13.png",
       "dependencies": []
     },
     "lib/media/untitled-14.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 20828,
       "exportedPath": "lib/media/untitled-14.png",
       "dependencies": []
     },
     "lib/media/untitled-15.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 23164,
       "exportedPath": "lib/media/untitled-15.png",
       "dependencies": []
     },
     "lib/media/untitled-16.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 54767,
       "exportedPath": "lib/media/untitled-16.png",
       "dependencies": []
     },
     "lib/media/untitled-17.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 170801,
       "exportedPath": "lib/media/untitled-17.png",
       "dependencies": []
     },
     "lib/media/untitled-18.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 93554,
       "exportedPath": "lib/media/untitled-18.png",
       "dependencies": []
     },
     "lib/media/untitled-19.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 73200,
       "exportedPath": "lib/media/untitled-19.png",
       "dependencies": []
     },
     "lib/media/untitled-20.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 24974,
       "exportedPath": "lib/media/untitled-20.png",
       "dependencies": []
     },
     "lib/media/untitled-21.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 84906,
       "exportedPath": "lib/media/untitled-21.png",
       "dependencies": []
     },
-    "lib/media/mgmt-groups.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 44279,
-      "exportedPath": "lib/media/mgmt-groups.png",
-      "dependencies": []
-    },
-    "lib/media/untitled-22.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 15022,
-      "exportedPath": "lib/media/untitled-22.png",
-      "dependencies": []
-    },
     "lib/media/untitled-23.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 44451,
       "exportedPath": "lib/media/untitled-23.png",
       "dependencies": []
     },
     "lib/media/untitled-24.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 21805,
       "exportedPath": "lib/media/untitled-24.png",
       "dependencies": []
     },
-    "lib/media/untitled-25.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 64993,
-      "exportedPath": "lib/media/untitled-25.png",
-      "dependencies": []
-    },
     "lib/media/untitled-26.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 39231,
       "exportedPath": "lib/media/untitled-26.png",
       "dependencies": []
     },
-    "lib/media/untitled-27.png": {
-      "modifiedTime": 1728357810231,
-      "sourceSize": 29340,
-      "exportedPath": "lib/media/untitled-27.png",
-      "dependencies": []
-    },
     "lib/media/untitled-28.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 58963,
       "exportedPath": "lib/media/untitled-28.png",
       "dependencies": []
     },
     "lib/media/untitled-29.png": {
-      "modifiedTime": 1728357810231,
+      "modifiedTime": 1728927754505,
       "sourceSize": 93955,
       "exportedPath": "lib/media/untitled-29.png",
       "dependencies": []
     },
-    "lib/media/sc-ms-os-setup.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 74849,
-      "exportedPath": "lib/media/sc-ms-os-setup.png",
-      "dependencies": []
-    },
-    "lib/media/sc-custom-install.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 84608,
-      "exportedPath": "lib/media/sc-custom-install.png",
-      "dependencies": []
-    },
-    "lib/media/sc-unallocated.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 40880,
-      "exportedPath": "lib/media/sc-unallocated.png",
-      "dependencies": []
-    },
-    "lib/media/sc-change-computer.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 16829,
-      "exportedPath": "lib/media/sc-change-computer.png",
-      "dependencies": []
-    },
-    "lib/media/sysmon-config.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 147891,
-      "exportedPath": "lib/media/sysmon-config.png",
-      "dependencies": []
-    },
-    "lib/media/sysmon-xml.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 221529,
-      "exportedPath": "lib/media/sysmon-xml.png",
-      "dependencies": []
-    },
-    "lib/media/dl-sysmon.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 76021,
-      "exportedPath": "lib/media/dl-sysmon.png",
-      "dependencies": []
-    },
-    "lib/media/gpo-dropdown.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 130184,
-      "exportedPath": "lib/media/gpo-dropdown.png",
-      "dependencies": []
-    },
-    "lib/media/gpm.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 124381,
-      "exportedPath": "lib/media/gpm.png",
-      "dependencies": []
-    },
-    "lib/media/sc-audit-policy.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 285583,
-      "exportedPath": "lib/media/sc-audit-policy.png",
-      "dependencies": []
-    },
-    "lib/media/vulnad.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 91229,
-      "exportedPath": "lib/media/vulnad.png",
-      "dependencies": []
-    },
-    "lib/media/sc-ps-output.png": {
-      "modifiedTime": 1728926556901,
-      "sourceSize": 75586,
-      "exportedPath": "lib/media/sc-ps-output.png",
-      "dependencies": []
-    },
-    "microsoft/Active Directory/Active Directory - Credential Attacks.md": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 13126,
-      "exportedPath": "microsoft/active-directory/active-directory-credential-attacks.html",
-      "dependencies": [
-        "lib/media/wazuh.png",
-        "lib/media/dashboard_rules.png",
-        "lib/media/ad-server2.png",
-        "lib/media/sysmon.png",
-        "lib/media/sysmon2.png",
-        "lib/media/ad-agent1.png",
-        "lib/media/wazuh-agent.png",
-        "lib/media/wazuh-agent1.png",
-        "lib/media/dcs.png",
-        "lib/media/dcs2.png",
-        "lib/media/dcs1.png",
-        "lib/media/dcs3.png",
-        "lib/media/dcs6.png",
-        "lib/media/dc-sync.png",
-        "lib/media/dc7.png",
-        "lib/media/gold-1.png",
-        "lib/media/gold1.png",
-        "lib/media/goldtick.png",
-        "lib/media/kerberoast10.png",
-        "lib/media/kerberoast11.png",
-        "lib/media/kerberoast12.png",
-        "lib/media/kerberoast14.png",
-        "lib/media/kerberoast15.png",
-        "lib/media/kerberoast16.png"
-      ]
-    },
-    "lib/media/wazuh.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 67161,
-      "exportedPath": "lib/media/wazuh.png",
-      "dependencies": []
-    },
-    "lib/media/dashboard_rules.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 109193,
-      "exportedPath": "lib/media/dashboard_rules.png",
-      "dependencies": []
-    },
-    "lib/media/ad-server2.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 35733,
-      "exportedPath": "lib/media/ad-server2.png",
-      "dependencies": []
-    },
-    "lib/media/sysmon.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 29078,
-      "exportedPath": "lib/media/sysmon.png",
-      "dependencies": []
-    },
-    "lib/media/sysmon2.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 20509,
-      "exportedPath": "lib/media/sysmon2.png",
-      "dependencies": []
-    },
-    "lib/media/ad-agent1.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 22558,
-      "exportedPath": "lib/media/ad-agent1.png",
-      "dependencies": []
-    },
-    "lib/media/wazuh-agent.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 11560,
-      "exportedPath": "lib/media/wazuh-agent.png",
-      "dependencies": []
-    },
-    "lib/media/wazuh-agent1.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 29060,
-      "exportedPath": "lib/media/wazuh-agent1.png",
-      "dependencies": []
-    },
-    "lib/media/dcs.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 16448,
-      "exportedPath": "lib/media/dcs.png",
-      "dependencies": []
-    },
-    "lib/media/dcs2.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 99761,
-      "exportedPath": "lib/media/dcs2.png",
-      "dependencies": []
-    },
-    "lib/media/dcs1.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 15668,
-      "exportedPath": "lib/media/dcs1.png",
-      "dependencies": []
-    },
-    "lib/media/dcs3.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 72953,
-      "exportedPath": "lib/media/dcs3.png",
-      "dependencies": []
-    },
-    "lib/media/dcs6.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 73952,
-      "exportedPath": "lib/media/dcs6.png",
-      "dependencies": []
-    },
-    "lib/media/dc-sync.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 71870,
-      "exportedPath": "lib/media/dc-sync.png",
-      "dependencies": []
-    },
-    "lib/media/dc7.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 34992,
-      "exportedPath": "lib/media/dc7.png",
-      "dependencies": []
-    },
-    "lib/media/gold-1.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 42694,
-      "exportedPath": "lib/media/gold-1.png",
-      "dependencies": []
-    },
-    "lib/media/gold1.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 68916,
-      "exportedPath": "lib/media/gold1.png",
-      "dependencies": []
-    },
-    "lib/media/goldtick.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 42136,
-      "exportedPath": "lib/media/goldtick.png",
-      "dependencies": []
-    },
-    "lib/media/kerberoast10.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 12474,
-      "exportedPath": "lib/media/kerberoast10.png",
-      "dependencies": []
-    },
-    "lib/media/kerberoast11.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 18860,
-      "exportedPath": "lib/media/kerberoast11.png",
-      "dependencies": []
-    },
-    "lib/media/kerberoast12.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 27567,
-      "exportedPath": "lib/media/kerberoast12.png",
-      "dependencies": []
-    },
-    "lib/media/kerberoast14.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 59007,
-      "exportedPath": "lib/media/kerberoast14.png",
-      "dependencies": []
-    },
-    "lib/media/kerberoast15.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 46187,
-      "exportedPath": "lib/media/kerberoast15.png",
-      "dependencies": []
-    },
-    "lib/media/kerberoast16.png": {
-      "modifiedTime": 1728927637224,
-      "sourceSize": 93416,
-      "exportedPath": "lib/media/kerberoast16.png",
-      "dependencies": []
-    },
-    "lib/media/4625.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 28663,
-      "exportedPath": "lib/media/4625.png",
-      "dependencies": []
-    },
-    "lib/media/add-bridge.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 56263,
-      "exportedPath": "lib/media/add-bridge.png",
-      "dependencies": []
-    },
-    "lib/media/Agile development.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 100144,
-      "exportedPath": "lib/media/agile-development.png",
-      "dependencies": []
-    },
-    "lib/media/azure-account.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 52226,
-      "exportedPath": "lib/media/azure-account.png",
-      "dependencies": []
-    },
-    "lib/media/azure-data-center.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 136484,
-      "exportedPath": "lib/media/azure-data-center.png",
-      "dependencies": []
-    },
-    "lib/media/azure-nm.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 25247,
-      "exportedPath": "lib/media/azure-nm.png",
-      "dependencies": []
-    },
-    "lib/media/azure-region.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 51486,
-      "exportedPath": "lib/media/azure-region.png",
-      "dependencies": []
-    },
-    "lib/media/azure-web-app.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 69692,
-      "exportedPath": "lib/media/azure-web-app.png",
-      "dependencies": []
-    },
-    "lib/media/badacl.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 367443,
-      "exportedPath": "lib/media/badacl.png",
-      "dependencies": []
-    },
-    "lib/media/create-vm.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 19941,
-      "exportedPath": "lib/media/create-vm.png",
-      "dependencies": []
-    },
-    "lib/media/create-vm 1.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 19941,
-      "exportedPath": "lib/media/create-vm-1.png",
-      "dependencies": []
-    },
-    "lib/media/dc6.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 64786,
-      "exportedPath": "lib/media/dc6.png",
-      "dependencies": []
-    },
-    "lib/media/diagnostic-setting.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 82220,
-      "exportedPath": "lib/media/diagnostic-setting.png",
-      "dependencies": []
-    },
-    "lib/media/dll-hijack.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 42749,
-      "exportedPath": "lib/media/dll-hijack.png",
-      "dependencies": []
-    },
-    "lib/media/entra-id dashboard.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 298591,
-      "exportedPath": "lib/media/entra-id-dashboard.png",
-      "dependencies": []
-    },
-    "lib/media/error.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 55871,
-      "exportedPath": "lib/media/error.png",
-      "dependencies": []
-    },
-    "lib/media/event-logs.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 66036,
-      "exportedPath": "lib/media/event-logs.png",
-      "dependencies": []
-    },
-    "lib/media/event-viewer-access.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 85998,
-      "exportedPath": "lib/media/event-viewer-access.png",
-      "dependencies": []
-    },
-    "lib/media/evolving-security.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 213293,
-      "exportedPath": "lib/media/evolving-security.png",
-      "dependencies": []
-    },
-    "lib/media/express-route.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 34108,
-      "exportedPath": "lib/media/express-route.png",
-      "dependencies": []
-    },
-    "lib/media/express-route-circuit.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 96385,
-      "exportedPath": "lib/media/express-route-circuit.png",
-      "dependencies": []
-    },
-    "lib/media/geography.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 115310,
-      "exportedPath": "lib/media/geography.png",
-      "dependencies": []
-    },
-    "lib/media/git-sysmon.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 259144,
-      "exportedPath": "lib/media/git-sysmon.png",
-      "dependencies": []
-    },
-    "lib/media/github-mark-white.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 4837,
-      "exportedPath": "lib/media/github-mark-white.png",
-      "dependencies": []
-    },
-    "lib/media/gold.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 28382,
-      "exportedPath": "lib/media/gold.png",
-      "dependencies": []
-    },
-    "lib/media/gold 1.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 42694,
-      "exportedPath": "lib/media/gold-1.png",
-      "dependencies": []
-    },
-    "lib/media/htb-xml-queries.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 80108,
-      "exportedPath": "lib/media/htb-xml-queries.png",
-      "dependencies": []
-    },
-    "lib/media/ikev2.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 48079,
-      "exportedPath": "lib/media/ikev2.png",
-      "dependencies": []
-    },
-    "lib/media/ikev2-s2s.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 52017,
-      "exportedPath": "lib/media/ikev2-s2s.png",
-      "dependencies": []
-    },
-    "lib/media/ipconfig.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 44637,
-      "exportedPath": "lib/media/ipconfig.png",
-      "dependencies": []
-    },
-    "lib/media/ipv4.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 73965,
-      "exportedPath": "lib/media/ipv4.png",
-      "dependencies": []
-    },
-    "lib/media/jekyll-logo-black-red-transparent.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 23392,
-      "exportedPath": "lib/media/jekyll-logo-black-red-transparent.png",
-      "dependencies": []
-    },
-    "lib/media/log-enable.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 187364,
-      "exportedPath": "lib/media/log-enable.png",
-      "dependencies": []
-    },
-    "lib/media/logos.canvas": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 833,
-      "exportedPath": "lib/media/logos.html",
-      "dependencies": [
-        "lib/media/jekyll-logo-black-red-transparent.png",
-        "lib/media/obsidian-icon.png"
-      ]
-    },
-    "lib/media/loic.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 209713,
-      "exportedPath": "lib/media/loic.png",
-      "dependencies": []
-    },
-    "lib/media/obsidian-icon.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 85392,
-      "exportedPath": "lib/media/obsidian-icon.png",
-      "dependencies": []
-    },
-    "lib/media/paas.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 197389,
-      "exportedPath": "lib/media/paas.png",
-      "dependencies": []
-    },
-    "lib/media/safeline.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 144837,
-      "exportedPath": "lib/media/safeline.png",
-      "dependencies": []
-    },
-    "lib/media/sc-enable-module-logging.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 138838,
-      "exportedPath": "lib/media/sc-enable-module-logging.png",
-      "dependencies": []
-    },
-    "lib/media/sc-ethernet.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 26142,
-      "exportedPath": "lib/media/sc-ethernet.png",
-      "dependencies": []
-    },
-    "lib/media/sc-install-feature.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 125805,
-      "exportedPath": "lib/media/sc-install-feature.png",
-      "dependencies": []
-    },
-    "lib/media/sc-login-screen.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 442080,
-      "exportedPath": "lib/media/sc-login-screen.png",
-      "dependencies": []
-    },
-    "lib/media/sc-vul-dir.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 70873,
-      "exportedPath": "lib/media/sc-vul-dir.png",
-      "dependencies": []
-    },
-    "lib/media/Screenshot from 2024-10-14 10-13-35.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 42136,
-      "exportedPath": "lib/media/screenshot-from-2024-10-14-10-13-35.png",
-      "dependencies": []
-    },
-    "lib/media/spec-picker.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 127322,
-      "exportedPath": "lib/media/spec-picker.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 181818,
-      "exportedPath": "lib/media/untitled.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 1.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 172830,
-      "exportedPath": "lib/media/untitled-1.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 2.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 153484,
-      "exportedPath": "lib/media/untitled-2.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 3.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 175695,
-      "exportedPath": "lib/media/untitled-3.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 4.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 129747,
-      "exportedPath": "lib/media/untitled-4.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 5.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 97823,
-      "exportedPath": "lib/media/untitled-5.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 6.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 56082,
-      "exportedPath": "lib/media/untitled-6.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 7.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 21160,
-      "exportedPath": "lib/media/untitled-7.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 8.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 47130,
-      "exportedPath": "lib/media/untitled-8.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 9.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 36210,
-      "exportedPath": "lib/media/untitled-9.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 10.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 46493,
-      "exportedPath": "lib/media/untitled-10.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 11.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 61861,
-      "exportedPath": "lib/media/untitled-11.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 12.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 29376,
-      "exportedPath": "lib/media/untitled-12.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 13.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 5449,
-      "exportedPath": "lib/media/untitled-13.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 14.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 20828,
-      "exportedPath": "lib/media/untitled-14.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 15.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 23164,
-      "exportedPath": "lib/media/untitled-15.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 16.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 54767,
-      "exportedPath": "lib/media/untitled-16.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 17.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 170801,
-      "exportedPath": "lib/media/untitled-17.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 18.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 93554,
-      "exportedPath": "lib/media/untitled-18.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 19.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 73200,
-      "exportedPath": "lib/media/untitled-19.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 20.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 24974,
-      "exportedPath": "lib/media/untitled-20.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 21.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 84906,
-      "exportedPath": "lib/media/untitled-21.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 22.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 15022,
-      "exportedPath": "lib/media/untitled-22.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 23.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 44451,
-      "exportedPath": "lib/media/untitled-23.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 24.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 21805,
-      "exportedPath": "lib/media/untitled-24.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 25.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 64993,
-      "exportedPath": "lib/media/untitled-25.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 26.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 39231,
-      "exportedPath": "lib/media/untitled-26.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 27.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 29340,
-      "exportedPath": "lib/media/untitled-27.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 28.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 58963,
-      "exportedPath": "lib/media/untitled-28.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 29.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 93955,
-      "exportedPath": "lib/media/untitled-29.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 30.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 71700,
-      "exportedPath": "lib/media/untitled-30.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 31.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 163119,
-      "exportedPath": "lib/media/untitled-31.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 32.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 13202,
-      "exportedPath": "lib/media/untitled-32.png",
-      "dependencies": []
-    },
-    "lib/media/Untitled 33.png": {
-      "modifiedTime": 1728927309585,
+    "lib/media/untitled-33.png": {
+      "modifiedTime": 1728927754505,
       "sourceSize": 19100,
       "exportedPath": "lib/media/untitled-33.png",
       "dependencies": []
     },
-    "lib/media/Untitled 34.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 49115,
-      "exportedPath": "lib/media/untitled-34.png",
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
-    "lib/media/Untitled 35.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 161210,
-      "exportedPath": "lib/media/untitled-35.png",
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
-    "lib/media/Untitled 36.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 52205,
-      "exportedPath": "lib/media/untitled-36.png",
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 37.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 197322,
-      "exportedPath": "lib/media/untitled-37.png",
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 38.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 76082,
-      "exportedPath": "lib/media/untitled-38.png",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 39.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 132171,
-      "exportedPath": "lib/media/untitled-39.png",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 40.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 176363,
-      "exportedPath": "lib/media/untitled-40.png",
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 41.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 137646,
-      "exportedPath": "lib/media/untitled-41.png",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 42.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 62091,
-      "exportedPath": "lib/media/untitled-42.png",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
-    "lib/media/Untitled 43.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 49030,
-      "exportedPath": "lib/media/untitled-43.png",
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
-    "lib/media/virbr-output.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 14103,
-      "exportedPath": "lib/media/virbr-output.png",
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
-    "lib/media/virt-manager.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 15372,
-      "exportedPath": "lib/media/virt-manager.png",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
-    "lib/media/vm-http.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 15156,
-      "exportedPath": "lib/media/vm-http.png",
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
-    "lib/media/vpn-gateway.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 76138,
-      "exportedPath": "lib/media/vpn-gateway.png",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
-    "lib/media/vulnusers.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 256368,
-      "exportedPath": "lib/media/vulnusers.png",
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
-    "lib/media/vulnusers 2.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 147973,
-      "exportedPath": "lib/media/vulnusers-2.png",
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
-    "lib/media/wazuh-test.mp4": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 42682694,
-      "exportedPath": "lib/media/wazuh-test.mp4",
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 130020,
+      "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
-    "lib/media/windows-logs.png": {
-      "modifiedTime": 1728927309585,
-      "sourceSize": 57734,
-      "exportedPath": "lib/media/windows-logs.png",
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 9864,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 78456,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 2836,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1728927754505,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
