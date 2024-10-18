@@ -1,6 +1,6 @@
 {
   "vaultName": "Table of Contents",
-  "lastExport": 1729219214341,
+  "lastExport": 1729220662278,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -9,6 +9,7 @@
     "about/About Me.md",
     "about/Build for my website.md",
     "about/How to use this website.md",
+    "about/Writeup Created By Info.md",
     "artificial-intelligence/AI Systems.md",
     "artificial-intelligence/Hugging Chat.md",
     "blockchain/Avalanche (AVA) Training Academy.md",
@@ -169,6 +170,19 @@
     "- GitHub.md",
     "- Self-Created.md",
     "index.md",
+    "lib/media/sc-ms-os-setup.png",
+    "lib/media/sc-custom-install.png",
+    "lib/media/sc-unallocated.png",
+    "lib/media/sc-change-computer.png",
+    "lib/media/sysmon-config.png",
+    "lib/media/sysmon-xml.png",
+    "lib/media/dl-sysmon.png",
+    "lib/media/gpo-dropdown.png",
+    "lib/media/gpm.png",
+    "lib/media/module-logging.png",
+    "lib/media/sc-audit-policy.png",
+    "lib/media/vulnad.png",
+    "lib/media/sc-ps-output.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -316,7 +330,6 @@
     "lib/media/risky-users-dash.png",
     "lib/media/filter-log.png",
     "lib/media/gpo.png",
-    "lib/media/module-logging.png",
     "lib/media/module-names.png",
     "lib/media/sc-event-viewer.png",
     "lib/media/script-block.png",
@@ -337,18 +350,6 @@
     "lib/media/secator.png",
     "lib/media/argus.png",
     "lib/media/argus1.png",
-    "lib/media/sc-ms-os-setup.png",
-    "lib/media/sc-custom-install.png",
-    "lib/media/sc-unallocated.png",
-    "lib/media/sc-change-computer.png",
-    "lib/media/sysmon-config.png",
-    "lib/media/sysmon-xml.png",
-    "lib/media/dl-sysmon.png",
-    "lib/media/gpo-dropdown.png",
-    "lib/media/gpm.png",
-    "lib/media/sc-audit-policy.png",
-    "lib/media/vulnad.png",
-    "lib/media/sc-ps-output.png",
     "media/app-logos.png",
     "media/simple-logo.png"
   ],
@@ -385,32 +386,32 @@
   ],
   "fileInfo": {
     "artificial-intelligence/AI Systems.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1555,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 1588,
       "exportedPath": "artificial-intelligence/ai-systems.html",
       "dependencies": []
     },
     "artificial-intelligence/Hugging Chat.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1332,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 1362,
       "exportedPath": "artificial-intelligence/hugging-chat.html",
       "dependencies": []
     },
     "blockchain/Avalanche (AVA) Training Academy.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 3797,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 3827,
       "exportedPath": "blockchain/avalanche-(ava)-training-academy.html",
       "dependencies": []
     },
     "blockchain/Blockchain Subnetting.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1199,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 1229,
       "exportedPath": "blockchain/blockchain-subnetting.html",
       "dependencies": []
     },
     "blockchain/LoRaWAN.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 10221,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 10252,
       "exportedPath": "blockchain/lorawan.html",
       "dependencies": []
     },
@@ -459,36 +460,36 @@
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/Agile Framework.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 698,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 727,
       "exportedPath": "cloud-automation-virtualization/automation/agile-framework.html",
       "dependencies": [
         "lib/media/agile-canvas.png"
       ]
     },
     "cloud-automation-virtualization/Automation/Selenium.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1476,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 1505,
       "exportedPath": "cloud-automation-virtualization/automation/selenium.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/TerraForm.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 2722,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 2755,
       "exportedPath": "cloud-automation-virtualization/automation/terraform.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/AWS CodePipeline.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1234,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 1267,
       "exportedPath": "cloud-automation-virtualization/aws/aws-codepipeline.html",
       "dependencies": [
         "lib/media/demo-pipeline.png"
       ]
     },
     "cloud-automation-virtualization/AWS/Becoming a Cloud Practitioner - Part 1.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 567,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 599,
       "exportedPath": "cloud-automation-virtualization/aws/becoming-a-cloud-practitioner-part-1.html",
       "dependencies": []
     },
@@ -812,8 +813,8 @@
       "dependencies": []
     },
     "microsoft/Active Directory/Active Directory - Attacks.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 5026,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 5022,
       "exportedPath": "microsoft/active-directory/active-directory-attacks.html",
       "dependencies": [
         "lib/media/mimikatz.png",
@@ -1136,8 +1137,8 @@
       "dependencies": []
     },
     "projects/Secretcon Active Directory server build (WIP).md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 28351,
+      "modifiedTime": 1729220662278,
+      "sourceSize": 28224,
       "exportedPath": "projects/secretcon-active-directory-server-build-(wip).html",
       "dependencies": [
         "lib/media/sc-ms-os-setup.png",
@@ -1201,67 +1202,67 @@
       ]
     },
     "lib/media/app-logos.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 23525,
       "exportedPath": "lib/media/app-logos.png",
       "dependencies": []
     },
     "lib/media/toc.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 1008,
       "exportedPath": "lib/media/toc.png",
       "dependencies": []
     },
     "lib/media/dir-nav.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 5921,
       "exportedPath": "lib/media/dir-nav.png",
       "dependencies": []
     },
     "lib/media/night.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 853,
       "exportedPath": "lib/media/night.png",
       "dependencies": []
     },
     "lib/media/light.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 1042,
       "exportedPath": "lib/media/light.png",
       "dependencies": []
     },
     "lib/media/dark-mode.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 108550,
       "exportedPath": "lib/media/dark-mode.png",
       "dependencies": []
     },
     "lib/media/light-mode.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 111281,
       "exportedPath": "lib/media/light-mode.png",
       "dependencies": []
     },
     "lib/media/int-graph1.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 91630,
       "exportedPath": "lib/media/int-graph1.png",
       "dependencies": []
     },
     "lib/media/test-page.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 39946,
       "exportedPath": "lib/media/test-page.png",
       "dependencies": []
     },
     "lib/media/search-bar.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 10451,
       "exportedPath": "lib/media/search-bar.png",
       "dependencies": []
     },
     "lib/media/hash-tag.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 77247,
       "exportedPath": "lib/media/hash-tag.png",
       "dependencies": []
@@ -1273,13 +1274,13 @@
       "dependencies": []
     },
     "lib/media/agile-canvas.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220156627,
       "sourceSize": 100144,
       "exportedPath": "lib/media/agile-canvas.png",
       "dependencies": []
     },
     "lib/media/demo-pipeline.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220156627,
       "sourceSize": 48688,
       "exportedPath": "lib/media/demo-pipeline.png",
       "dependencies": []
@@ -1471,49 +1472,49 @@
       "dependencies": []
     },
     "lib/media/mimikatz.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 143474,
       "exportedPath": "lib/media/mimikatz.png",
       "dependencies": []
     },
     "lib/media/wazuh-dcsync1.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 22797,
       "exportedPath": "lib/media/wazuh-dcsync1.png",
       "dependencies": []
     },
     "lib/media/wazuh-dcsync.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 60623,
       "exportedPath": "lib/media/wazuh-dcsync.png",
       "dependencies": []
     },
     "lib/media/golden-ticket.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 49232,
       "exportedPath": "lib/media/golden-ticket.png",
       "dependencies": []
     },
     "lib/media/mimikatz-cmd.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 26882,
       "exportedPath": "lib/media/mimikatz-cmd.png",
       "dependencies": []
     },
     "lib/media/cmd-detection.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 5853,
       "exportedPath": "lib/media/cmd-detection.png",
       "dependencies": []
     },
     "lib/media/mimikatz-cmd-spawn.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 99027,
       "exportedPath": "lib/media/mimikatz-cmd-spawn.png",
       "dependencies": []
     },
     "lib/media/mimikatz-klist.png": {
-      "modifiedTime": 1729218881476,
+      "modifiedTime": 1729220156627,
       "sourceSize": 29588,
       "exportedPath": "lib/media/mimikatz-klist.png",
       "dependencies": []
@@ -1909,7 +1910,7 @@
       "dependencies": []
     },
     "lib/media/module-logging.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 129958,
       "exportedPath": "lib/media/module-logging.png",
       "dependencies": []
@@ -2011,73 +2012,73 @@
       "dependencies": []
     },
     "lib/media/sc-ms-os-setup.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 74849,
       "exportedPath": "lib/media/sc-ms-os-setup.png",
       "dependencies": []
     },
     "lib/media/sc-custom-install.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 84608,
       "exportedPath": "lib/media/sc-custom-install.png",
       "dependencies": []
     },
     "lib/media/sc-unallocated.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 40880,
       "exportedPath": "lib/media/sc-unallocated.png",
       "dependencies": []
     },
     "lib/media/sc-change-computer.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 16829,
       "exportedPath": "lib/media/sc-change-computer.png",
       "dependencies": []
     },
     "lib/media/sysmon-config.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 147891,
       "exportedPath": "lib/media/sysmon-config.png",
       "dependencies": []
     },
     "lib/media/sysmon-xml.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 221529,
       "exportedPath": "lib/media/sysmon-xml.png",
       "dependencies": []
     },
     "lib/media/dl-sysmon.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 76021,
       "exportedPath": "lib/media/dl-sysmon.png",
       "dependencies": []
     },
     "lib/media/gpo-dropdown.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 130184,
       "exportedPath": "lib/media/gpo-dropdown.png",
       "dependencies": []
     },
     "lib/media/gpm.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 124381,
       "exportedPath": "lib/media/gpm.png",
       "dependencies": []
     },
     "lib/media/sc-audit-policy.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 285583,
       "exportedPath": "lib/media/sc-audit-policy.png",
       "dependencies": []
     },
     "lib/media/vulnad.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 91229,
       "exportedPath": "lib/media/vulnad.png",
       "dependencies": []
     },
     "lib/media/sc-ps-output.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729220662278,
       "sourceSize": 75586,
       "exportedPath": "lib/media/sc-ps-output.png",
       "dependencies": []
@@ -2095,196 +2096,196 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729219214341,
-      "sourceSize": 80585,
+      "modifiedTime": 1729220662278,
+      "sourceSize": 80929,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729219214341,
-      "sourceSize": 14396,
+      "modifiedTime": 1729220662278,
+      "sourceSize": 14563,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 13544,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729219214341,
+      "modifiedTime": 1729220662278,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "about/About Me.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 3101,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 3133,
       "exportedPath": "about/about-me.html",
       "dependencies": []
     },
     "about/Build for my website.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 5514,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 5483,
       "exportedPath": "about/build-for-my-website.html",
       "dependencies": [
         "lib/media/app-logos.png"
       ]
     },
     "about/How to use this website.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 4805,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 4809,
       "exportedPath": "about/how-to-use-this-website.html",
       "dependencies": [
         "lib/media/toc.png",
@@ -2301,32 +2302,32 @@
       ]
     },
     "blockchain/Blockchain Page Links.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 75,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 105,
       "exportedPath": "blockchain/blockchain-page-links.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/Amazon S3.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 5200,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 5229,
       "exportedPath": "cloud-automation-virtualization/aws/amazon-s3.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 679,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 707,
       "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/Databases & Analytics.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 1000,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 1029,
       "exportedPath": "cloud-automation-virtualization/aws/databases-&-analytics.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md": {
-      "modifiedTime": 1729218881476,
-      "sourceSize": 3369,
+      "modifiedTime": 1729220156627,
+      "sourceSize": 3400,
       "exportedPath": "cloud-automation-virtualization/aws/elb-&-asg-elastic-load-balancing-&-auto-scaling-groups.html",
       "dependencies": []
     },
@@ -2682,6 +2683,12 @@
       "modifiedTime": 1729219214341,
       "sourceSize": 839,
       "exportedPath": "-self-created.html",
+      "dependencies": []
+    },
+    "about/Writeup Created By Info.md": {
+      "modifiedTime": 1729220156627,
+      "sourceSize": 182,
+      "exportedPath": "about/writeup-created-by-info.html",
       "dependencies": []
     }
   }
