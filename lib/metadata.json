@@ -1,17 +1,18 @@
 {
   "vaultName": "Table of Contents",
-  "lastExport": 1729201671883,
+  "lastExport": 1729219214341,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "about-this project/About Me.md",
-    "about-this project/Build for my website.md",
-    "about-this project/How to use this website.md",
+    "about/About Me.md",
+    "about/Build for my website.md",
+    "about/How to use this website.md",
     "artificial-intelligence/AI Systems.md",
     "artificial-intelligence/Hugging Chat.md",
     "blockchain/Avalanche (AVA) Training Academy.md",
+    "blockchain/Blockchain Page Links.md",
     "blockchain/Blockchain Subnetting.md",
     "blockchain/LoRaWAN.md",
     "canvas-pages/AZ-500 - Secure Networking.canvas",
@@ -21,12 +22,15 @@
     "canvas-pages/NIST CSF 2.0.canvas",
     "canvas-pages/Pyramid of Pain.canvas",
     "canvas-pages/Web API.canvas",
-    "canvas-pages/Zscaler Zero-trust.canvas",
     "cloud-automation-virtualization/Automation/Agile Framework.md",
     "cloud-automation-virtualization/Automation/Selenium.md",
     "cloud-automation-virtualization/Automation/TerraForm.md",
+    "cloud-automation-virtualization/AWS/Amazon S3.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner.md",
     "cloud-automation-virtualization/AWS/AWS CodePipeline.md",
     "cloud-automation-virtualization/AWS/Becoming a Cloud Practitioner - Part 1.md",
+    "cloud-automation-virtualization/AWS/Databases & Analytics.md",
+    "cloud-automation-virtualization/AWS/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md",
     "cloud-automation-virtualization/AWS/Fundamentals of Analytics on AWS - Part 1.md",
     "cloud-automation-virtualization/AWS/Getting Started with DevOps on AWS.md",
     "cloud-automation-virtualization/Azure Cloud/Create an app in an ASE.md",
@@ -39,6 +43,7 @@
     "cloud-automation-virtualization/Virtualization/Virtual Machine Configuration.md",
     "cloud-automation-virtualization/Zero-Trust/ZScaler - Seven Elements of Highly Successful Zero Trust Architecture (WIP).md",
     "detection-engineering/Anomaly Detection Algorithms.md",
+    "detection-engineering/Articles on Detection Engineering.md",
     "detection-engineering/Detection Tools.md",
     "detection-engineering/Semantic Search with ELSER.md",
     "detection-engineering/Semantic Searching.md",
@@ -48,15 +53,30 @@
     "digital-forensics/DFIR.md",
     "digital-forensics/Malware Analysis.md",
     "digital-forensics/Malware Threat Feeds.md",
-    "github-labs-and-resources/AI Security Tools.md",
+    "github-labs-and-resources/img/argus.png",
+    "github-labs-and-resources/img/argus1.png",
+    "github-labs-and-resources/img/cloudgoat.png",
+    "github-labs-and-resources/img/cloudgrappler.png",
+    "github-labs-and-resources/img/mlsecops.png",
+    "github-labs-and-resources/img/openbas.png",
+    "github-labs-and-resources/img/openbas2.png",
+    "github-labs-and-resources/AC-Hunter Set up.md",
+    "github-labs-and-resources/AWS Goat - A Damn Vulnerable AWS Infrastructure.md",
     "github-labs-and-resources/Black Hill Information Security.md",
+    "github-labs-and-resources/Cloud Grappler.md",
     "github-labs-and-resources/Cloud Security.md",
+    "github-labs-and-resources/CloudGoat.md",
+    "github-labs-and-resources/Damn Vulnerable Web Application.md",
+    "github-labs-and-resources/Deep Fake Image Detector.md",
     "github-labs-and-resources/Digital Forensics Labs.md",
-    "github-labs-and-resources/Github Repos.md",
     "github-labs-and-resources/Halberd.md",
     "github-labs-and-resources/HTB- Sherlocks- Investigation Lab.md",
+    "github-labs-and-resources/MLSecOps.md",
+    "github-labs-and-resources/Mobile Testing.md",
+    "github-labs-and-resources/OpenBAS Simulation Platform.md",
     "github-labs-and-resources/RITA (Real Intelligence Threat Analytics).md",
     "github-labs-and-resources/RSS Builder.md",
+    "github-labs-and-resources/Vulnerable Active Directory.md",
     "github-labs-and-resources/Web Application Security.md",
     "grc/CISA NSA Best Practices for Securing Cloud service.md",
     "grc/Common Cyber Security Frameworks.md",
@@ -71,11 +91,12 @@
     "linux/Linux Command Sheet.md",
     "linux/Linux Networking.md",
     "linux/Mounting NTFS Partition on Linux.md",
+    "log-analysis/Wazuh/Innovative Articles.md",
+    "log-analysis/Wazuh/Wazuh Directory Overview.md",
     "log-analysis/Cloud Monitoring.md",
     "log-analysis/Encrypted traffic - A double-edged sword for network defenders.md",
     "log-analysis/Packet Capture.md",
     "log-analysis/Resources.md",
-    "log-analysis/Wazuh Directory Overview.md",
     "microsoft/Active Directory/Active Directory - Attacks.md",
     "microsoft/Active Directory/ID Tokens vs. Access Tokens.md",
     "microsoft/AZ-Series/AZ-500 Identity and Access Management.md",
@@ -85,6 +106,20 @@
     "microsoft/AZ-Series/Describe Azure physical infrastructure.md",
     "microsoft/AZ-Series/Microsoft Azure AZ-900.md",
     "microsoft/AZ-Series/Microsoft Enterprise Access Model.md",
+    "microsoft/img/sysmon.png",
+    "microsoft/img/sysmon1.png",
+    "microsoft/img/sysmon2.png",
+    "microsoft/img/sysmon3.png",
+    "microsoft/img/sysmon4.png",
+    "microsoft/img/sysmon5.png",
+    "microsoft/img/sysmon6.png",
+    "microsoft/img/sysmon7.png",
+    "microsoft/img/sysmon8.png",
+    "microsoft/img/sysmon9.png",
+    "microsoft/img/sysmon10.png",
+    "microsoft/img/sysmon11.png",
+    "microsoft/img/whoyoucalling.png",
+    "microsoft/img/winforensics.png",
     "microsoft/Security/Advanced Threat Hunting in Active Directory.md",
     "microsoft/Security/Enhancing Security with Microsoft Entra ID Protection- Latest Developments and Best Practices.md",
     "microsoft/Security/Event Tracing Windows (ETW) Logs.md",
@@ -96,29 +131,73 @@
     "microsoft/Tools/DeepBlueCLI.md",
     "microsoft/Tools/Hayabusa.md",
     "microsoft/Tools/Velociraptor.md",
+    "microsoft/Tools/WhoYouCalling.md",
+    "microsoft/Tools/Windows Forensics Handbook.md",
     "microsoft/Sysmon.md",
+    "microsoft/Windows ETW Logs.md",
     "microsoft/Windows Event Logs.md",
+    "microsoft/Windows Internals.md",
     "microsoft/Windows Registry.md",
     "microsoft/Windows System Logs.md",
     "networking/RESTFUL API.md",
     "networking/URI vs. URL.md",
+    "pentesting/img/pentestgpt.png",
     "pentesting/Entra ID Exploit.md",
     "pentesting/Enumeration.md",
     "pentesting/Exploits.md",
     "pentesting/GitHub repos.md",
+    "pentesting/NTLM Relaying.md",
+    "pentesting/Tools.md",
+    "privacy/img/canvasblocker.png",
+    "privacy/img/whonix.png",
+    "privacy/img/whonix1.png",
+    "privacy/img/whonix2.png",
+    "privacy/img/whonix3.png",
+    "privacy/img/whonix4.png",
     "privacy/Browser Fingerprinting.md",
+    "privacy/Privacy Browsing.md",
     "privacy/Public DNS Resolver 1 1 1 1.md",
     "projects/Packet Tracer Labs.md",
     "projects/Secretcon Active Directory server build (WIP).md",
-    "resources/AC-Hunter Set up.md",
+    "resources/DEFCON.md",
     "resources/Docs for major service providers.md",
     "resources/Malware Threat Feeds.md",
     "resources/Python Packages for domain investigation.md",
     "resources/Table of Security Tools.md",
     "resources/The Hive Project.md",
     "resources/Tips & Tricks.md",
-    "self-created/Self-Created Pages.md",
+    "- GitHub.md",
+    "- Self-Created.md",
     "index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
     "lib/media/app-logos.png",
     "lib/media/toc.png",
     "lib/media/dir-nav.png",
@@ -146,10 +225,10 @@
     "lib/media/zeek.png",
     "lib/media/kibana.png",
     "lib/media/semantic_search.png",
-    "lib/media/deep_fake_detect_gh.png",
     "lib/media/awsgoat.png",
-    "lib/media/halberd.png",
     "lib/media/bhis-github.png",
+    "lib/media/halberd.png",
+    "lib/media/deep_fake_detect_gh.png",
     "lib/media/sha.png",
     "lib/media/sha1.png",
     "lib/media/sha3.png",
@@ -242,6 +321,8 @@
     "lib/media/sc-event-viewer.png",
     "lib/media/script-block.png",
     "lib/media/operational.png",
+    "lib/media/whoyoucalling.png",
+    "lib/media/winforensics.png",
     "lib/media/tier-support.png",
     "lib/media/nmap.png",
     "lib/media/full.png",
@@ -254,6 +335,8 @@
     "lib/media/rpcinfo.png",
     "lib/media/netcat-ft.png",
     "lib/media/secator.png",
+    "lib/media/argus.png",
+    "lib/media/argus1.png",
     "lib/media/sc-ms-os-setup.png",
     "lib/media/sc-custom-install.png",
     "lib/media/sc-unallocated.png",
@@ -267,36 +350,7 @@
     "lib/media/vulnad.png",
     "lib/media/sc-ps-output.png",
     "media/app-logos.png",
-    "media/simple-logo.png",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "media/simple-logo.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -330,38 +384,6 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "about-this project/About Me.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 3101,
-      "exportedPath": "about-this-project/about-me.html",
-      "dependencies": []
-    },
-    "about-this project/Build for my website.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 5514,
-      "exportedPath": "about-this-project/build-for-my-website.html",
-      "dependencies": [
-        "lib/media/app-logos.png"
-      ]
-    },
-    "about-this project/How to use this website.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 4805,
-      "exportedPath": "about-this-project/how-to-use-this-website.html",
-      "dependencies": [
-        "lib/media/toc.png",
-        "lib/media/dir-nav.png",
-        "lib/media/night.png",
-        "lib/media/light.png",
-        "lib/media/dark-mode.png",
-        "lib/media/light-mode.png",
-        "lib/media/int-graph1.png",
-        "lib/media/int-graph1.png",
-        "lib/media/test-page.png",
-        "lib/media/search-bar.png",
-        "lib/media/hash-tag.png"
-      ]
-    },
     "artificial-intelligence/AI Systems.md": {
       "modifiedTime": 1729201671883,
       "sourceSize": 1555,
@@ -375,8 +397,8 @@
       "dependencies": []
     },
     "blockchain/Avalanche (AVA) Training Academy.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 3796,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 3797,
       "exportedPath": "blockchain/avalanche-(ava)-training-academy.html",
       "dependencies": []
     },
@@ -393,26 +415,26 @@
       "dependencies": []
     },
     "canvas-pages/AZ-500 - Secure Networking.canvas": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 14731,
       "exportedPath": "canvas-pages/az-500-secure-networking.html",
       "dependencies": []
     },
     "canvas-pages/Cyber security diagrams.canvas": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 22583,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 22770,
       "exportedPath": "canvas-pages/cyber-security-diagrams.html",
       "dependencies": []
     },
     "canvas-pages/HTB CDSA.canvas": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 31326,
       "exportedPath": "canvas-pages/htb-cdsa.html",
       "dependencies": []
     },
     "canvas-pages/Navigating the Canvas pages.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 577,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 825,
       "exportedPath": "canvas-pages/navigating-the-canvas-pages.html",
       "dependencies": [
         "lib/media/canvas-demo-2024-10-06_22.16.mp4"
@@ -431,15 +453,9 @@
       "dependencies": []
     },
     "canvas-pages/Web API.canvas": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 9022,
       "exportedPath": "canvas-pages/web-api.html",
-      "dependencies": []
-    },
-    "canvas-pages/Zscaler Zero-trust.canvas": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 2563,
-      "exportedPath": "canvas-pages/zscaler-zero-trust.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/Agile Framework.md": {
@@ -586,8 +602,8 @@
       ]
     },
     "detection-engineering/Sigma & Sigma Rules.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 950,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1012,
       "exportedPath": "detection-engineering/sigma-&-sigma-rules.html",
       "dependencies": []
     },
@@ -621,23 +637,17 @@
       "exportedPath": "digital-forensics/malware-threat-feeds.html",
       "dependencies": []
     },
-    "github-labs-and-resources/AI Security Tools.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 169,
-      "exportedPath": "github-labs-and-resources/ai-security-tools.html",
+    "github-labs-and-resources/Black Hill Information Security.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1426,
+      "exportedPath": "github-labs-and-resources/black-hill-information-security.html",
       "dependencies": [
-        "lib/media/deep_fake_detect_gh.png"
+        "lib/media/bhis-github.png"
       ]
     },
-    "github-labs-and-resources/Black Hill Information Security.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1127,
-      "exportedPath": "github-labs-and-resources/black-hill-information-security.html",
-      "dependencies": []
-    },
     "github-labs-and-resources/Cloud Security.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 2020,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 2128,
       "exportedPath": "github-labs-and-resources/cloud-security.html",
       "dependencies": [
         "lib/media/awsgoat.png",
@@ -645,49 +655,40 @@
       ]
     },
     "github-labs-and-resources/Digital Forensics Labs.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1038,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1139,
       "exportedPath": "github-labs-and-resources/digital-forensics-labs.html",
       "dependencies": []
     },
-    "github-labs-and-resources/Github Repos.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1675,
-      "exportedPath": "github-labs-and-resources/github-repos.html",
-      "dependencies": [
-        "lib/media/bhis-github.png",
-        "lib/media/awsgoat.png"
-      ]
-    },
     "github-labs-and-resources/Halberd.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 586,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 708,
       "exportedPath": "github-labs-and-resources/halberd.html",
       "dependencies": [
         "lib/media/halberd.png"
       ]
     },
     "github-labs-and-resources/HTB- Sherlocks- Investigation Lab.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 687,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 741,
       "exportedPath": "github-labs-and-resources/htb-sherlocks-investigation-lab.html",
       "dependencies": []
     },
     "github-labs-and-resources/RITA (Real Intelligence Threat Analytics).md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 541,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 594,
       "exportedPath": "github-labs-and-resources/rita-(real-intelligence-threat-analytics).html",
       "dependencies": []
     },
     "github-labs-and-resources/RSS Builder.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 424,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 477,
       "exportedPath": "github-labs-and-resources/rss-builder.html",
       "dependencies": []
     },
     "github-labs-and-resources/Web Application Security.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 443,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 495,
       "exportedPath": "github-labs-and-resources/web-application-security.html",
       "dependencies": []
     },
@@ -724,8 +725,8 @@
       ]
     },
     "in-progress-certs/Certificates.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 6130,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 6131,
       "exportedPath": "in-progress-certs/certificates.html",
       "dependencies": [
         "lib/media/ms-certs.png",
@@ -757,38 +758,38 @@
       ]
     },
     "linux/Installing Kali in Docker.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 336,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 340,
       "exportedPath": "linux/installing-kali-in-docker.html",
       "dependencies": []
     },
     "linux/Linux - Random Commands.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 357,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 367,
       "exportedPath": "linux/linux-random-commands.html",
       "dependencies": []
     },
     "linux/Linux Command Sheet.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 8470,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 8480,
       "exportedPath": "linux/linux-command-sheet.html",
       "dependencies": []
     },
     "linux/Linux Networking.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 824,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 848,
       "exportedPath": "linux/linux-networking.html",
       "dependencies": []
     },
     "linux/Mounting NTFS Partition on Linux.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 404,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 414,
       "exportedPath": "linux/mounting-ntfs-partition-on-linux.html",
       "dependencies": []
     },
     "log-analysis/Cloud Monitoring.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 425,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 263,
       "exportedPath": "log-analysis/cloud-monitoring.html",
       "dependencies": []
     },
@@ -810,15 +811,9 @@
       "exportedPath": "log-analysis/resources.html",
       "dependencies": []
     },
-    "log-analysis/Wazuh Directory Overview.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 507,
-      "exportedPath": "log-analysis/wazuh-directory-overview.html",
-      "dependencies": []
-    },
     "microsoft/Active Directory/Active Directory - Attacks.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 5028,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 5026,
       "exportedPath": "microsoft/active-directory/active-directory-attacks.html",
       "dependencies": [
         "lib/media/mimikatz.png",
@@ -838,8 +833,8 @@
       "dependencies": []
     },
     "microsoft/AZ-Series/AZ-500 Identity and Access Management.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 210179,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 210211,
       "exportedPath": "microsoft/az-series/az-500-identity-and-access-management.html",
       "dependencies": [
         "lib/media/entra-id.png",
@@ -937,14 +932,14 @@
       ]
     },
     "microsoft/AZ-Series/Microsoft Enterprise Access Model.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 8460,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 8454,
       "exportedPath": "microsoft/az-series/microsoft-enterprise-access-model.html",
       "dependencies": []
     },
     "microsoft/Security/Advanced Threat Hunting in Active Directory.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 5474,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 5464,
       "exportedPath": "microsoft/security/advanced-threat-hunting-in-active-directory.html",
       "dependencies": []
     },
@@ -960,14 +955,14 @@
       ]
     },
     "microsoft/Security/Event Tracing Windows (ETW) Logs.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 9665,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 9698,
       "exportedPath": "microsoft/security/event-tracing-windows-(etw)-logs.html",
       "dependencies": []
     },
     "microsoft/Security/Hunting with Microsoft Graph activity logs.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 15997,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 16018,
       "exportedPath": "microsoft/security/hunting-with-microsoft-graph-activity-logs.html",
       "dependencies": [
         "lib/media/graph-dash.png"
@@ -1016,8 +1011,8 @@
       ]
     },
     "microsoft/Tools/Hayabusa.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1389,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1390,
       "exportedPath": "microsoft/tools/hayabusa.html",
       "dependencies": []
     },
@@ -1028,10 +1023,23 @@
       "dependencies": []
     },
     "microsoft/Sysmon.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 173,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 7528,
       "exportedPath": "microsoft/sysmon.html",
-      "dependencies": []
+      "dependencies": [
+        "microsoft/img/sysmon.png",
+        "microsoft/img/sysmon1.png",
+        "microsoft/img/sysmon2.png",
+        "microsoft/img/sysmon3.png",
+        "microsoft/img/sysmon4.png",
+        "microsoft/img/sysmon5.png",
+        "microsoft/img/sysmon6.png",
+        "microsoft/img/sysmon7.png",
+        "microsoft/img/sysmon10.png",
+        "microsoft/img/sysmon9.png",
+        "microsoft/img/sysmon8.png",
+        "microsoft/img/sysmon11.png"
+      ]
     },
     "microsoft/Windows Event Logs.md": {
       "modifiedTime": 1729201671883,
@@ -1064,8 +1072,8 @@
       "dependencies": []
     },
     "pentesting/Entra ID Exploit.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1291,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1292,
       "exportedPath": "pentesting/entra-id-exploit.html",
       "dependencies": [
         "lib/media/tier-support.png"
@@ -1097,18 +1105,23 @@
       ]
     },
     "pentesting/GitHub repos.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 366,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 577,
       "exportedPath": "pentesting/github-repos.html",
       "dependencies": [
-        "lib/media/secator.png"
+        "lib/media/secator.png",
+        "pentesting/img/pentestgpt.png",
+        "lib/media/argus.png",
+        "lib/media/argus1.png"
       ]
     },
     "privacy/Browser Fingerprinting.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 400,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 424,
       "exportedPath": "privacy/browser-fingerprinting.html",
-      "dependencies": []
+      "dependencies": [
+        "privacy/img/canvasblocker.png"
+      ]
     },
     "privacy/Public DNS Resolver 1 1 1 1.md": {
       "modifiedTime": 1729201671883,
@@ -1142,21 +1155,15 @@
         "lib/media/sc-ps-output.png"
       ]
     },
-    "resources/AC-Hunter Set up.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 96,
-      "exportedPath": "resources/ac-hunter-set-up.html",
-      "dependencies": []
-    },
     "resources/Docs for major service providers.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 1573,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1590,
       "exportedPath": "resources/docs-for-major-service-providers.html",
       "dependencies": []
     },
     "resources/Malware Threat Feeds.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 2688,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 2645,
       "exportedPath": "resources/malware-threat-feeds.html",
       "dependencies": []
     },
@@ -1167,8 +1174,8 @@
       "dependencies": []
     },
     "resources/Table of Security Tools.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 50097,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 49741,
       "exportedPath": "resources/table-of-security-tools.html",
       "dependencies": []
     },
@@ -1184,15 +1191,9 @@
       "exportedPath": "resources/tips-&-tricks.html",
       "dependencies": []
     },
-    "self-created/Self-Created Pages.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 839,
-      "exportedPath": "self-created/self-created-pages.html",
-      "dependencies": []
-    },
     "index.md": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 7307,
+      "modifiedTime": 1729218881476,
+      "sourceSize": 7189,
       "exportedPath": "index.html",
       "dependencies": [
         "media/app-logos.png",
@@ -1200,73 +1201,73 @@
       ]
     },
     "lib/media/app-logos.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 23525,
       "exportedPath": "lib/media/app-logos.png",
       "dependencies": []
     },
     "lib/media/toc.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 1008,
       "exportedPath": "lib/media/toc.png",
       "dependencies": []
     },
     "lib/media/dir-nav.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 5921,
       "exportedPath": "lib/media/dir-nav.png",
       "dependencies": []
     },
     "lib/media/night.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 853,
       "exportedPath": "lib/media/night.png",
       "dependencies": []
     },
     "lib/media/light.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 1042,
       "exportedPath": "lib/media/light.png",
       "dependencies": []
     },
     "lib/media/dark-mode.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 108550,
       "exportedPath": "lib/media/dark-mode.png",
       "dependencies": []
     },
     "lib/media/light-mode.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 111281,
       "exportedPath": "lib/media/light-mode.png",
       "dependencies": []
     },
     "lib/media/int-graph1.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 91630,
       "exportedPath": "lib/media/int-graph1.png",
       "dependencies": []
     },
     "lib/media/test-page.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 39946,
       "exportedPath": "lib/media/test-page.png",
       "dependencies": []
     },
     "lib/media/search-bar.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 10451,
       "exportedPath": "lib/media/search-bar.png",
       "dependencies": []
     },
     "lib/media/hash-tag.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 77247,
       "exportedPath": "lib/media/hash-tag.png",
       "dependencies": []
     },
     "lib/media/canvas-demo-2024-10-06_22.16.mp4": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 17715439,
       "exportedPath": "lib/media/canvas-demo-2024-10-06_22.16.mp4",
       "dependencies": []
@@ -1290,7 +1291,7 @@
       "dependencies": []
     },
     "lib/media/entra-id40.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 76082,
       "exportedPath": "lib/media/entra-id40.png",
       "dependencies": []
@@ -1362,25 +1363,25 @@
       "dependencies": []
     },
     "lib/media/deep_fake_detect_gh.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 92378,
       "exportedPath": "lib/media/deep_fake_detect_gh.png",
       "dependencies": []
     },
     "lib/media/awsgoat.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 146939,
       "exportedPath": "lib/media/awsgoat.png",
       "dependencies": []
     },
     "lib/media/halberd.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 100141,
       "exportedPath": "lib/media/halberd.png",
       "dependencies": []
     },
     "lib/media/bhis-github.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 106118,
       "exportedPath": "lib/media/bhis-github.png",
       "dependencies": []
@@ -1428,13 +1429,13 @@
       "dependencies": []
     },
     "lib/media/ms-certs.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 94174,
       "exportedPath": "lib/media/ms-certs.png",
       "dependencies": []
     },
     "lib/media/aws-training.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 109566,
       "exportedPath": "lib/media/aws-training.png",
       "dependencies": []
@@ -1470,307 +1471,307 @@
       "dependencies": []
     },
     "lib/media/mimikatz.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 143474,
       "exportedPath": "lib/media/mimikatz.png",
       "dependencies": []
     },
     "lib/media/wazuh-dcsync1.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 22797,
       "exportedPath": "lib/media/wazuh-dcsync1.png",
       "dependencies": []
     },
     "lib/media/wazuh-dcsync.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 60623,
       "exportedPath": "lib/media/wazuh-dcsync.png",
       "dependencies": []
     },
     "lib/media/golden-ticket.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 49232,
       "exportedPath": "lib/media/golden-ticket.png",
       "dependencies": []
     },
     "lib/media/mimikatz-cmd.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 26882,
       "exportedPath": "lib/media/mimikatz-cmd.png",
       "dependencies": []
     },
     "lib/media/cmd-detection.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 5853,
       "exportedPath": "lib/media/cmd-detection.png",
       "dependencies": []
     },
     "lib/media/mimikatz-cmd-spawn.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 99027,
       "exportedPath": "lib/media/mimikatz-cmd-spawn.png",
       "dependencies": []
     },
     "lib/media/mimikatz-klist.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 29588,
       "exportedPath": "lib/media/mimikatz-klist.png",
       "dependencies": []
     },
     "lib/media/entra-id.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 181818,
       "exportedPath": "lib/media/entra-id.png",
       "dependencies": []
     },
     "lib/media/entra-id1.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 172830,
       "exportedPath": "lib/media/entra-id1.png",
       "dependencies": []
     },
     "lib/media/entra-id3.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 153484,
       "exportedPath": "lib/media/entra-id3.png",
       "dependencies": []
     },
     "lib/media/entra-id4.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 175695,
       "exportedPath": "lib/media/entra-id4.png",
       "dependencies": []
     },
     "lib/media/entra-id6.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 129747,
       "exportedPath": "lib/media/entra-id6.png",
       "dependencies": []
     },
     "lib/media/entra-id7.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 97823,
       "exportedPath": "lib/media/entra-id7.png",
       "dependencies": []
     },
     "lib/media/entra-id8.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 56082,
       "exportedPath": "lib/media/entra-id8.png",
       "dependencies": []
     },
     "lib/media/entra-id9.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 21160,
       "exportedPath": "lib/media/entra-id9.png",
       "dependencies": []
     },
     "lib/media/entra-id10.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 47130,
       "exportedPath": "lib/media/entra-id10.png",
       "dependencies": []
     },
     "lib/media/entra-id11.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 36210,
       "exportedPath": "lib/media/entra-id11.png",
       "dependencies": []
     },
     "lib/media/entra-id12.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 46493,
       "exportedPath": "lib/media/entra-id12.png",
       "dependencies": []
     },
     "lib/media/entra-id13.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 61861,
       "exportedPath": "lib/media/entra-id13.png",
       "dependencies": []
     },
     "lib/media/entra-id14.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 29376,
       "exportedPath": "lib/media/entra-id14.png",
       "dependencies": []
     },
     "lib/media/entra-id15.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 5449,
       "exportedPath": "lib/media/entra-id15.png",
       "dependencies": []
     },
     "lib/media/entra-id16.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 20828,
       "exportedPath": "lib/media/entra-id16.png",
       "dependencies": []
     },
     "lib/media/entra-id17.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 23164,
       "exportedPath": "lib/media/entra-id17.png",
       "dependencies": []
     },
     "lib/media/entra-id18.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 54767,
       "exportedPath": "lib/media/entra-id18.png",
       "dependencies": []
     },
     "lib/media/entra-id19.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 170801,
       "exportedPath": "lib/media/entra-id19.png",
       "dependencies": []
     },
     "lib/media/entra-id20.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 93554,
       "exportedPath": "lib/media/entra-id20.png",
       "dependencies": []
     },
     "lib/media/entra-id21.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 73200,
       "exportedPath": "lib/media/entra-id21.png",
       "dependencies": []
     },
     "lib/media/entra-id22.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 24974,
       "exportedPath": "lib/media/entra-id22.png",
       "dependencies": []
     },
     "lib/media/entra-id23.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 84906,
       "exportedPath": "lib/media/entra-id23.png",
       "dependencies": []
     },
     "lib/media/mgmt-groups.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 44279,
       "exportedPath": "lib/media/mgmt-groups.png",
       "dependencies": []
     },
     "lib/media/entra-id24.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 15022,
       "exportedPath": "lib/media/entra-id24.png",
       "dependencies": []
     },
     "lib/media/entra-id25.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 44451,
       "exportedPath": "lib/media/entra-id25.png",
       "dependencies": []
     },
     "lib/media/entra-id26.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 21805,
       "exportedPath": "lib/media/entra-id26.png",
       "dependencies": []
     },
     "lib/media/entra-id27.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 64993,
       "exportedPath": "lib/media/entra-id27.png",
       "dependencies": []
     },
     "lib/media/entra-id28.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 39231,
       "exportedPath": "lib/media/entra-id28.png",
       "dependencies": []
     },
     "lib/media/entra-id29.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 29340,
       "exportedPath": "lib/media/entra-id29.png",
       "dependencies": []
     },
     "lib/media/entra-id30.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 58963,
       "exportedPath": "lib/media/entra-id30.png",
       "dependencies": []
     },
     "lib/media/entra-id31.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 93955,
       "exportedPath": "lib/media/entra-id31.png",
       "dependencies": []
     },
     "lib/media/entra-id32.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 71700,
       "exportedPath": "lib/media/entra-id32.png",
       "dependencies": []
     },
     "lib/media/entra-id33.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 163119,
       "exportedPath": "lib/media/entra-id33.png",
       "dependencies": []
     },
     "lib/media/entra-id34.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 13202,
       "exportedPath": "lib/media/entra-id34.png",
       "dependencies": []
     },
     "lib/media/entra-id35.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 19100,
       "exportedPath": "lib/media/entra-id35.png",
       "dependencies": []
     },
     "lib/media/entra-id38.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 52205,
       "exportedPath": "lib/media/entra-id38.png",
       "dependencies": []
     },
     "lib/media/entra-id37.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 161210,
       "exportedPath": "lib/media/entra-id37.png",
       "dependencies": []
     },
     "lib/media/entra-id39.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 197322,
       "exportedPath": "lib/media/entra-id39.png",
       "dependencies": []
     },
     "lib/media/entra-id41.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 132171,
       "exportedPath": "lib/media/entra-id41.png",
       "dependencies": []
     },
     "lib/media/entra-id42.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 176363,
       "exportedPath": "lib/media/entra-id42.png",
       "dependencies": []
     },
     "lib/media/entra-id43.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 137646,
       "exportedPath": "lib/media/entra-id43.png",
       "dependencies": []
     },
     "lib/media/entra-id44.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 62091,
       "exportedPath": "lib/media/entra-id44.png",
       "dependencies": []
     },
     "lib/media/entra-id45.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 49030,
       "exportedPath": "lib/media/entra-id45.png",
       "dependencies": []
@@ -1878,7 +1879,7 @@
       "dependencies": []
     },
     "lib/media/graph-dash.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 103058,
       "exportedPath": "lib/media/graph-dash.png",
       "dependencies": []
@@ -1938,7 +1939,7 @@
       "dependencies": []
     },
     "lib/media/tier-support.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 25102,
       "exportedPath": "lib/media/tier-support.png",
       "dependencies": []
@@ -2004,7 +2005,7 @@
       "dependencies": []
     },
     "lib/media/secator.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 219736,
       "exportedPath": "lib/media/secator.png",
       "dependencies": []
@@ -2082,189 +2083,605 @@
       "dependencies": []
     },
     "media/app-logos.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 23525,
       "exportedPath": "media/app-logos.png",
       "dependencies": []
     },
     "media/simple-logo.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729218881476,
       "sourceSize": 444951,
       "exportedPath": "media/simple-logo.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 60223,
+      "modifiedTime": 1729219214341,
+      "sourceSize": 80585,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729201671883,
-      "sourceSize": 12313,
+      "modifiedTime": 1729219214341,
+      "sourceSize": 14396,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 13544,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729201671883,
+      "modifiedTime": 1729219214341,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "about/About Me.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 3101,
+      "exportedPath": "about/about-me.html",
+      "dependencies": []
+    },
+    "about/Build for my website.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 5514,
+      "exportedPath": "about/build-for-my-website.html",
+      "dependencies": [
+        "lib/media/app-logos.png"
+      ]
+    },
+    "about/How to use this website.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 4805,
+      "exportedPath": "about/how-to-use-this-website.html",
+      "dependencies": [
+        "lib/media/toc.png",
+        "lib/media/dir-nav.png",
+        "lib/media/night.png",
+        "lib/media/light.png",
+        "lib/media/dark-mode.png",
+        "lib/media/light-mode.png",
+        "lib/media/int-graph1.png",
+        "lib/media/int-graph1.png",
+        "lib/media/test-page.png",
+        "lib/media/search-bar.png",
+        "lib/media/hash-tag.png"
+      ]
+    },
+    "blockchain/Blockchain Page Links.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 75,
+      "exportedPath": "blockchain/blockchain-page-links.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/Amazon S3.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 5200,
+      "exportedPath": "cloud-automation-virtualization/aws/amazon-s3.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 679,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/Databases & Analytics.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1000,
+      "exportedPath": "cloud-automation-virtualization/aws/databases-&-analytics.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 3369,
+      "exportedPath": "cloud-automation-virtualization/aws/elb-&-asg-elastic-load-balancing-&-auto-scaling-groups.html",
+      "dependencies": []
+    },
+    "detection-engineering/Articles on Detection Engineering.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 109,
+      "exportedPath": "detection-engineering/articles-on-detection-engineering.html",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/argus.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 681725,
+      "exportedPath": "github-labs-and-resources/img/argus.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/argus1.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 272409,
+      "exportedPath": "github-labs-and-resources/img/argus1.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/cloudgoat.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 300938,
+      "exportedPath": "github-labs-and-resources/img/cloudgoat.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/cloudgrappler.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 152246,
+      "exportedPath": "github-labs-and-resources/img/cloudgrappler.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/mlsecops.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 673122,
+      "exportedPath": "github-labs-and-resources/img/mlsecops.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/openbas.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 169110,
+      "exportedPath": "github-labs-and-resources/img/openbas.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/img/openbas2.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 219274,
+      "exportedPath": "github-labs-and-resources/img/openbas2.png",
+      "dependencies": []
+    },
+    "github-labs-and-resources/AC-Hunter Set up.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 149,
+      "exportedPath": "github-labs-and-resources/ac-hunter-set-up.html",
+      "dependencies": []
+    },
+    "github-labs-and-resources/AWS Goat - A Damn Vulnerable AWS Infrastructure.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 107,
+      "exportedPath": "github-labs-and-resources/aws-goat-a-damn-vulnerable-aws-infrastructure.html",
+      "dependencies": [
+        "lib/media/awsgoat.png"
+      ]
+    },
+    "github-labs-and-resources/Cloud Grappler.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 267,
+      "exportedPath": "github-labs-and-resources/cloud-grappler.html",
+      "dependencies": [
+        "github-labs-and-resources/img/cloudgrappler.png"
+      ]
+    },
+    "github-labs-and-resources/CloudGoat.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 396,
+      "exportedPath": "github-labs-and-resources/cloudgoat.html",
+      "dependencies": [
+        "github-labs-and-resources/img/cloudgoat.png"
+      ]
+    },
+    "github-labs-and-resources/Damn Vulnerable Web Application.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 1017,
+      "exportedPath": "github-labs-and-resources/damn-vulnerable-web-application.html",
+      "dependencies": []
+    },
+    "github-labs-and-resources/Deep Fake Image Detector.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 126,
+      "exportedPath": "github-labs-and-resources/deep-fake-image-detector.html",
+      "dependencies": [
+        "lib/media/deep_fake_detect_gh.png"
+      ]
+    },
+    "github-labs-and-resources/MLSecOps.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 170,
+      "exportedPath": "github-labs-and-resources/mlsecops.html",
+      "dependencies": [
+        "github-labs-and-resources/img/mlsecops.png"
+      ]
+    },
+    "github-labs-and-resources/Mobile Testing.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 206,
+      "exportedPath": "github-labs-and-resources/mobile-testing.html",
+      "dependencies": []
+    },
+    "github-labs-and-resources/OpenBAS Simulation Platform.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 160,
+      "exportedPath": "github-labs-and-resources/openbas-simulation-platform.html",
+      "dependencies": [
+        "github-labs-and-resources/img/openbas.png",
+        "github-labs-and-resources/img/openbas2.png"
+      ]
+    },
+    "github-labs-and-resources/Vulnerable Active Directory.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 184,
+      "exportedPath": "github-labs-and-resources/vulnerable-active-directory.html",
+      "dependencies": []
+    },
+    "log-analysis/Wazuh/Innovative Articles.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 145,
+      "exportedPath": "log-analysis/wazuh/innovative-articles.html",
+      "dependencies": []
+    },
+    "log-analysis/Wazuh/Wazuh Directory Overview.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 507,
+      "exportedPath": "log-analysis/wazuh/wazuh-directory-overview.html",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 63959,
+      "exportedPath": "microsoft/img/sysmon.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon1.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 16790,
+      "exportedPath": "microsoft/img/sysmon1.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon2.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 73363,
+      "exportedPath": "microsoft/img/sysmon2.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon3.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 15568,
+      "exportedPath": "microsoft/img/sysmon3.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon4.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 19667,
+      "exportedPath": "microsoft/img/sysmon4.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon5.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 83022,
+      "exportedPath": "microsoft/img/sysmon5.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon6.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 20096,
+      "exportedPath": "microsoft/img/sysmon6.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon7.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 132980,
+      "exportedPath": "microsoft/img/sysmon7.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon8.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 36574,
+      "exportedPath": "microsoft/img/sysmon8.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon9.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 20467,
+      "exportedPath": "microsoft/img/sysmon9.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon10.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 28869,
+      "exportedPath": "microsoft/img/sysmon10.png",
+      "dependencies": []
+    },
+    "microsoft/img/sysmon11.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 112198,
+      "exportedPath": "microsoft/img/sysmon11.png",
+      "dependencies": []
+    },
+    "microsoft/img/whoyoucalling.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 145784,
+      "exportedPath": "microsoft/img/whoyoucalling.png",
+      "dependencies": []
+    },
+    "microsoft/img/winforensics.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 332418,
+      "exportedPath": "microsoft/img/winforensics.png",
+      "dependencies": []
+    },
+    "microsoft/Tools/WhoYouCalling.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 313,
+      "exportedPath": "microsoft/tools/whoyoucalling.html",
+      "dependencies": [
+        "lib/media/whoyoucalling.png",
+        "lib/media/bhis-github.png"
+      ]
+    },
+    "microsoft/Tools/Windows Forensics Handbook.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 240,
+      "exportedPath": "microsoft/tools/windows-forensics-handbook.html",
+      "dependencies": [
+        "lib/media/winforensics.png"
+      ]
+    },
+    "microsoft/Windows ETW Logs.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 16306,
+      "exportedPath": "microsoft/windows-etw-logs.html",
+      "dependencies": []
+    },
+    "microsoft/Windows Internals.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 8987,
+      "exportedPath": "microsoft/windows-internals.html",
+      "dependencies": []
+    },
+    "pentesting/img/pentestgpt.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 132186,
+      "exportedPath": "pentesting/img/pentestgpt.png",
+      "dependencies": []
+    },
+    "pentesting/NTLM Relaying.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 135,
+      "exportedPath": "pentesting/ntlm-relaying.html",
+      "dependencies": []
+    },
+    "pentesting/Tools.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 136,
+      "exportedPath": "pentesting/tools.html",
+      "dependencies": []
+    },
+    "privacy/img/canvasblocker.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 18744,
+      "exportedPath": "privacy/img/canvasblocker.png",
+      "dependencies": []
+    },
+    "privacy/img/whonix.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 4776,
+      "exportedPath": "privacy/img/whonix.png",
+      "dependencies": []
+    },
+    "privacy/img/whonix1.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 51757,
+      "exportedPath": "privacy/img/whonix1.png",
+      "dependencies": []
+    },
+    "privacy/img/whonix2.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 221017,
+      "exportedPath": "privacy/img/whonix2.png",
+      "dependencies": []
+    },
+    "privacy/img/whonix3.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 10986,
+      "exportedPath": "privacy/img/whonix3.png",
+      "dependencies": []
+    },
+    "privacy/img/whonix4.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 22133,
+      "exportedPath": "privacy/img/whonix4.png",
+      "dependencies": []
+    },
+    "privacy/Privacy Browsing.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 686,
+      "exportedPath": "privacy/privacy-browsing.html",
+      "dependencies": [
+        "privacy/img/whonix.png",
+        "privacy/img/whonix1.png",
+        "privacy/img/whonix2.png",
+        "privacy/img/whonix3.png",
+        "privacy/img/whonix4.png"
+      ]
+    },
+    "resources/DEFCON.md": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 153,
+      "exportedPath": "resources/defcon.html",
+      "dependencies": []
+    },
+    "lib/media/whoyoucalling.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 145784,
+      "exportedPath": "lib/media/whoyoucalling.png",
+      "dependencies": []
+    },
+    "lib/media/winforensics.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 332418,
+      "exportedPath": "lib/media/winforensics.png",
+      "dependencies": []
+    },
+    "lib/media/argus.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 681725,
+      "exportedPath": "lib/media/argus.png",
+      "dependencies": []
+    },
+    "lib/media/argus1.png": {
+      "modifiedTime": 1729218881476,
+      "sourceSize": 272409,
+      "exportedPath": "lib/media/argus1.png",
+      "dependencies": []
+    },
+    "- GitHub.md": {
+      "modifiedTime": 1729219214341,
+      "sourceSize": 484,
+      "exportedPath": "-github.html",
+      "dependencies": []
+    },
+    "- Self-Created.md": {
+      "modifiedTime": 1729219214341,
+      "sourceSize": 839,
+      "exportedPath": "-self-created.html",
       "dependencies": []
     }
   }
