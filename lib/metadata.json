@@ -1,6 +1,6 @@
 {
   "vaultName": "Chris Adams Cyber Garden",
-  "lastExport": 1729532666378,
+  "lastExport": 1729533655634,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -380,18 +380,47 @@
     "resources/The Hive Project.md",
     "resources/Tips & Tricks.md",
     "resources/YouTube Channels.md",
-    "Browsermon.md",
-    "Checking File Hashes.md",
-    "Elastic Detection Rules.md",
-    "index.md",
-    "LLM Inspect.md",
-    "Masquerading Attempts as Native Windows Binaries.md",
-    "Microsoft Training.md",
+    "wip/Browsermon.md",
+    "wip/Checking File Hashes.md",
+    "wip/Elastic Detection Rules.md",
+    "wip/LLM Inspect.md",
+    "wip/Masquerading Attempts as Native Windows Binaries.md",
+    "wip/Microsoft Training.md",
+    "wip/Reverse Engineering Tools.md",
+    "wip/What are IMPHASHES and How can you calculate them.md",
+    "Chris Adams' Cyber Garden.md",
     "Music.md",
-    "Reverse Engineering Tools.md",
     "SelfCreated.md",
     "Terms and Conditions.md",
-    "What are IMPHASHES and How can you calculate them.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
     "lib/media/int-graph1.png",
     "lib/media/test-page.png",
     "lib/media/search-bar.png",
@@ -519,36 +548,7 @@
     "lib/media/dl-sysmon.png",
     "lib/media/gpo-dropdown.png",
     "lib/media/gpm.png",
-    "lib/media/vulnad.png",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/vulnad.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -583,7 +583,7 @@
   ],
   "fileInfo": {
     "about/img/app-logos.png": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 23525,
       "exportedPath": "about/img/app-logos.png",
       "dependencies": []
@@ -631,14 +631,14 @@
       "dependencies": []
     },
     "about/About Me.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 3136,
+      "modifiedTime": 1729533655634,
+      "sourceSize": 3161,
       "exportedPath": "about/about-me.html",
       "dependencies": []
     },
     "about/Build for my website.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 5483,
+      "modifiedTime": 1729533655634,
+      "sourceSize": 5508,
       "exportedPath": "about/build-for-my-website.html",
       "dependencies": [
         "about/img/app-logos.png"
@@ -1828,7 +1828,7 @@
       "dependencies": []
     },
     "media/simple-logo.png": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 444951,
       "exportedPath": "media/simple-logo.png",
       "dependencies": []
@@ -3048,61 +3048,10 @@
       "exportedPath": "resources/youtube-channels.html",
       "dependencies": []
     },
-    "Browsermon.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 72,
-      "exportedPath": "browsermon.html",
-      "dependencies": []
-    },
-    "Checking File Hashes.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 4252,
-      "exportedPath": "checking-file-hashes.html",
-      "dependencies": []
-    },
-    "Elastic Detection Rules.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 42,
-      "exportedPath": "elastic-detection-rules.html",
-      "dependencies": []
-    },
-    "index.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 7943,
-      "exportedPath": "index.html",
-      "dependencies": [
-        "about/img/app-logos.png",
-        "media/simple-logo.png"
-      ]
-    },
-    "LLM Inspect.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 161,
-      "exportedPath": "llm-inspect.html",
-      "dependencies": []
-    },
-    "Masquerading Attempts as Native Windows Binaries.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 132,
-      "exportedPath": "masquerading-attempts-as-native-windows-binaries.html",
-      "dependencies": []
-    },
-    "Microsoft Training.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 148,
-      "exportedPath": "microsoft-training.html",
-      "dependencies": []
-    },
     "Music.md": {
       "modifiedTime": 1729532666378,
       "sourceSize": 637,
       "exportedPath": "music.html",
-      "dependencies": []
-    },
-    "Reverse Engineering Tools.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 215,
-      "exportedPath": "reverse-engineering-tools.html",
       "dependencies": []
     },
     "SelfCreated.md": {
@@ -3115,12 +3064,6 @@
       "modifiedTime": 1729532666378,
       "sourceSize": 2924,
       "exportedPath": "terms-and-conditions.html",
-      "dependencies": []
-    },
-    "What are IMPHASHES and How can you calculate them.md": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 0,
-      "exportedPath": "what-are-imphashes-and-how-can-you-calculate-them.html",
       "dependencies": []
     },
     "lib/media/int-graph1.png": {
@@ -3892,175 +3835,175 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 161294,
+      "modifiedTime": 1729533655634,
+      "sourceSize": 161997,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 444951,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729532666378,
-      "sourceSize": 15774,
+      "modifiedTime": 1729533655634,
+      "sourceSize": 15846,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 13544,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729532666378,
+      "modifiedTime": 1729533655634,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -4076,6 +4019,63 @@
       "sourceSize": 134678,
       "exportedPath": "microsoft/img/chainsaw.png",
       "dependencies": []
+    },
+    "wip/Browsermon.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 97,
+      "exportedPath": "wip/browsermon.html",
+      "dependencies": []
+    },
+    "wip/Checking File Hashes.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 4252,
+      "exportedPath": "wip/checking-file-hashes.html",
+      "dependencies": []
+    },
+    "wip/Elastic Detection Rules.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 42,
+      "exportedPath": "wip/elastic-detection-rules.html",
+      "dependencies": []
+    },
+    "wip/LLM Inspect.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 161,
+      "exportedPath": "wip/llm-inspect.html",
+      "dependencies": []
+    },
+    "wip/Masquerading Attempts as Native Windows Binaries.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 132,
+      "exportedPath": "wip/masquerading-attempts-as-native-windows-binaries.html",
+      "dependencies": []
+    },
+    "wip/Microsoft Training.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 148,
+      "exportedPath": "wip/microsoft-training.html",
+      "dependencies": []
+    },
+    "wip/Reverse Engineering Tools.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 215,
+      "exportedPath": "wip/reverse-engineering-tools.html",
+      "dependencies": []
+    },
+    "wip/What are IMPHASHES and How can you calculate them.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 0,
+      "exportedPath": "wip/what-are-imphashes-and-how-can-you-calculate-them.html",
+      "dependencies": []
+    },
+    "Chris Adams' Cyber Garden.md": {
+      "modifiedTime": 1729533655634,
+      "sourceSize": 7943,
+      "exportedPath": "chris-adams'-cyber-garden.html",
+      "dependencies": [
+        "about/img/app-logos.png",
+        "media/simple-logo.png"
+      ]
     }
   }
 }
