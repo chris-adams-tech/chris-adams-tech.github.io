@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5dc9a1ce766efa3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "027ef40eb1c62feb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31989463e110b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5542836fdac2ecb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e38a56ea02bd4de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53342c0ec07ddca1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "acea472f1c4f7669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3486324bce114548",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6579c46d4fc0de3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f0d7eadc9c67506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c7303c6892dda9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "cd57cbe107df93a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "7c51eec982bf6ac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6aed53f9ede1f8ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "a31989463e110b55",
+  "lastOpenFiles": [
+    "Log Analysis/resources.html",
+    "Log Analysis/packet-capture.html",
+    "Log Analysis/events-logs.html",
+    "Log Analysis/encrypted-traffic-a-double-edged-sword-for-network-defenders.html",
+    "Helpful Guides/checking-sha256-signature-on-a-file.html",
+    "GitHub Labs & Resources/web-application-security.html",
+    "GitHub Labs & Resources/water-execution-github-lab.html",
+    "GitHub Labs & Resources/rss-builder.html",
+    "GitHub Labs & Resources/rita-(real-intelligence-threat-analytics).html",
+    "GitHub Labs & Resources/htb-sherlocks-investigation-lab.html",
+    "GitHub Labs & Resources/github-repos.html",
+    "lib/media/zm.png",
+    "lib/media/xmas.png",
+    "lib/media/wazuh-dcsync1.png",
+    "lib/media/wazuh-dcsync.png",
+    "lib/media/vm-bridge.png",
+    "lib/media/version.png",
+    "lib/media/udp.png",
+    "lib/media/tier-support.png",
+    "lib/media/secator.png",
+    "lib/media/sde.png",
+    "pentesting/GitHub repos.md",
+    "github-labs/HTB- Sherlocks- Investigation Lab.md",
+    "github-labs/Black Hill Information Security.md",
+    "digital-forensics/Malware Threat Feeds.md",
+    "digital-forensics/Digital Forensics Labs.md",
+    "digital-forensics/Digital Forensics Lab.md",
+    "detection-engineering/YARA & Sigma.md",
+    "detection-engineering/Sigma & Sigma Rules.md",
+    "detection-engineering/Semantic Searching.md",
+    "detection-engineering/Detection Tools.md",
+    "detection-engineering/Anomaly Detection Algorithms.md",
+    "cyber-security/ZScaler - Seven Elements of Highly Successful Zero Trust Architecture (WIP).md",
+    "cyber-security/Wireless Network Security Lab.md",
+    "cyber-security/Windows Registry.md",
+    "cyber-security/Web Application Security.md",
+    "cyber-security/Vulnerable AD Lab.md",
+    "cyber-security/VPN Lab.md",
+    "cyber-security/URI vs. URL.md",
+    "cyber-security/Tips & Tricks.md",
+    "cyber-security/Threat Investigations.md",
+    "cyber-security/The Hive Project.md",
+    "cyber-security/Table of Industry Security Tools.md",
+    "cyber-security/Security Awareness Training.md",
+    "cyber-security/Secretcon Active Directory server build (WIP).md",
+    "cyber-security/RSS Builder.md",
+    "canvas-pages/Zscaler Zero-trust.canvas",
+    "canvas-pages/Web API.canvas",
+    "canvas-pages/Pyramid of Pain.canvas",
+    "canvas-pages/NIST CSF 2.0.canvas",
+    "canvas-pages/HTB CDSA.canvas",
+    "canvas-pages/Cyber security diagrams.canvas",
+    "assets/logos.canvas",
+    "docs/canvas-pages/Cyber security diagrams.canvas"
+  ]
+}
