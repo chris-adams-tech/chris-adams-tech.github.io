@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chris' Cyber Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://chris-adams-tech.github.io/</link><image><url>https://chris-adams-tech.github.io/lib/media/favicon.jpg</url><title>Chris' Cyber Garden</title><link>https://chris-adams-tech.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 23 Oct 2024 16:39:05 GMT</lastBuildDate><atom:link href="https://chris-adams-tech.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 23 Oct 2024 16:37:45 GMT</pubDate><copyright><![CDATA[Chris Adams]]></copyright><ttl>60</ttl><dc:creator>Chris Adams</dc:creator><item><title><![CDATA[About Me]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chris' Cyber Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://chris-adams-tech.github.io/</link><image><url>https://chris-adams-tech.github.io/lib/media/favicon.jpg</url><title>Chris' Cyber Garden</title><link>https://chris-adams-tech.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 23 Oct 2024 17:03:34 GMT</lastBuildDate><atom:link href="https://chris-adams-tech.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 23 Oct 2024 17:02:13 GMT</pubDate><copyright><![CDATA[Chris Adams]]></copyright><ttl>60</ttl><dc:creator>Chris Adams</dc:creator><item><title><![CDATA[About Me]]></title><description><![CDATA[ 
  <br>Hey there 👾 my name is Chris Adams welcome to my website. After many trials and tribulations, I have successfully implemented the workflow to get this site up and running! <br>Prior to this I was using Notion and really enjoyed it but I wanted to have some more control over this, so after much research of others projects and various ways I could implement, it's finally complete! Or at least the base build is...<br>Obsidian...GitHub...Jekyll...<br>The whole reason why I created this page was so I could host the Canvas pages via HTML on a website. Be sure to check them out as I believe them to be a great visual learning tool! Here is a link to the HackTheBox Canvas page I created <a data-tooltip-position="top" aria-label="HTB CDSA.canvas" data-href="HTB CDSA.canvas" href="https://chris-adams-tech.github.io/canvas-pages/htb-cdsa.html" class="internal-link" target="_self" rel="noopener nofollow">HTB CDSA</a>. If it seems a bit confusing to navigate, I've begun creating a navigation page here <a data-href="Navigating the Canvas pages" href="https://chris-adams-tech.github.io/canvas-pages/navigating-the-canvas-pages.html" class="internal-link" target="_self" rel="noopener nofollow">Navigating the Canvas pages</a>. <br>Here is some more information on the Obsidian Canvas Pages:<br>
 <a data-href="What are Obsidian Canvas Pages?" href="https://chris-adams-tech.github.io/What are Obsidian Canvas Pages" class="internal-link" target="_self" rel="noopener nofollow">What are Obsidian Canvas Pages?</a><br><br>This website is a repository of my notes some from school back when earning my associates in Cyber Defense, cyber projects, deep dives, and course from certifications. As you may notice, some of the pages are incomplete and I often will start a page, then revisit. This is just a part of my process, as I am continuously integrating, improving, and reindexing the data held within the site.<br><br>Now a bit about myself, I'm relatively new to the cyber security industry, I have worked just over a year as a Triage Security Engineer at a Managed Security Services Provider in a Security Operations Center. Since getting into the industry my passion has grown tremendously. I didn't realize that my passion would just continue to grow! It's like that never ending puzzle that continuously keeps my brain challenged, I never have to be bored or think...hmmm.....what should I learn? It seems that Active Directory related tasks continue to come to me...in 2023 my college team and I placed 2nd in a cyber competition defending against a red team and you guessed it, I was the Active Directory guy! Once I got into triage, I noticed how many incidents are related to Initial Access, which led me to studying more concepts on Active Directory, as that is one of the most utilized services used today.<br><br>It's hard to say, I do a lot of things. My last semi-profession was a fire performer in Thailand. Which juggling is still a huge part of my life. Here is some content from my past lives...<br><br><img alt="fire_edit.jpg" src="https://chris-adams-tech.github.io/about/img/fire_edit.jpg"><br>
 I did some image editing to blur out the faces<br><br><br>I also like challenging climbs, well anything challenging excites me, probably why I'm in tech.<br>This was me in Italy not too long ago, casually climbing mountain peaks in Tevas ⛰️<br>
@@ -2255,7 +2255,82 @@ GitHub: <a rel="noopener nofollow" class="external-link" href="https://github.co
             
         
 ]]></description><link>https://chris-adams-tech.github.io/detection-engineering/anomaly-detection-algorithms.html</link><guid isPermaLink="false">detection-engineering/Anomaly Detection Algorithms.md</guid><dc:creator><![CDATA[Chris Adams]]></dc:creator><pubDate>Wed, 23 Oct 2024 08:08:23 GMT</pubDate></item><item><title><![CDATA[Articles on Detection Engineering]]></title><description><![CDATA[ 
- <br><br><a rel="noopener nofollow" class="external-link" href="https://ipurple.team/2024/10/10/measuring-detection-coverage/" target="_blank">https://ipurple.team/2024/10/10/measuring-detection-coverage/</a>]]></description><link>https://chris-adams-tech.github.io/detection-engineering/articles-on-detection-engineering.html</link><guid isPermaLink="false">detection-engineering/Articles on Detection Engineering.md</guid><dc:creator><![CDATA[Chris Adams]]></dc:creator><pubDate>Wed, 23 Oct 2024 08:08:04 GMT</pubDate></item><item><title><![CDATA[Snort]]></title><description><![CDATA[ 
+ <br><br><a rel="noopener nofollow" class="external-link" href="https://ipurple.team/2024/10/10/measuring-detection-coverage/" target="_blank">https://ipurple.team/2024/10/10/measuring-detection-coverage/</a>]]></description><link>https://chris-adams-tech.github.io/detection-engineering/articles-on-detection-engineering.html</link><guid isPermaLink="false">detection-engineering/Articles on Detection Engineering.md</guid><dc:creator><![CDATA[Chris Adams]]></dc:creator><pubDate>Wed, 23 Oct 2024 08:08:04 GMT</pubDate></item><item><title><![CDATA[Detection Rules]]></title><description><![CDATA[ 
+ <br><br><br><a rel="noopener nofollow" class="external-link" href="https://github.com/elastic/detection-rules" target="_blank">https://github.com/elastic/detection-rules</a><br>These rules can be used for development, maintenance, testing, validation, and release of rules for Elastic Security's Detection Engine.<br>Install instructions are located in the GitHub repo.<br><br>This is the main Sigma rule repo. Sigma rules are a generic and open signature format for detection rules. It aims to create uniformity across detection rules, in order to best integrate with flexibility. Sigma uses the .yml format.<br>Here's an example from their website:<br># ./rules/cloud/okta/okta_user_account_locked_out.yml
+title: Okta User Account Locked Out
+id: 14701da0-4b0f-4ee6-9c95-2ffb4e73bb9a
+status: test
+description: Detects when a user account is locked out.
+references:
+    - https://developer.okta.com/docs/reference/api/system-log/
+    - https://developer.okta.com/docs/reference/api/event-types/
+author: Austin Songer @austinsonger
+date: 2021-09-12
+modified: 2022-10-09
+tags:
+    - attack.impact
+logsource:
+    product: okta
+    service: okta
+detection:
+    selection:
+        displaymessage: Max sign in attempts exceeded
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium
+Copy<br>
+<br>detection: specifies what the rule is looking for
+<br>selection: groups to organize detections for readibility &amp; filtering
+
+<br>contains the definition for the detection
+
+
+<br><br>The list format represents an "OR" operation. This means when you are using a - to list different field_name, such as below, it will search for this field OR that field.<br>detection:
+  selection:
+    field_name:
+      - this # or
+      - that
+  condition: selection
+Copy<br>In order to execute an "AND" operation, the syntax looks like below:<br>detection:
+  selection:
+    field_name: this # and
+    other_field_name: that
+  condition: selection
+Copy<br><br>Here's an example using keywords separated by a logical "OR" statement<br>logsource:
+    product: linux
+detection:
+    keywords:
+        - 'rm *bash_history'
+        - 'echo "" &gt; *bash_history'
+        - 'truncate -s0 *bash_history'
+        - 'history -c'
+        - 'history -w'
+    condition: keywords
+falsepositives:
+    - Unknown
+Copy<br>This search is searching for ANY one of the keywords in the logs. Note that it only has to be one of them to generate an a log to the SIEM.<br>Creating Sigma Queries
+The GitHub repo below is a CLI tool that can help to automatically create splunk searches out Sigma rule creation. <a rel="noopener nofollow" class="external-link" href="https://github.com/SigmaHQ/sigma-cli" target="_blank">https://github.com/SigmaHQ/sigma-cli</a>
+<br><br>detection:
+  selection:
+    Username: "Administrator"
+  condition: selection
+Copy<br>Source: Sigma Documentation - <a rel="noopener nofollow" class="external-link" href="https://sigmahq.io/docs/basics/rules.html#detection" target="_blank">https://sigmahq.io/docs/basics/rules.html#detection</a><br><br>Website: <a rel="noopener nofollow" class="external-link" href="https://www.snort.org/" target="_blank">https://www.snort.org/</a><br>
+GitHub Repo: <a rel="noopener nofollow" class="external-link" href="https://github.com/secnnet/Snort-Rules" target="_blank">https://github.com/secnnet/Snort-Rules</a><br>"Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users.<br>Snort can be deployed inline to stop these packets, as well. Snort has three primary uses: As a packet sniffer like tcpdump, as a packet logger — which is useful for network traffic debugging, or it can be used as a full-blown network intrusion prevention system. Snort can be downloaded and configured for personal and business use alike." -- From Snort Website <a rel="noopener nofollow" class="external-link" href="https://www.snort.org/" target="_blank">https://www.snort.org/</a><br><br>GitHub Repo: <a rel="noopener nofollow" class="external-link" href="https://github.com/secnnet/Microsoft-365-Defender-Hunting-Queries" target="_blank">https://github.com/secnnet/Microsoft-365-Defender-Hunting-Queries</a><br>Writeup Created By Info<br><br>
+Chris Adams<br>
+Gmail: <a data-tooltip-position="top" aria-label="mailto:c.adams612@gmail.com" rel="noopener nofollow" class="external-link" href="https://chris-adams-tech.github.io/mailto:c.adams612@gmail.com" target="_blank">c.adams612@gmail.com</a><br>
+Proton: <a data-tooltip-position="top" aria-label="mailto:chris.cybertech@proton.me" rel="noopener nofollow" class="external-link" href="https://chris-adams-tech.github.io/mailto:chris.cybertech@proton.me" target="_blank">chris.cybertech@proton.me</a><br>
+LinkedIn: <a rel="noopener nofollow" class="external-link" href="https://www.linkedin.com/in/christoph-adams/" target="_blank">https://www.linkedin.com/in/christoph-adams/</a><br>
+GitHub: <a rel="noopener nofollow" class="external-link" href="https://github.com/chris-adams-tech/" target="_blank">https://github.com/chris-adams-tech/</a>
+<br> 
+        © 2024 Chris Adams. All rights reserved.
+        
+            
+                <br><a href="https://chris-adams-tech.github.io/terms-and-conditions.html" target="_blank" rel="noopener nofollow">Terms of Service</a>
+                <br><a href="https://chris-adams-tech.github.io/about/writeup-created-by-info.html" target="_blank" rel="noopener nofollow">Contact</a>
+            
+        
+]]></description><link>https://chris-adams-tech.github.io/detection-engineering/detection-github-repositories.html</link><guid isPermaLink="false">detection-engineering/Detection GitHub Repositories.md</guid><dc:creator><![CDATA[Chris Adams]]></dc:creator><pubDate>Wed, 23 Oct 2024 17:01:34 GMT</pubDate></item><item><title><![CDATA[Snort]]></title><description><![CDATA[ 
  <br><br>About
 Snort - Network Intrusion Detection &amp; Prevention System<br>
 Snort is an open-source, free and lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats.<br>
