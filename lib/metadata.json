@@ -1,29 +1,18 @@
 {
-  "vaultName": "Chris Adams Cyber Garden",
-  "lastExport": 1729658711433,
+  "vaultName": "Chris' Cyber Garden",
+  "lastExport": 1729695346039,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-light-sapphire ctp-accent-peach anuppuccin-accent-toggle anp-current-line-border anp-callout-sleek anp-custom-checkboxes anp-speech-bubble anp-codeblock-numbers anp-table-toggle anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-canvas-dark-bg",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon callout-on kanban-full kanban-same-height-cards kanban-full-height-column",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
-    "about/img/app-logos.png",
-    "about/img/canvas-demo-2024-10-06_22.16.mp4",
-    "about/img/dark-mode.png",
-    "about/img/dir-nav.png",
-    "about/img/light.png",
-    "about/img/light-mode.png",
-    "about/img/night.png",
-    "about/img/toc.png",
-    "about/About Me.md",
-    "about/Build for my website.md",
-    "about/How to use this website.md",
-    "about/Writeup Created By Info.md",
     "artificial-intelligence/AI Systems.md",
     "artificial-intelligence/Hugging Chat.md",
     "blockchain/Avalanche (AVA) Training Academy.md",
     "blockchain/Blockchain Page Links.md",
     "blockchain/Blockchain Subnetting.md",
     "blockchain/LoRaWAN.md",
+    "canvas-pages/AZ-500 - Secure Networking.canvas",
     "canvas-pages/Cyber security diagrams.canvas",
     "canvas-pages/HTB CDSA.canvas",
     "canvas-pages/Navigating the Canvas pages.md",
@@ -33,34 +22,35 @@
     "cloud-automation-virtualization/Automation/Agile Framework.md",
     "cloud-automation-virtualization/Automation/Selenium.md",
     "cloud-automation-virtualization/Automation/TerraForm.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Comprehend.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Inspector.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Kendra.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Polly.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Rekognition.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon S3.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon SageMaker.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Transcribe.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Cloud Practitioner.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Firewall Manager.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Network Firewall.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Penetration Testing.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS CodePipeline.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS Encryption with KMS & CloudHSM.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS Route 53.canvas",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS Shield.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Becoming a Cloud Practitioner - Part 1.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Certificate Manager (ACM).md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Cloud Integrations.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/CloudWatch.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Course Content Info.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Databases & Analytics.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Databases & Analytics 1.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md",
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Global Infrastructure.md",
     "cloud-automation-virtualization/AWS/aws_img/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf",
     "cloud-automation-virtualization/AWS/aws_img/aws-training.png",
-    "cloud-automation-virtualization/AWS/Amazon Comprehend.md",
-    "cloud-automation-virtualization/AWS/Amazon Inspector.md",
-    "cloud-automation-virtualization/AWS/Amazon Kendra.md",
-    "cloud-automation-virtualization/AWS/Amazon Polly.md",
-    "cloud-automation-virtualization/AWS/Amazon Rekognition.md",
-    "cloud-automation-virtualization/AWS/Amazon S3.md",
-    "cloud-automation-virtualization/AWS/Amazon SageMaker.md",
-    "cloud-automation-virtualization/AWS/Amazon Transcribe.md",
-    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner.md",
-    "cloud-automation-virtualization/AWS/AWS - Firewall Manager.md",
-    "cloud-automation-virtualization/AWS/AWS - Network Firewall.md",
-    "cloud-automation-virtualization/AWS/AWS - Penetration Testing.md",
-    "cloud-automation-virtualization/AWS/AWS CodePipeline.md",
-    "cloud-automation-virtualization/AWS/AWS Encryption with KMS & CloudHSM.md",
-    "cloud-automation-virtualization/AWS/AWS Route 53.canvas",
-    "cloud-automation-virtualization/AWS/AWS Shield.md",
-    "cloud-automation-virtualization/AWS/Becoming a Cloud Practitioner - Part 1.md",
-    "cloud-automation-virtualization/AWS/Certificate Manager (ACM).md",
-    "cloud-automation-virtualization/AWS/Cloud Integrations.md",
-    "cloud-automation-virtualization/AWS/CloudWatch.md",
-    "cloud-automation-virtualization/AWS/Databases & Analytics.md",
-    "cloud-automation-virtualization/AWS/Databases & Analytics 1.md",
-    "cloud-automation-virtualization/AWS/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md",
     "cloud-automation-virtualization/AWS/Fundamentals of Analytics on AWS - Part 1.md",
     "cloud-automation-virtualization/AWS/Getting Started with DevOps on AWS.md",
-    "cloud-automation-virtualization/AWS/Global Infrastructure.md",
     "cloud-automation-virtualization/Azure Cloud/Create an app in an ASE.md",
     "cloud-automation-virtualization/Azure Cloud/Learning the Sandbox.md",
     "cloud-automation-virtualization/Azure Cloud/Plan and implement network security configurations for an Azure SQL Managed Instance.md",
@@ -113,7 +103,6 @@
     "grc/NIST Cybersecurity Framework (CSF 2.0).md",
     "in-progress-certs/Certificates.md",
     "in-progress-certs/HTB - Cyber Defense Analyst.md",
-    "kanban/Website Updates.md",
     "linux/img/clamtk.png",
     "linux/img/clamtk1.png",
     "linux/img/clamtk2.png",
@@ -146,119 +135,17 @@
     "log-analysis/Encrypted traffic - A double-edged sword for network defenders.md",
     "log-analysis/Packet Capture.md",
     "log-analysis/Resources.md",
-    "media/4625.png",
-    "media/add-bridge.png",
-    "media/adin.png",
-    "media/Agile development.png",
-    "media/agile-canvas.png",
-    "media/asg.png",
-    "media/aws-structures.png",
-    "media/aws-training.png",
-    "media/awsgoat.png",
-    "media/badacl.png",
-    "media/bhis-github.png",
-    "media/cmd-detection.png",
-    "media/create-vm.png",
-    "media/create-vm 1.png",
-    "media/current-dir.png",
-    "media/deep_fake_detect_gh.png",
-    "media/demo-pipeline.png",
-    "media/diagnostic-setting.png",
-    "media/dl-mirror.png",
-    "media/dl-sysmon.png",
-    "media/dll-hijack.png",
-    "media/down-ze-rabbithole1.png",
-    "media/error.png",
-    "media/event-logs.png",
-    "media/event-viewer-access.png",
-    "media/evolving-security.png",
-    "media/express-route.png",
-    "media/express-route-circuit.png",
-    "media/filter-log.png",
-    "media/full.png",
-    "media/geography.png",
-    "media/ghibli-coffee.png",
-    "media/git-sysmon.png",
-    "media/github-mark-white.png",
-    "media/golden-ticket.png",
-    "media/gpm.png",
-    "media/gpo.png",
-    "media/gpo-dropdown.png",
-    "media/graph-dash.png",
-    "media/halberd.png",
-    "media/hash-tag.png",
-    "media/htb-xml-queries.png",
-    "media/ikev2.png",
-    "media/ikev2-s2s.png",
-    "media/impac-ana.png",
-    "media/install-local.png",
-    "media/int-graph1.png",
-    "media/ipconfig.png",
-    "media/ipv4.png",
-    "media/jekyll-logo-black-red-transparent.png",
-    "media/katanarabbit.jpg",
-    "media/kibana.png",
-    "media/Links, links, links.md",
-    "media/log-enable.png",
-    "media/logos.canvas",
-    "media/loic.png",
-    "media/mgmt-groups.png",
-    "media/module-logging.png",
-    "media/module-names.png",
-    "media/ms-certs.png",
-    "media/netcat-ft.png",
-    "media/new-vm.png",
-    "media/nmap.png",
-    "media/obsidian-icon.png",
-    "media/operational.png",
-    "media/os.png",
-    "media/paas.png",
-    "media/psyamb.png",
-    "media/risky-users.png",
-    "media/risky-users-dash.png",
-    "media/rpcinfo.png",
-    "media/safeline.png",
-    "media/script-block.png",
-    "media/sd.png",
-    "media/sde.png",
-    "media/search-bar.png",
-    "media/secator.png",
-    "media/Secretcon.md",
-    "media/semantic_search.png",
-    "media/seven-beats.png",
-    "media/simple-logo.png",
-    "media/spec-picker.png",
-    "media/sysmon-config.png",
-    "media/sysmon-xml.png",
-    "media/Test Page.md",
-    "media/test-page.png",
-    "media/tier-support.png",
-    "media/udp.png",
-    "media/verify.png",
-    "media/verify-key.png",
-    "media/version.png",
-    "media/virbr-output.png",
-    "media/virsh-net.png",
-    "media/virt-manager.png",
-    "media/vm-bridge.png",
-    "media/vm-http.png",
-    "media/vpn-gateway.png",
-    "media/vulnad.png",
-    "media/windows-logs.png",
-    "media/xmas.png",
-    "media/zeek.png",
-    "media/zm.png",
-    "microsoft/Active Directory/Active Directory - Attacks.md",
+    "microsoft/Active Directory/AZ-Series/AZ-500.md",
+    "microsoft/Active Directory/AZ-Series/AZ-500 - Secure Networking.canvas",
+    "microsoft/Active Directory/AZ-Series/AZ-500 Identity and Access Management.md",
+    "microsoft/Active Directory/AZ-Series/AZ-500 Plan and implement security.md",
+    "microsoft/Active Directory/AZ-Series/AZ-500 Secure Networking.md",
+    "microsoft/Active Directory/AZ-Series/Describe Azure management infrastructure.md",
+    "microsoft/Active Directory/AZ-Series/Describe Azure physical infrastructure.md",
+    "microsoft/Active Directory/AZ-Series/Microsoft Azure AZ-900.md",
+    "microsoft/Active Directory/AZ-Series/Microsoft Enterprise Access Model.md",
     "microsoft/Active Directory/ID Tokens vs. Access Tokens.md",
-    "microsoft/AZ-Series/AZ-500.md",
-    "microsoft/AZ-Series/AZ-500 - Secure Networking.canvas",
-    "microsoft/AZ-Series/AZ-500 Identity and Access Management.md",
-    "microsoft/AZ-Series/AZ-500 Plan and implement security.md",
-    "microsoft/AZ-Series/AZ-500 Secure Networking.md",
-    "microsoft/AZ-Series/Describe Azure management infrastructure.md",
-    "microsoft/AZ-Series/Describe Azure physical infrastructure.md",
-    "microsoft/AZ-Series/Microsoft Azure AZ-900.md",
-    "microsoft/AZ-Series/Microsoft Enterprise Access Model.md",
+    "microsoft/Active Directory/Microsoft Training.md",
     "microsoft/img/az-500.png",
     "microsoft/img/az-900.png",
     "microsoft/img/azure.png",
@@ -398,6 +285,7 @@
     "projects/img/vulnusers.png",
     "projects/img/vulnusers 2.png",
     "projects/img/wazuh-test.mp4",
+    "projects/Active Directory - Attacks.md",
     "projects/Packet Tracer Labs.md",
     "projects/Secretcon Active Directory server build (WIP).md",
     "resources/DEFCON.md",
@@ -408,56 +296,22 @@
     "resources/The Hive Project.md",
     "resources/Tips & Tricks.md",
     "resources/YouTube Channels.md",
-    "wip/Browsermon.md",
-    "wip/Checking File Hashes.md",
-    "wip/Elastic Detection Rules.md",
-    "wip/LLM Inspect.md",
-    "wip/Masquerading Attempts as Native Windows Binaries.md",
-    "wip/Microsoft Training.md",
-    "wip/Reverse Engineering Tools.md",
-    "wip/What are IMPHASHES and How can you calculate them.md",
     "Chris Adams Cyber Garden.md",
+    "Create a template in Obsidian.md",
     "CSS Variables Obsidian.md",
     "Music.md",
     "Obsidian New Integrations.md",
     "SelfCreated.md",
     "Tech Tasks.md",
     "Terms and Conditions.md",
-    "lib/media/int-graph1.png",
-    "lib/media/test-page.png",
-    "lib/media/search-bar.png",
-    "lib/media/hash-tag.png",
-    "lib/media/canvas-demo-2024-10-06_22.16.mp4",
     "lib/media/agile-canvas.png",
     "lib/media/aws-training.png",
+    "lib/media/aws-certified-cloud-practitioner_exam-guide.pdf",
     "lib/media/demo-pipeline.png",
-    "lib/media/aws-structures.png",
-    "lib/media/entra-id40.png",
-    "lib/media/dl-mirror.png",
-    "lib/media/verify.png",
-    "lib/media/verify-key.png",
-    "lib/media/current-dir.png",
-    "lib/media/virsh-net.png",
-    "lib/media/new-vm.png",
-    "lib/media/install-local.png",
-    "lib/media/vm-bridge.png",
     "lib/media/zeek.png",
     "lib/media/kibana.png",
     "lib/media/semantic_search.png",
-    "lib/media/awsgoat.png",
-    "lib/media/bhis-github.png",
-    "lib/media/halberd.png",
-    "lib/media/deep_fake_detect_gh.png",
     "lib/media/ms-certs.png",
-    "lib/media/wazuh-test.mp4",
-    "lib/media/mimikatz.png",
-    "lib/media/wazuh-dcsync1.png",
-    "lib/media/wazuh-dcsync.png",
-    "lib/media/golden-ticket.png",
-    "lib/media/mimikatz-cmd.png",
-    "lib/media/cmd-detection.png",
-    "lib/media/mimikatz-cmd-spawn.png",
-    "lib/media/mimikatz-klist.png",
     "lib/media/az-500.png",
     "lib/media/entra-id.png",
     "lib/media/entra-id1.png",
@@ -497,6 +351,7 @@
     "lib/media/entra-id38.png",
     "lib/media/entra-id37.png",
     "lib/media/entra-id39.png",
+    "lib/media/entra-id40.png",
     "lib/media/entra-id41.png",
     "lib/media/entra-id42.png",
     "lib/media/entra-id43.png",
@@ -515,6 +370,62 @@
     "lib/media/azure9.png",
     "lib/media/azure10.png",
     "lib/media/az-900.png",
+    "lib/media/mimikatz.png",
+    "lib/media/wazuh-dcsync1.png",
+    "lib/media/wazuh-dcsync.png",
+    "lib/media/golden-ticket.png",
+    "lib/media/mimikatz-cmd.png",
+    "lib/media/cmd-detection.png",
+    "lib/media/mimikatz-cmd-spawn.png",
+    "lib/media/mimikatz-klist.png",
+    "about/img/app-logos.png",
+    "media/simple-logo.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.jpg",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css",
+    "lib/media/canvas-demo-2024-10-06_22.16.mp4",
+    "lib/media/aws-structures.png",
+    "lib/media/dl-mirror.png",
+    "lib/media/verify.png",
+    "lib/media/verify-key.png",
+    "lib/media/current-dir.png",
+    "lib/media/virsh-net.png",
+    "lib/media/new-vm.png",
+    "lib/media/install-local.png",
+    "lib/media/vm-bridge.png",
+    "lib/media/awsgoat.png",
+    "lib/media/bhis-github.png",
+    "lib/media/halberd.png",
+    "lib/media/deep_fake_detect_gh.png",
     "lib/media/entra-id-dashboard.png",
     "lib/media/sde.png",
     "lib/media/adin.png",
@@ -552,37 +463,9 @@
     "lib/media/gpo-dropdown.png",
     "lib/media/gpm.png",
     "lib/media/vulnad.png",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "media/seven-beats.png",
+    "media/ghibli-coffee.png",
+    "media/psyamb.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -608,162 +491,163 @@
     "lib/scripts/tinycolor.js",
     "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
+    "lib/media/favicon.jpg",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
     "about/img/app-logos.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 23525,
       "exportedPath": "about/img/app-logos.png",
       "dependencies": []
     },
     "media/simple-logo.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 444951,
       "exportedPath": "media/simple-logo.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 174476,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 131070,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
@@ -775,130 +659,50 @@
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 17881,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 18043,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 74196,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 77419,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "about/img/canvas-demo-2024-10-06_22.16.mp4": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 17715439,
-      "exportedPath": "about/img/canvas-demo-2024-10-06_22.16.mp4",
-      "dependencies": []
-    },
-    "about/img/dark-mode.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 108550,
-      "exportedPath": "about/img/dark-mode.png",
-      "dependencies": []
-    },
-    "about/img/dir-nav.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5921,
-      "exportedPath": "about/img/dir-nav.png",
-      "dependencies": []
-    },
-    "about/img/light.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1042,
-      "exportedPath": "about/img/light.png",
-      "dependencies": []
-    },
-    "about/img/light-mode.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 111281,
-      "exportedPath": "about/img/light-mode.png",
-      "dependencies": []
-    },
-    "about/img/night.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 853,
-      "exportedPath": "about/img/night.png",
-      "dependencies": []
-    },
-    "about/img/toc.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1008,
-      "exportedPath": "about/img/toc.png",
-      "dependencies": []
-    },
-    "about/About Me.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 3209,
-      "exportedPath": "about/about-me.html",
-      "dependencies": []
-    },
-    "about/Build for my website.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5537,
-      "exportedPath": "about/build-for-my-website.html",
-      "dependencies": [
-        "about/img/app-logos.png"
-      ]
-    },
-    "about/How to use this website.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 4882,
-      "exportedPath": "about/how-to-use-this-website.html",
-      "dependencies": [
-        "about/img/toc.png",
-        "about/img/dir-nav.png",
-        "about/img/night.png",
-        "about/img/light.png",
-        "about/img/dark-mode.png",
-        "about/img/light-mode.png",
-        "lib/media/int-graph1.png",
-        "lib/media/int-graph1.png",
-        "lib/media/test-page.png",
-        "lib/media/search-bar.png",
-        "lib/media/hash-tag.png"
-      ]
-    },
-    "about/Writeup Created By Info.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 257,
-      "exportedPath": "about/writeup-created-by-info.html",
-      "dependencies": []
-    },
     "artificial-intelligence/AI Systems.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1588,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1626,
       "exportedPath": "artificial-intelligence/ai-systems.html",
       "dependencies": []
     },
     "artificial-intelligence/Hugging Chat.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1362,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1398,
       "exportedPath": "artificial-intelligence/hugging-chat.html",
       "dependencies": []
     },
     "blockchain/Avalanche (AVA) Training Academy.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 3845,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 3868,
       "exportedPath": "blockchain/avalanche-(ava)-training-academy.html",
       "dependencies": []
     },
@@ -921,14 +725,14 @@
       "dependencies": []
     },
     "canvas-pages/Cyber security diagrams.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 22770,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 19215,
       "exportedPath": "canvas-pages/cyber-security-diagrams.html",
       "dependencies": []
     },
     "canvas-pages/HTB CDSA.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 31326,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 26714,
       "exportedPath": "canvas-pages/htb-cdsa.html",
       "dependencies": []
     },
@@ -941,82 +745,41 @@
       ]
     },
     "canvas-pages/NIST CSF 2.0.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2014,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1647,
       "exportedPath": "canvas-pages/nist-csf-2.0.html",
       "dependencies": []
     },
     "canvas-pages/Pyramid of Pain.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 4689,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 3835,
       "exportedPath": "canvas-pages/pyramid-of-pain.html",
       "dependencies": []
     },
     "canvas-pages/Web API.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 9022,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 7372,
       "exportedPath": "canvas-pages/web-api.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/Agile Framework.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 727,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 808,
       "exportedPath": "cloud-automation-virtualization/automation/agile-framework.html",
       "dependencies": [
         "lib/media/agile-canvas.png"
       ]
     },
     "cloud-automation-virtualization/Automation/Selenium.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1505,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1557,
       "exportedPath": "cloud-automation-virtualization/automation/selenium.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/Automation/TerraForm.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2755,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2841,
       "exportedPath": "cloud-automation-virtualization/automation/terraform.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Amazon S3.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5229,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-s3.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1931,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner.html",
-      "dependencies": [
-        "lib/media/aws-training.png",
-        "cloud-automation-virtualization/aws/aws_img/aws-certified-cloud-practitioner_exam-guide.pdf"
-      ]
-    },
-    "cloud-automation-virtualization/AWS/AWS CodePipeline.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1267,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-codepipeline.html",
-      "dependencies": [
-        "lib/media/demo-pipeline.png"
-      ]
-    },
-    "cloud-automation-virtualization/AWS/Becoming a Cloud Practitioner - Part 1.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 599,
-      "exportedPath": "cloud-automation-virtualization/aws/becoming-a-cloud-practitioner-part-1.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Databases & Analytics.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1029,
-      "exportedPath": "cloud-automation-virtualization/aws/databases-&-analytics.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 3400,
-      "exportedPath": "cloud-automation-virtualization/aws/elb-&-asg-elastic-load-balancing-&-auto-scaling-groups.html",
       "dependencies": []
     },
     "cloud-automation-virtualization/AWS/Fundamentals of Analytics on AWS - Part 1.md": {
@@ -1106,20 +869,20 @@
       "dependencies": []
     },
     "detection-engineering/Anomaly Detection Algorithms.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5444,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 5502,
       "exportedPath": "detection-engineering/anomaly-detection-algorithms.html",
       "dependencies": []
     },
     "detection-engineering/Articles on Detection Engineering.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 109,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 112,
       "exportedPath": "detection-engineering/articles-on-detection-engineering.html",
       "dependencies": []
     },
     "detection-engineering/Detection Tools.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 15135,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 15170,
       "exportedPath": "detection-engineering/detection-tools.html",
       "dependencies": [
         "lib/media/zeek.png",
@@ -1133,28 +896,28 @@
       "dependencies": []
     },
     "detection-engineering/Semantic Searching.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1523,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1553,
       "exportedPath": "detection-engineering/semantic-searching.html",
       "dependencies": [
         "lib/media/semantic_search.png"
       ]
     },
     "detection-engineering/Sigma & Sigma Rules.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1012,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1041,
       "exportedPath": "detection-engineering/sigma-&-sigma-rules.html",
       "dependencies": []
     },
     "detection-engineering/YARA - Technical Documentation.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 6391,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 6421,
       "exportedPath": "detection-engineering/yara-technical-documentation.html",
       "dependencies": []
     },
     "detection-engineering/YARA & Sigma.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2370,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2400,
       "exportedPath": "detection-engineering/yara-&-sigma.html",
       "dependencies": []
     },
@@ -1165,8 +928,8 @@
       "dependencies": []
     },
     "digital-forensics/Malware Analysis.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1288,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1505,
       "exportedPath": "digital-forensics/malware-analysis.html",
       "dependencies": []
     },
@@ -1347,26 +1110,26 @@
       "dependencies": []
     },
     "grc/CISA NSA Best Practices for Securing Cloud service.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2709,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2740,
       "exportedPath": "grc/cisa-nsa-best-practices-for-securing-cloud-service.html",
       "dependencies": []
     },
     "grc/Common Cyber Security Frameworks.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2762,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2789,
       "exportedPath": "grc/common-cyber-security-frameworks.html",
       "dependencies": []
     },
     "grc/NIST Cybersecurity Framework (CSF 2.0).md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2962,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2993,
       "exportedPath": "grc/nist-cybersecurity-framework-(csf-2.0).html",
       "dependencies": []
     },
     "in-progress-certs/Certificates.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 6197,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 6225,
       "exportedPath": "in-progress-certs/certificates.html",
       "dependencies": [
         "lib/media/ms-certs.png",
@@ -1446,14 +1209,14 @@
       "dependencies": []
     },
     "linux/Adding admin privileges to users.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 340,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 457,
       "exportedPath": "linux/adding-admin-privileges-to-users.html",
       "dependencies": []
     },
     "linux/Automatically CIS Benchmark workstations with Ubuntu Pro.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 31,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 712,
       "exportedPath": "linux/automatically-cis-benchmark-workstations-with-ubuntu-pro.html",
       "dependencies": []
     },
@@ -1579,723 +1342,10 @@
       "exportedPath": "log-analysis/resources.html",
       "dependencies": []
     },
-    "media/4625.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 28663,
-      "exportedPath": "media/4625.png",
-      "dependencies": []
-    },
-    "media/add-bridge.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 56263,
-      "exportedPath": "media/add-bridge.png",
-      "dependencies": []
-    },
-    "media/adin.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 109715,
-      "exportedPath": "media/adin.png",
-      "dependencies": []
-    },
-    "media/Agile development.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 100144,
-      "exportedPath": "media/agile-development.png",
-      "dependencies": []
-    },
-    "media/agile-canvas.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 100144,
-      "exportedPath": "media/agile-canvas.png",
-      "dependencies": []
-    },
-    "media/asg.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 25247,
-      "exportedPath": "media/asg.png",
-      "dependencies": []
-    },
-    "media/aws-structures.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 174753,
-      "exportedPath": "media/aws-structures.png",
-      "dependencies": []
-    },
-    "media/aws-training.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 109566,
-      "exportedPath": "media/aws-training.png",
-      "dependencies": []
-    },
-    "media/awsgoat.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 146939,
-      "exportedPath": "media/awsgoat.png",
-      "dependencies": []
-    },
-    "media/badacl.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 367443,
-      "exportedPath": "media/badacl.png",
-      "dependencies": []
-    },
-    "media/bhis-github.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 106118,
-      "exportedPath": "media/bhis-github.png",
-      "dependencies": []
-    },
-    "media/cmd-detection.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5853,
-      "exportedPath": "media/cmd-detection.png",
-      "dependencies": []
-    },
-    "media/create-vm.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 19941,
-      "exportedPath": "media/create-vm.png",
-      "dependencies": []
-    },
-    "media/create-vm 1.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 19941,
-      "exportedPath": "media/create-vm-1.png",
-      "dependencies": []
-    },
-    "media/current-dir.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 42753,
-      "exportedPath": "media/current-dir.png",
-      "dependencies": []
-    },
-    "media/deep_fake_detect_gh.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 92378,
-      "exportedPath": "media/deep_fake_detect_gh.png",
-      "dependencies": []
-    },
-    "media/demo-pipeline.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 48688,
-      "exportedPath": "media/demo-pipeline.png",
-      "dependencies": []
-    },
-    "media/diagnostic-setting.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 82220,
-      "exportedPath": "media/diagnostic-setting.png",
-      "dependencies": []
-    },
-    "media/dl-mirror.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 30327,
-      "exportedPath": "media/dl-mirror.png",
-      "dependencies": []
-    },
-    "media/dl-sysmon.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 76021,
-      "exportedPath": "media/dl-sysmon.png",
-      "dependencies": []
-    },
-    "media/dll-hijack.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 42749,
-      "exportedPath": "media/dll-hijack.png",
-      "dependencies": []
-    },
-    "media/down-ze-rabbithole1.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 312415,
-      "exportedPath": "media/down-ze-rabbithole1.png",
-      "dependencies": []
-    },
-    "media/error.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 55871,
-      "exportedPath": "media/error.png",
-      "dependencies": []
-    },
-    "media/event-logs.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 66036,
-      "exportedPath": "media/event-logs.png",
-      "dependencies": []
-    },
-    "media/event-viewer-access.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 85998,
-      "exportedPath": "media/event-viewer-access.png",
-      "dependencies": []
-    },
-    "media/evolving-security.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 213293,
-      "exportedPath": "media/evolving-security.png",
-      "dependencies": []
-    },
-    "media/express-route.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 34108,
-      "exportedPath": "media/express-route.png",
-      "dependencies": []
-    },
-    "media/express-route-circuit.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 96385,
-      "exportedPath": "media/express-route-circuit.png",
-      "dependencies": []
-    },
-    "media/filter-log.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 148800,
-      "exportedPath": "media/filter-log.png",
-      "dependencies": []
-    },
-    "media/full.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 51386,
-      "exportedPath": "media/full.png",
-      "dependencies": []
-    },
-    "media/geography.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 115310,
-      "exportedPath": "media/geography.png",
-      "dependencies": []
-    },
-    "media/git-sysmon.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 259144,
-      "exportedPath": "media/git-sysmon.png",
-      "dependencies": []
-    },
-    "media/github-mark-white.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 4837,
-      "exportedPath": "media/github-mark-white.png",
-      "dependencies": []
-    },
-    "media/golden-ticket.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 49232,
-      "exportedPath": "media/golden-ticket.png",
-      "dependencies": []
-    },
-    "media/gpm.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 124381,
-      "exportedPath": "media/gpm.png",
-      "dependencies": []
-    },
-    "media/gpo.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 152607,
-      "exportedPath": "media/gpo.png",
-      "dependencies": []
-    },
-    "media/gpo-dropdown.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 130184,
-      "exportedPath": "media/gpo-dropdown.png",
-      "dependencies": []
-    },
-    "media/graph-dash.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 103058,
-      "exportedPath": "media/graph-dash.png",
-      "dependencies": []
-    },
-    "media/halberd.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 100141,
-      "exportedPath": "media/halberd.png",
-      "dependencies": []
-    },
-    "media/hash-tag.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 77247,
-      "exportedPath": "media/hash-tag.png",
-      "dependencies": []
-    },
-    "media/htb-xml-queries.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 80108,
-      "exportedPath": "media/htb-xml-queries.png",
-      "dependencies": []
-    },
-    "media/ikev2.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 48079,
-      "exportedPath": "media/ikev2.png",
-      "dependencies": []
-    },
-    "media/ikev2-s2s.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 52017,
-      "exportedPath": "media/ikev2-s2s.png",
-      "dependencies": []
-    },
-    "media/impac-ana.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 193270,
-      "exportedPath": "media/impac-ana.png",
-      "dependencies": []
-    },
-    "media/install-local.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 29139,
-      "exportedPath": "media/install-local.png",
-      "dependencies": []
-    },
-    "media/int-graph1.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 91630,
-      "exportedPath": "media/int-graph1.png",
-      "dependencies": []
-    },
-    "media/ipconfig.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 44637,
-      "exportedPath": "media/ipconfig.png",
-      "dependencies": []
-    },
-    "media/ipv4.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 73965,
-      "exportedPath": "media/ipv4.png",
-      "dependencies": []
-    },
-    "media/jekyll-logo-black-red-transparent.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 23392,
-      "exportedPath": "media/jekyll-logo-black-red-transparent.png",
-      "dependencies": []
-    },
-    "media/katanarabbit.jpg": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 272702,
-      "exportedPath": "media/katanarabbit.jpg",
-      "dependencies": []
-    },
-    "media/kibana.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 30266,
-      "exportedPath": "media/kibana.png",
-      "dependencies": []
-    },
-    "media/Links, links, links.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 987,
-      "exportedPath": "media/links,-links,-links.html",
-      "dependencies": []
-    },
-    "media/log-enable.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 187364,
-      "exportedPath": "media/log-enable.png",
-      "dependencies": []
-    },
-    "media/logos.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 825,
-      "exportedPath": "media/logos.html",
-      "dependencies": [
-        "media/jekyll-logo-black-red-transparent.png",
-        "media/obsidian-icon.png"
-      ]
-    },
-    "media/loic.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 209713,
-      "exportedPath": "media/loic.png",
-      "dependencies": []
-    },
-    "media/mgmt-groups.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 44279,
-      "exportedPath": "media/mgmt-groups.png",
-      "dependencies": []
-    },
-    "media/module-logging.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 129958,
-      "exportedPath": "media/module-logging.png",
-      "dependencies": []
-    },
-    "media/module-names.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 182930,
-      "exportedPath": "media/module-names.png",
-      "dependencies": []
-    },
-    "media/ms-certs.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 94174,
-      "exportedPath": "media/ms-certs.png",
-      "dependencies": []
-    },
-    "media/netcat-ft.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 51358,
-      "exportedPath": "media/netcat-ft.png",
-      "dependencies": []
-    },
-    "media/new-vm.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 51159,
-      "exportedPath": "media/new-vm.png",
-      "dependencies": []
-    },
-    "media/nmap.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 52095,
-      "exportedPath": "media/nmap.png",
-      "dependencies": []
-    },
-    "media/obsidian-icon.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 85392,
-      "exportedPath": "media/obsidian-icon.png",
-      "dependencies": []
-    },
-    "media/operational.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 30642,
-      "exportedPath": "media/operational.png",
-      "dependencies": []
-    },
-    "media/os.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 68872,
-      "exportedPath": "media/os.png",
-      "dependencies": []
-    },
-    "media/paas.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 197389,
-      "exportedPath": "media/paas.png",
-      "dependencies": []
-    },
-    "media/risky-users.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 90507,
-      "exportedPath": "media/risky-users.png",
-      "dependencies": []
-    },
-    "media/risky-users-dash.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 118639,
-      "exportedPath": "media/risky-users-dash.png",
-      "dependencies": []
-    },
-    "media/rpcinfo.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 56762,
-      "exportedPath": "media/rpcinfo.png",
-      "dependencies": []
-    },
-    "media/safeline.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 144837,
-      "exportedPath": "media/safeline.png",
-      "dependencies": []
-    },
-    "media/script-block.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 304626,
-      "exportedPath": "media/script-block.png",
-      "dependencies": []
-    },
-    "media/sd.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 57527,
-      "exportedPath": "media/sd.png",
-      "dependencies": []
-    },
-    "media/sde.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 27112,
-      "exportedPath": "media/sde.png",
-      "dependencies": []
-    },
-    "media/search-bar.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 10451,
-      "exportedPath": "media/search-bar.png",
-      "dependencies": []
-    },
-    "media/secator.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 219736,
-      "exportedPath": "media/secator.png",
-      "dependencies": []
-    },
-    "media/Secretcon.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 8017,
-      "exportedPath": "media/secretcon.html",
-      "dependencies": [
-        "lib/media/wazuh-test.mp4"
-      ]
-    },
-    "media/semantic_search.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 50008,
-      "exportedPath": "media/semantic_search.png",
-      "dependencies": []
-    },
-    "media/spec-picker.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 127322,
-      "exportedPath": "media/spec-picker.png",
-      "dependencies": []
-    },
-    "media/sysmon-config.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 147891,
-      "exportedPath": "media/sysmon-config.png",
-      "dependencies": []
-    },
-    "media/sysmon-xml.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 221529,
-      "exportedPath": "media/sysmon-xml.png",
-      "dependencies": []
-    },
-    "media/Test Page.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 47,
-      "exportedPath": "media/test-page.html",
-      "dependencies": []
-    },
-    "media/test-page.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 39946,
-      "exportedPath": "media/test-page.png",
-      "dependencies": []
-    },
-    "media/tier-support.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 25102,
-      "exportedPath": "media/tier-support.png",
-      "dependencies": []
-    },
-    "media/udp.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 60962,
-      "exportedPath": "media/udp.png",
-      "dependencies": []
-    },
-    "media/verify.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 25509,
-      "exportedPath": "media/verify.png",
-      "dependencies": []
-    },
-    "media/verify-key.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 6081,
-      "exportedPath": "media/verify-key.png",
-      "dependencies": []
-    },
-    "media/version.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 88429,
-      "exportedPath": "media/version.png",
-      "dependencies": []
-    },
-    "media/virbr-output.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 14103,
-      "exportedPath": "media/virbr-output.png",
-      "dependencies": []
-    },
-    "media/virsh-net.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 8737,
-      "exportedPath": "media/virsh-net.png",
-      "dependencies": []
-    },
-    "media/virt-manager.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 15372,
-      "exportedPath": "media/virt-manager.png",
-      "dependencies": []
-    },
-    "media/vm-bridge.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 28728,
-      "exportedPath": "media/vm-bridge.png",
-      "dependencies": []
-    },
-    "media/vm-http.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 15156,
-      "exportedPath": "media/vm-http.png",
-      "dependencies": []
-    },
-    "media/vpn-gateway.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 76138,
-      "exportedPath": "media/vpn-gateway.png",
-      "dependencies": []
-    },
-    "media/vulnad.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 91229,
-      "exportedPath": "media/vulnad.png",
-      "dependencies": []
-    },
-    "media/windows-logs.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 57734,
-      "exportedPath": "media/windows-logs.png",
-      "dependencies": []
-    },
-    "media/xmas.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 61612,
-      "exportedPath": "media/xmas.png",
-      "dependencies": []
-    },
-    "media/zeek.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 33349,
-      "exportedPath": "media/zeek.png",
-      "dependencies": []
-    },
-    "media/zm.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 411744,
-      "exportedPath": "media/zm.png",
-      "dependencies": []
-    },
-    "microsoft/Active Directory/Active Directory - Attacks.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5023,
-      "exportedPath": "microsoft/active-directory/active-directory-attacks.html",
-      "dependencies": [
-        "lib/media/mimikatz.png",
-        "lib/media/wazuh-dcsync1.png",
-        "lib/media/wazuh-dcsync.png",
-        "lib/media/golden-ticket.png",
-        "lib/media/mimikatz-cmd.png",
-        "lib/media/cmd-detection.png",
-        "lib/media/mimikatz-cmd-spawn.png",
-        "lib/media/mimikatz-klist.png"
-      ]
-    },
     "microsoft/Active Directory/ID Tokens vs. Access Tokens.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 891,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 888,
       "exportedPath": "microsoft/active-directory/id-tokens-vs.-access-tokens.html",
-      "dependencies": []
-    },
-    "microsoft/AZ-Series/AZ-500 Identity and Access Management.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 210211,
-      "exportedPath": "microsoft/az-series/az-500-identity-and-access-management.html",
-      "dependencies": [
-        "lib/media/entra-id.png",
-        "lib/media/entra-id1.png",
-        "lib/media/entra-id3.png",
-        "lib/media/entra-id4.png",
-        "lib/media/entra-id6.png",
-        "lib/media/entra-id7.png",
-        "lib/media/entra-id8.png",
-        "lib/media/entra-id9.png",
-        "lib/media/entra-id10.png",
-        "lib/media/entra-id11.png",
-        "lib/media/entra-id12.png",
-        "lib/media/entra-id13.png",
-        "lib/media/entra-id14.png",
-        "lib/media/entra-id15.png",
-        "lib/media/entra-id16.png",
-        "lib/media/entra-id17.png",
-        "lib/media/entra-id18.png",
-        "lib/media/entra-id19.png",
-        "lib/media/entra-id20.png",
-        "lib/media/entra-id21.png",
-        "lib/media/entra-id22.png",
-        "lib/media/entra-id23.png",
-        "lib/media/mgmt-groups.png",
-        "lib/media/entra-id24.png",
-        "lib/media/entra-id25.png",
-        "lib/media/entra-id26.png",
-        "lib/media/entra-id27.png",
-        "lib/media/entra-id28.png",
-        "lib/media/entra-id29.png",
-        "lib/media/entra-id30.png",
-        "lib/media/entra-id31.png",
-        "lib/media/entra-id32.png",
-        "lib/media/entra-id33.png",
-        "lib/media/entra-id34.png",
-        "lib/media/entra-id35.png",
-        "lib/media/entra-id38.png",
-        "lib/media/entra-id37.png",
-        "lib/media/entra-id38.png",
-        "lib/media/entra-id39.png",
-        "lib/media/entra-id40.png",
-        "lib/media/entra-id41.png",
-        "lib/media/entra-id42.png",
-        "lib/media/entra-id43.png",
-        "lib/media/entra-id44.png",
-        "lib/media/entra-id45.png"
-      ]
-    },
-    "microsoft/AZ-Series/AZ-500 Plan and implement security.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1726,
-      "exportedPath": "microsoft/az-series/az-500-plan-and-implement-security.html",
-      "dependencies": [
-        "lib/media/azure.png"
-      ]
-    },
-    "microsoft/AZ-Series/AZ-500 Secure Networking.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 47340,
-      "exportedPath": "microsoft/az-series/az-500-secure-networking.html",
-      "dependencies": [
-        "lib/media/entra-id.png",
-        "lib/media/asg.png",
-        "lib/media/azure1.png",
-        "lib/media/azure2-1.png",
-        "lib/media/azure3.png",
-        "lib/media/azure4.png",
-        "lib/media/azure5.png",
-        "lib/media/azure6.png",
-        "lib/media/azure7.png",
-        "lib/media/azure8.png",
-        "lib/media/azure9.png",
-        "lib/media/azure10.png"
-      ]
-    },
-    "microsoft/AZ-Series/Describe Azure management infrastructure.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2211,
-      "exportedPath": "microsoft/az-series/describe-azure-management-infrastructure.html",
-      "dependencies": []
-    },
-    "microsoft/AZ-Series/Describe Azure physical infrastructure.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1893,
-      "exportedPath": "microsoft/az-series/describe-azure-physical-infrastructure.html",
-      "dependencies": []
-    },
-    "microsoft/AZ-Series/Microsoft Azure AZ-900.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 3510,
-      "exportedPath": "microsoft/az-series/microsoft-azure-az-900.html",
-      "dependencies": [
-        "lib/media/az-900.png"
-      ]
-    },
-    "microsoft/AZ-Series/Microsoft Enterprise Access Model.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 8454,
-      "exportedPath": "microsoft/az-series/microsoft-enterprise-access-model.html",
       "dependencies": []
     },
     "microsoft/img/az-900.png": {
@@ -2962,8 +2012,8 @@
       "dependencies": []
     },
     "networking/RESTFUL API.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 5599,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 5610,
       "exportedPath": "networking/restful-api.html",
       "dependencies": []
     },
@@ -3267,54 +2317,6 @@
       "exportedPath": "resources/youtube-channels.html",
       "dependencies": []
     },
-    "wip/Browsermon.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 97,
-      "exportedPath": "wip/browsermon.html",
-      "dependencies": []
-    },
-    "wip/Checking File Hashes.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 4252,
-      "exportedPath": "wip/checking-file-hashes.html",
-      "dependencies": []
-    },
-    "wip/Elastic Detection Rules.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 42,
-      "exportedPath": "wip/elastic-detection-rules.html",
-      "dependencies": []
-    },
-    "wip/LLM Inspect.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 161,
-      "exportedPath": "wip/llm-inspect.html",
-      "dependencies": []
-    },
-    "wip/Masquerading Attempts as Native Windows Binaries.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 132,
-      "exportedPath": "wip/masquerading-attempts-as-native-windows-binaries.html",
-      "dependencies": []
-    },
-    "wip/Microsoft Training.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 148,
-      "exportedPath": "wip/microsoft-training.html",
-      "dependencies": []
-    },
-    "wip/Reverse Engineering Tools.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 215,
-      "exportedPath": "wip/reverse-engineering-tools.html",
-      "dependencies": []
-    },
-    "wip/What are IMPHASHES and How can you calculate them.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 0,
-      "exportedPath": "wip/what-are-imphashes-and-how-can-you-calculate-them.html",
-      "dependencies": []
-    },
     "Music.md": {
       "modifiedTime": 1729658711433,
       "sourceSize": 808,
@@ -3337,30 +2339,6 @@
       "exportedPath": "terms-and-conditions.html",
       "dependencies": []
     },
-    "lib/media/int-graph1.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 91630,
-      "exportedPath": "lib/media/int-graph1.png",
-      "dependencies": []
-    },
-    "lib/media/test-page.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 39946,
-      "exportedPath": "lib/media/test-page.png",
-      "dependencies": []
-    },
-    "lib/media/search-bar.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 10451,
-      "exportedPath": "lib/media/search-bar.png",
-      "dependencies": []
-    },
-    "lib/media/hash-tag.png": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 77247,
-      "exportedPath": "lib/media/hash-tag.png",
-      "dependencies": []
-    },
     "lib/media/canvas-demo-2024-10-06_22.16.mp4": {
       "modifiedTime": 1729658711433,
       "sourceSize": 17715439,
@@ -3368,13 +2346,13 @@
       "dependencies": []
     },
     "lib/media/agile-canvas.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 100144,
       "exportedPath": "lib/media/agile-canvas.png",
       "dependencies": []
     },
     "lib/media/demo-pipeline.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 48688,
       "exportedPath": "lib/media/demo-pipeline.png",
       "dependencies": []
@@ -3386,7 +2364,7 @@
       "dependencies": []
     },
     "lib/media/entra-id40.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 76082,
       "exportedPath": "lib/media/entra-id40.png",
       "dependencies": []
@@ -3440,19 +2418,19 @@
       "dependencies": []
     },
     "lib/media/zeek.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 33349,
       "exportedPath": "lib/media/zeek.png",
       "dependencies": []
     },
     "lib/media/kibana.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 30266,
       "exportedPath": "lib/media/kibana.png",
       "dependencies": []
     },
     "lib/media/semantic_search.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 50008,
       "exportedPath": "lib/media/semantic_search.png",
       "dependencies": []
@@ -3482,403 +2460,397 @@
       "dependencies": []
     },
     "lib/media/ms-certs.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 94174,
       "exportedPath": "lib/media/ms-certs.png",
       "dependencies": []
     },
     "lib/media/aws-training.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 109566,
       "exportedPath": "lib/media/aws-training.png",
       "dependencies": []
     },
-    "lib/media/wazuh-test.mp4": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 42682694,
-      "exportedPath": "lib/media/wazuh-test.mp4",
-      "dependencies": []
-    },
     "lib/media/mimikatz.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 143474,
       "exportedPath": "lib/media/mimikatz.png",
       "dependencies": []
     },
     "lib/media/wazuh-dcsync1.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 22797,
       "exportedPath": "lib/media/wazuh-dcsync1.png",
       "dependencies": []
     },
     "lib/media/wazuh-dcsync.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 60623,
       "exportedPath": "lib/media/wazuh-dcsync.png",
       "dependencies": []
     },
     "lib/media/golden-ticket.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 49232,
       "exportedPath": "lib/media/golden-ticket.png",
       "dependencies": []
     },
     "lib/media/mimikatz-cmd.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 26882,
       "exportedPath": "lib/media/mimikatz-cmd.png",
       "dependencies": []
     },
     "lib/media/cmd-detection.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 5853,
       "exportedPath": "lib/media/cmd-detection.png",
       "dependencies": []
     },
     "lib/media/mimikatz-cmd-spawn.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 99027,
       "exportedPath": "lib/media/mimikatz-cmd-spawn.png",
       "dependencies": []
     },
     "lib/media/mimikatz-klist.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 29588,
       "exportedPath": "lib/media/mimikatz-klist.png",
       "dependencies": []
     },
     "lib/media/entra-id.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 181818,
       "exportedPath": "lib/media/entra-id.png",
       "dependencies": []
     },
     "lib/media/entra-id1.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 172830,
       "exportedPath": "lib/media/entra-id1.png",
       "dependencies": []
     },
     "lib/media/entra-id3.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 153484,
       "exportedPath": "lib/media/entra-id3.png",
       "dependencies": []
     },
     "lib/media/entra-id4.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 175695,
       "exportedPath": "lib/media/entra-id4.png",
       "dependencies": []
     },
     "lib/media/entra-id6.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 129747,
       "exportedPath": "lib/media/entra-id6.png",
       "dependencies": []
     },
     "lib/media/entra-id7.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 97823,
       "exportedPath": "lib/media/entra-id7.png",
       "dependencies": []
     },
     "lib/media/entra-id8.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 56082,
       "exportedPath": "lib/media/entra-id8.png",
       "dependencies": []
     },
     "lib/media/entra-id9.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 21160,
       "exportedPath": "lib/media/entra-id9.png",
       "dependencies": []
     },
     "lib/media/entra-id10.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 47130,
       "exportedPath": "lib/media/entra-id10.png",
       "dependencies": []
     },
     "lib/media/entra-id11.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 36210,
       "exportedPath": "lib/media/entra-id11.png",
       "dependencies": []
     },
     "lib/media/entra-id12.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 46493,
       "exportedPath": "lib/media/entra-id12.png",
       "dependencies": []
     },
     "lib/media/entra-id13.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 61861,
       "exportedPath": "lib/media/entra-id13.png",
       "dependencies": []
     },
     "lib/media/entra-id14.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 29376,
       "exportedPath": "lib/media/entra-id14.png",
       "dependencies": []
     },
     "lib/media/entra-id15.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 5449,
       "exportedPath": "lib/media/entra-id15.png",
       "dependencies": []
     },
     "lib/media/entra-id16.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 20828,
       "exportedPath": "lib/media/entra-id16.png",
       "dependencies": []
     },
     "lib/media/entra-id17.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 23164,
       "exportedPath": "lib/media/entra-id17.png",
       "dependencies": []
     },
     "lib/media/entra-id18.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 54767,
       "exportedPath": "lib/media/entra-id18.png",
       "dependencies": []
     },
     "lib/media/entra-id19.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 170801,
       "exportedPath": "lib/media/entra-id19.png",
       "dependencies": []
     },
     "lib/media/entra-id20.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 93554,
       "exportedPath": "lib/media/entra-id20.png",
       "dependencies": []
     },
     "lib/media/entra-id21.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 73200,
       "exportedPath": "lib/media/entra-id21.png",
       "dependencies": []
     },
     "lib/media/entra-id22.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 24974,
       "exportedPath": "lib/media/entra-id22.png",
       "dependencies": []
     },
     "lib/media/entra-id23.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 84906,
       "exportedPath": "lib/media/entra-id23.png",
       "dependencies": []
     },
     "lib/media/mgmt-groups.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 44279,
       "exportedPath": "lib/media/mgmt-groups.png",
       "dependencies": []
     },
     "lib/media/entra-id24.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 15022,
       "exportedPath": "lib/media/entra-id24.png",
       "dependencies": []
     },
     "lib/media/entra-id25.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 44451,
       "exportedPath": "lib/media/entra-id25.png",
       "dependencies": []
     },
     "lib/media/entra-id26.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 21805,
       "exportedPath": "lib/media/entra-id26.png",
       "dependencies": []
     },
     "lib/media/entra-id27.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 64993,
       "exportedPath": "lib/media/entra-id27.png",
       "dependencies": []
     },
     "lib/media/entra-id28.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 39231,
       "exportedPath": "lib/media/entra-id28.png",
       "dependencies": []
     },
     "lib/media/entra-id29.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 29340,
       "exportedPath": "lib/media/entra-id29.png",
       "dependencies": []
     },
     "lib/media/entra-id30.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 58963,
       "exportedPath": "lib/media/entra-id30.png",
       "dependencies": []
     },
     "lib/media/entra-id31.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 93955,
       "exportedPath": "lib/media/entra-id31.png",
       "dependencies": []
     },
     "lib/media/entra-id32.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 71700,
       "exportedPath": "lib/media/entra-id32.png",
       "dependencies": []
     },
     "lib/media/entra-id33.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 163119,
       "exportedPath": "lib/media/entra-id33.png",
       "dependencies": []
     },
     "lib/media/entra-id34.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 13202,
       "exportedPath": "lib/media/entra-id34.png",
       "dependencies": []
     },
     "lib/media/entra-id35.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 19100,
       "exportedPath": "lib/media/entra-id35.png",
       "dependencies": []
     },
     "lib/media/entra-id38.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 52205,
       "exportedPath": "lib/media/entra-id38.png",
       "dependencies": []
     },
     "lib/media/entra-id37.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 161210,
       "exportedPath": "lib/media/entra-id37.png",
       "dependencies": []
     },
     "lib/media/entra-id39.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 197322,
       "exportedPath": "lib/media/entra-id39.png",
       "dependencies": []
     },
     "lib/media/entra-id41.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 132171,
       "exportedPath": "lib/media/entra-id41.png",
       "dependencies": []
     },
     "lib/media/entra-id42.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 176363,
       "exportedPath": "lib/media/entra-id42.png",
       "dependencies": []
     },
     "lib/media/entra-id43.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 137646,
       "exportedPath": "lib/media/entra-id43.png",
       "dependencies": []
     },
     "lib/media/entra-id44.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 62091,
       "exportedPath": "lib/media/entra-id44.png",
       "dependencies": []
     },
     "lib/media/entra-id45.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 49030,
       "exportedPath": "lib/media/entra-id45.png",
       "dependencies": []
     },
     "lib/media/azure.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 237794,
       "exportedPath": "lib/media/azure.png",
       "dependencies": []
     },
     "lib/media/asg.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 25247,
       "exportedPath": "lib/media/asg.png",
       "dependencies": []
     },
     "lib/media/azure1.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 48079,
       "exportedPath": "lib/media/azure1.png",
       "dependencies": []
     },
     "lib/media/azure2-1.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 78611,
       "exportedPath": "lib/media/azure2-1.png",
       "dependencies": []
     },
     "lib/media/azure3.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 76138,
       "exportedPath": "lib/media/azure3.png",
       "dependencies": []
     },
     "lib/media/azure4.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 52017,
       "exportedPath": "lib/media/azure4.png",
       "dependencies": []
     },
     "lib/media/azure5.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 96385,
       "exportedPath": "lib/media/azure5.png",
       "dependencies": []
     },
     "lib/media/azure6.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 34108,
       "exportedPath": "lib/media/azure6.png",
       "dependencies": []
     },
     "lib/media/azure7.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 197389,
       "exportedPath": "lib/media/azure7.png",
       "dependencies": []
     },
     "lib/media/azure8.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 213293,
       "exportedPath": "lib/media/azure8.png",
       "dependencies": []
     },
     "lib/media/azure9.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 165790,
       "exportedPath": "lib/media/azure9.png",
       "dependencies": []
     },
     "lib/media/azure10.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 136484,
       "exportedPath": "lib/media/azure10.png",
       "dependencies": []
     },
     "lib/media/az-900.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 56874,
       "exportedPath": "lib/media/az-900.png",
       "dependencies": []
@@ -4106,19 +3078,13 @@
       "dependencies": []
     },
     "Chris Adams Cyber Garden.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 7894,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 8106,
       "exportedPath": "chris-adams-cyber-garden.html",
       "dependencies": [
         "about/img/app-logos.png",
         "media/simple-logo.png"
       ]
-    },
-    "kanban/Website Updates.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 269,
-      "exportedPath": "kanban/website-updates.html",
-      "dependencies": []
     },
     "media/ghibli-coffee.png": {
       "modifiedTime": 1729658711433,
@@ -4138,54 +3104,6 @@
       "exportedPath": "media/seven-beats.png",
       "dependencies": []
     },
-    "cloud-automation-virtualization/AWS/Amazon Inspector.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 456,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-inspector.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Amazon Polly.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 96,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-polly.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Amazon Rekognition.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 345,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-rekognition.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Amazon Transcribe.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 403,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-transcribe.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Certificate Manager (ACM).md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 284,
-      "exportedPath": "cloud-automation-virtualization/aws/certificate-manager-(acm).html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Cloud Integrations.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 283,
-      "exportedPath": "cloud-automation-virtualization/aws/cloud-integrations.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/CloudWatch.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 173,
-      "exportedPath": "cloud-automation-virtualization/aws/cloudwatch.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Global Infrastructure.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2844,
-      "exportedPath": "cloud-automation-virtualization/aws/global-infrastructure.html",
-      "dependencies": []
-    },
     "github-labs-and-resources/Tools.md": {
       "modifiedTime": 1729658711433,
       "sourceSize": 191,
@@ -4193,13 +3111,13 @@
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 273513,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 29047,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 355,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -4216,84 +3134,10 @@
       "exportedPath": "cloud-automation-virtualization/aws/aws_img/aws-training.png",
       "dependencies": []
     },
-    "cloud-automation-virtualization/AWS/Amazon Comprehend.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 392,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-comprehend.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Amazon Kendra.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 308,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-kendra.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Amazon SageMaker.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 171,
-      "exportedPath": "cloud-automation-virtualization/aws/amazon-sagemaker.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS - Firewall Manager.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 247,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-firewall-manager.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS - Network Firewall.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 229,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-network-firewall.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS - Penetration Testing.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 655,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-penetration-testing.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS Encryption with KMS & CloudHSM.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 775,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-encryption-with-kms-&-cloudhsm.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS Route 53.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2049,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-route-53.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/AWS Shield.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 718,
-      "exportedPath": "cloud-automation-virtualization/aws/aws-shield.html",
-      "dependencies": []
-    },
-    "cloud-automation-virtualization/AWS/Databases & Analytics 1.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2596,
-      "exportedPath": "cloud-automation-virtualization/aws/databases-&-analytics-1.html",
-      "dependencies": []
-    },
     "in-progress-certs/HTB - Cyber Defense Analyst.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1307,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1338,
       "exportedPath": "in-progress-certs/htb-cyber-defense-analyst.html",
-      "dependencies": []
-    },
-    "microsoft/AZ-Series/AZ-500.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 2439,
-      "exportedPath": "microsoft/az-series/az-500.html",
-      "dependencies": [
-        "lib/media/az-500.png"
-      ]
-    },
-    "microsoft/AZ-Series/AZ-500 - Secure Networking.canvas": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 14731,
-      "exportedPath": "microsoft/az-series/az-500-secure-networking.html",
       "dependencies": []
     },
     "microsoft/img/az-500.png": {
@@ -4315,8 +3159,8 @@
       "dependencies": []
     },
     "Tech Tasks.md": {
-      "modifiedTime": 1729658711433,
-      "sourceSize": 1314,
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1310,
       "exportedPath": "tech-tasks.html",
       "dependencies": []
     },
@@ -4327,9 +3171,334 @@
       "dependencies": []
     },
     "lib/media/az-500.png": {
-      "modifiedTime": 1729658711433,
+      "modifiedTime": 1729695346039,
       "sourceSize": 21649,
       "exportedPath": "lib/media/az-500.png",
+      "dependencies": []
+    },
+    "canvas-pages/AZ-500 - Secure Networking.canvas": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 11941,
+      "exportedPath": "canvas-pages/az-500-secure-networking.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Comprehend.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 510,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-comprehend.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Inspector.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 613,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-inspector.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Kendra.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 461,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-kendra.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Polly.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 219,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-polly.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Rekognition.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 508,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-rekognition.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon S3.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 5353,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-s3.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon SageMaker.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 301,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-sagemaker.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Amazon Transcribe.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 521,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/amazon-transcribe.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Cloud Practitioner.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2047,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-cloud-practitioner.html",
+      "dependencies": [
+        "lib/media/aws-training.png",
+        "lib/media/aws-certified-cloud-practitioner_exam-guide.pdf"
+      ]
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Firewall Manager.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 352,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-firewall-manager.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Network Firewall.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 302,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-network-firewall.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS - Penetration Testing.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 766,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-penetration-testing.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS CodePipeline.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1349,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-codepipeline.html",
+      "dependencies": [
+        "lib/media/demo-pipeline.png"
+      ]
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS Encryption with KMS & CloudHSM.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 842,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-encryption-with-kms-&-cloudhsm.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS Route 53.canvas": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1798,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-route-53.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/AWS Shield.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 785,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/aws-shield.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Becoming a Cloud Practitioner - Part 1.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 661,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/becoming-a-cloud-practitioner-part-1.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Certificate Manager (ACM).md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 351,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/certificate-manager-(acm).html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Cloud Integrations.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 349,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/cloud-integrations.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/CloudWatch.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 240,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/cloudwatch.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Course Content Info.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 97,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/course-content-info.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Databases & Analytics.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1124,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/databases-&-analytics.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Databases & Analytics 1.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2690,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/databases-&-analytics-1.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 3328,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/elb-&-asg-elastic-load-balancing-&-auto-scaling-groups.html",
+      "dependencies": []
+    },
+    "cloud-automation-virtualization/AWS/AWS - Cloud Practitioner/Global Infrastructure.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2930,
+      "exportedPath": "cloud-automation-virtualization/aws/aws-cloud-practitioner/global-infrastructure.html",
+      "dependencies": []
+    },
+    "microsoft/Active Directory/AZ-Series/AZ-500.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2439,
+      "exportedPath": "microsoft/active-directory/az-series/az-500.html",
+      "dependencies": [
+        "lib/media/az-500.png"
+      ]
+    },
+    "microsoft/Active Directory/AZ-Series/AZ-500 - Secure Networking.canvas": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 11941,
+      "exportedPath": "microsoft/active-directory/az-series/az-500-secure-networking.html",
+      "dependencies": []
+    },
+    "microsoft/Active Directory/AZ-Series/AZ-500 Identity and Access Management.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 210211,
+      "exportedPath": "microsoft/active-directory/az-series/az-500-identity-and-access-management.html",
+      "dependencies": [
+        "lib/media/entra-id.png",
+        "lib/media/entra-id1.png",
+        "lib/media/entra-id3.png",
+        "lib/media/entra-id4.png",
+        "lib/media/entra-id6.png",
+        "lib/media/entra-id7.png",
+        "lib/media/entra-id8.png",
+        "lib/media/entra-id9.png",
+        "lib/media/entra-id10.png",
+        "lib/media/entra-id11.png",
+        "lib/media/entra-id12.png",
+        "lib/media/entra-id13.png",
+        "lib/media/entra-id14.png",
+        "lib/media/entra-id15.png",
+        "lib/media/entra-id16.png",
+        "lib/media/entra-id17.png",
+        "lib/media/entra-id18.png",
+        "lib/media/entra-id19.png",
+        "lib/media/entra-id20.png",
+        "lib/media/entra-id21.png",
+        "lib/media/entra-id22.png",
+        "lib/media/entra-id23.png",
+        "lib/media/mgmt-groups.png",
+        "lib/media/entra-id24.png",
+        "lib/media/entra-id25.png",
+        "lib/media/entra-id26.png",
+        "lib/media/entra-id27.png",
+        "lib/media/entra-id28.png",
+        "lib/media/entra-id29.png",
+        "lib/media/entra-id30.png",
+        "lib/media/entra-id31.png",
+        "lib/media/entra-id32.png",
+        "lib/media/entra-id33.png",
+        "lib/media/entra-id34.png",
+        "lib/media/entra-id35.png",
+        "lib/media/entra-id38.png",
+        "lib/media/entra-id37.png",
+        "lib/media/entra-id38.png",
+        "lib/media/entra-id39.png",
+        "lib/media/entra-id40.png",
+        "lib/media/entra-id41.png",
+        "lib/media/entra-id42.png",
+        "lib/media/entra-id43.png",
+        "lib/media/entra-id44.png",
+        "lib/media/entra-id45.png"
+      ]
+    },
+    "microsoft/Active Directory/AZ-Series/AZ-500 Plan and implement security.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1726,
+      "exportedPath": "microsoft/active-directory/az-series/az-500-plan-and-implement-security.html",
+      "dependencies": [
+        "lib/media/azure.png"
+      ]
+    },
+    "microsoft/Active Directory/AZ-Series/AZ-500 Secure Networking.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 47340,
+      "exportedPath": "microsoft/active-directory/az-series/az-500-secure-networking.html",
+      "dependencies": [
+        "lib/media/entra-id.png",
+        "lib/media/asg.png",
+        "lib/media/azure1.png",
+        "lib/media/azure2-1.png",
+        "lib/media/azure3.png",
+        "lib/media/azure4.png",
+        "lib/media/azure5.png",
+        "lib/media/azure6.png",
+        "lib/media/azure7.png",
+        "lib/media/azure8.png",
+        "lib/media/azure9.png",
+        "lib/media/azure10.png"
+      ]
+    },
+    "microsoft/Active Directory/AZ-Series/Describe Azure management infrastructure.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 2211,
+      "exportedPath": "microsoft/active-directory/az-series/describe-azure-management-infrastructure.html",
+      "dependencies": []
+    },
+    "microsoft/Active Directory/AZ-Series/Describe Azure physical infrastructure.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 1893,
+      "exportedPath": "microsoft/active-directory/az-series/describe-azure-physical-infrastructure.html",
+      "dependencies": []
+    },
+    "microsoft/Active Directory/AZ-Series/Microsoft Azure AZ-900.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 3510,
+      "exportedPath": "microsoft/active-directory/az-series/microsoft-azure-az-900.html",
+      "dependencies": [
+        "lib/media/az-900.png"
+      ]
+    },
+    "microsoft/Active Directory/AZ-Series/Microsoft Enterprise Access Model.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 8454,
+      "exportedPath": "microsoft/active-directory/az-series/microsoft-enterprise-access-model.html",
+      "dependencies": []
+    },
+    "microsoft/Active Directory/Microsoft Training.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 148,
+      "exportedPath": "microsoft/active-directory/microsoft-training.html",
+      "dependencies": []
+    },
+    "projects/Active Directory - Attacks.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 5023,
+      "exportedPath": "projects/active-directory-attacks.html",
+      "dependencies": [
+        "lib/media/mimikatz.png",
+        "lib/media/wazuh-dcsync1.png",
+        "lib/media/wazuh-dcsync.png",
+        "lib/media/golden-ticket.png",
+        "lib/media/mimikatz-cmd.png",
+        "lib/media/cmd-detection.png",
+        "lib/media/mimikatz-cmd-spawn.png",
+        "lib/media/mimikatz-klist.png"
+      ]
+    },
+    "Create a template in Obsidian.md": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 42,
+      "exportedPath": "create-a-template-in-obsidian.html",
+      "dependencies": []
+    },
+    "lib/media/aws-certified-cloud-practitioner_exam-guide.pdf": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 177242,
+      "exportedPath": "lib/media/aws-certified-cloud-practitioner_exam-guide.pdf",
+      "dependencies": []
+    },
+    "lib/media/favicon.jpg": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 223028,
+      "exportedPath": "lib/media/favicon.jpg",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1729695346039,
+      "sourceSize": 3162,
+      "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     }
   }
